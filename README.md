@@ -21,8 +21,7 @@
 (虚位以待)
 
 ### 实验开源项目:
-- [基于Spring Boot的进销存演示](https://github.com/nobodxbodon/jinxiaocun), 用中文命名Java类/变量/方法,数据库中的表格/列.
-- (筹备)[中文汇编编译器](https://git.oschina.net/zhishi/assembler-in-chinese-v0), 在Java代码中用中文命名类/变量/方法
+[Java](../../../Java#%E5%AE%9E%E9%AA%8C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 
 ### 中文开发常见技术问题
 - 频繁切换中英文: 为了在输入中文的同时不用切换就可以输入特殊符号(){};等等, 搜狗输入法支持"中文时使用英文标点"
