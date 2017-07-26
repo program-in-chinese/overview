@@ -1,6 +1,6 @@
 public class 大家好 {
 
-  public static void main(String[] args) {
+  public static void main(String[] 参数) {
     打印("大家好");
   }
 
