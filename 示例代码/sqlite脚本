@@ -1,0 +1,8 @@
+# 创建表格
+CREATE TABLE `古人` ( `姓名` TEXT, `出生年` INTEGER )
+
+# 添数据
+insert into 古人 values ('小灰', 1333)
+
+# 查询
+select 出生年 from 古人 where 姓名='小黑'
