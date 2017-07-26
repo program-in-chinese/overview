@@ -18,7 +18,10 @@
 | 待考证 | [标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
 
 ### 实用开源项目:
-(虚位以待)
+
+| 英文关键词语言 | 中文关键词语言 | 
+| ------------- | ------------- |
+| (虚位以待) | [易语言](http://www.5a5x.com/wode_source/etrade/) |
 
 ### 实验开源项目:
 [Java](../../../Java#%E5%AE%9E%E9%AA%8C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
