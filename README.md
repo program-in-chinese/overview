@@ -1,7 +1,9 @@
+**注: 本文中的主流编程语言的中文代码示例链接只有通过[原址](https://github.com/program-in-chinese/overview)才能访问.**
+
 ## 使用中文编写代码
 
 大胆假设:以中文为母语的所有程序员,从事的项目中,90%是单人项目(*),剩下的10%中,90%只有同样是中文为母语的程序员参与.这样,只有1%的项目有用英文写代码的硬性需要.为了这1%的需要,而在剩下的99%中使用英文,得不偿失.
-欢迎[畅所欲言](../../issues/new).
+欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues).
 
 ### 关键词为英文的编程语言对中文代码的支持
 
@@ -17,17 +19,14 @@
 | 实验 | 定义中文关键词：[iOS开发](https://github.com/uxyheaven/yi-ios)，[iOS中文编程](https://github.com/xueyongwei/ePlus), [Coffeescript](https://github.com/nobodxbodon/coffeescript) |
 | 待考证 | [标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
 
-### 实用开源项目:
+### 用中文代码编写的实用开源项目:
 
 | 英文关键词语言 | 中文关键词语言 | 
 | ------------- | ------------- |
 | (虚位以待) | [易语言](http://www.5a5x.com/wode_source/etrade/) |
 
-### 实验开源项目:
+### 用中文代码编写的实验开源项目:
 [Java](../../../Java#%E5%AE%9E%E9%AA%8C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
-
-### 中文开发常见技术问题
-- 频繁切换中英文: 为了在输入中文的同时不用切换就可以输入特殊符号(){};等等, 搜狗输入法支持"中文时使用英文标点"
 
 ### 质疑与回应
 (转载)[发展中文编程的意义：让大众化编程促进软件产业的建设](http://www.hystudio.net/726.html)已对很多质疑作出了[回应](http://www.hystudio.net/726.html#jieda)
@@ -60,6 +59,9 @@
 答: 没有数据表明纯英文代码阅读速度高于中英混杂的代码, 或者说基本不可能证明. 因为需要完全"相同含义"的代码进行对比, 还要保证命名同等恰当. 
 
 说到底就是是否相信母语是中文的程序员对中文的敏感程度高于对英文的. 本人在实践中越发坚信这一点. 如果不信而不尝试, 个人觉得不是理性之举.
+
+### 中文开发常见技术问题
+- 频繁切换中英文: 为了在输入中文的同时不用切换就可以输入特殊符号(){};等等, 搜狗输入法支持"中文时使用英文标点"
 
 ##### *根据[Fun with GitHub repositories statistics](https://blog.sourced.tech/post/github_stats/), github上的1-contributor repository大约是60%. 当然还有很多项目没有开源. 上面的90%仍然是假设.
 
