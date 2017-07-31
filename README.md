@@ -20,14 +20,11 @@
 | 实验 | 定义中文关键词：[iOS开发](https://github.com/uxyheaven/yi-ios)，[iOS中文编程](https://github.com/xueyongwei/ePlus), [Coffeescript](https://github.com/nobodxbodon/coffeescript) |
 | 待考证 | [标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
 
-### 用中文代码编写的实用开源项目:
+### 用中文代码编写的开源项目:
 
 | 英文关键词语言 | 中文关键词语言 | 
 | ------------- | ------------- |
-| (虚位以待) | [易语言](http://www.5a5x.com/wode_source/etrade/) |
-
-### 用中文代码编写的实验开源项目:
-[Java](../../../Java#%E5%AE%9E%E9%AA%8C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
+| 见各讨论区 | [易语言](http://www.5a5x.com/wode_source/etrade/), 按键精灵和TC也有类似代码分享网站 |
 
 ### 质疑与回应
 (转载)[发展中文编程的意义：让大众化编程促进软件产业的建设](http://www.hystudio.net/726.html)已对很多质疑作出了[回应](http://www.hystudio.net/726.html#jieda)
