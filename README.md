@@ -10,13 +10,13 @@
 
 [C](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.c), [C++](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E9%97%AE%E5%A5%BD.cpp), [Java](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), [JavaScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.js), [C#](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.cs), [PHP](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.php), [Python 3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.py), [Go](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.go), [Scala](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.scala), [FASM](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.asm), [Perl](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.pl), [Ruby](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.rb), [Common Lisp](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.lisp), [CoffeeScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.coffee), MySQL, [Sqlite3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/sqlite%E8%84%9A%E6%9C%AC), HTML/CSS
 
-上面仅为作者测试证实过的编程语言. 很大一部分尚未证实, 如: Object-C
+上面仅为作者测试证实过的编程语言. 很大一部分尚未证实, 如: Object-C, Swift
 
-### 关键词为中文的编程语言和开发环境
+### 关键词为中文的编程语言和开发环境(不分先后)
 
 | 实用 | [易语言](http://www.dywt.com.cn/)，[按键精灵](http://www.anjian.com/)，[TC简单程序开发](http://www1.tyuyan.net/)，[习语言](http://blog.163.com/xiyuyan@yeah/), [Z语言](http://www.zyuyan.org/) |
 | ------------- | ------------- |
-| 先驱 | [中蟒](http://www.chinesepython.org/) [周蟒](https://code.google.com/archive/p/zhpy/) |
+| 先驱 | [中蟒](http://www.chinesepython.org/) [周蟒](https://code.google.com/archive/p/zhpy/) [文言Perl](https://github.com/audreyt/lingua-sinica-perlyuyan) |
 | 实验 | 定义中文关键词：[iOS开发](https://github.com/uxyheaven/yi-ios)，[iOS中文编程](https://github.com/xueyongwei/ePlus), [Coffeescript](https://github.com/nobodxbodon/coffeescript) |
 | 待考证 | [标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
 
