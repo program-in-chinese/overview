@@ -3,38 +3,37 @@
 ## 使用中文编写代码
 
 大胆假设:以中文为母语的所有程序员,从事的项目中,90%是单人项目(*),剩下的10%中,90%只有同样是中文为母语的程序员参与.这样,只有1%的项目有用英文写代码的硬性需要.为了这1%的需要,而在剩下的99%中使用英文,得不偿失.
+
 欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues).
 
 ### 关键词为英文的编程语言对中文代码的支持
 
-| 支持(在[知乎回答](https://www.zhihu.com/question/26071216/answer/143429606)中引用) | [C](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.c), [C++](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E9%97%AE%E5%A5%BD.cpp), [Java](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), [JavaScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.js), [C#](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.cs), [PHP](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.php), [Python 3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.py), [Go](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.go), [Scala](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.scala), [FASM](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.asm), [Perl](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.pl), [Ruby](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.rb), [Common Lisp](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.lisp), [CoffeeScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.coffee), [Sqlite3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/sqlite%E8%84%9A%E6%9C%AC) |
-| ------------- | ------------- |
-| 不支持 | Python 2 |
+[C](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.c), [C++](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E9%97%AE%E5%A5%BD.cpp), [Java](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), [JavaScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.js), [C#](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.cs), [PHP](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.php), [Python 3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.py), [Go](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.go), [Scala](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.scala), [FASM](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.asm), [Perl](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.pl), [Ruby](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.rb), [Common Lisp](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.lisp), [CoffeeScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.coffee), MySQL, [Sqlite3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/sqlite%E8%84%9A%E6%9C%AC)
 
-### 关键词为中文的编程语言和开发环境
+上面仅为我们测试证实过的编程语言. 很大一部分很可能已经支持, 如: Object-C, Swift, OCaml, HTML/CSS
 
-| 实用 | [易语言](http://www.dywt.com.cn/)，[按键精灵](http://www.anjian.com/)，[TC简单程序开发](http://www1.tyuyan.net/)，[习语言](http://blog.163.com/xiyuyan@yeah/) |
+### 关键词为中文的编程语言和开发环境(不分先后)
+
+| 实用 | [易语言](http://www.dywt.com.cn/)，[按键精灵](http://www.anjian.com/)，[TC简单程序开发](http://www1.tyuyan.net/)，[习语言](http://blog.163.com/xiyuyan@yeah/), [Z语言](http://www.zyuyan.org/) |
 | ------------- | ------------- |
-| 先驱 | [中蟒](http://www.chinesepython.org/) [周蟒](https://code.google.com/archive/p/zhpy/) |
+| 先驱 | [中蟒](http://www.chinesepython.org/) [周蟒](https://code.google.com/archive/p/zhpy/) [文言Perl](https://github.com/audreyt/lingua-sinica-perlyuyan) |
 | 实验 | 定义中文关键词：[iOS开发](https://github.com/uxyheaven/yi-ios)，[iOS中文编程](https://github.com/xueyongwei/ePlus), [Coffeescript](https://github.com/nobodxbodon/coffeescript) |
 | 待考证 | [标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
 
-### 用中文代码编写的实用开源项目:
+### 用中文代码编写的开源项目:
 
 | 英文关键词语言 | 中文关键词语言 | 
 | ------------- | ------------- |
-| (虚位以待) | [易语言](http://www.5a5x.com/wode_source/etrade/) |
-
-### 用中文代码编写的实验开源项目:
-[Java](../../../Java#%E5%AE%9E%E9%AA%8C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
+| 见各讨论区 | [易语言](http://www.5a5x.com/wode_source/etrade/), 按键精灵和TC也有类似代码分享网站 |
 
 ### 质疑与回应
 (转载)[发展中文编程的意义：让大众化编程促进软件产业的建设](http://www.hystudio.net/726.html)已对很多质疑作出了[回应](http://www.hystudio.net/726.html#jieda)
 
-有一部分质疑同样适用于英文代码, 比如"从命名看不出类型", "命名可以很烂很二"等等, 就不一一回应了.
+有一部分质疑同样适用于英文代码, 比如"从命名看不出类型", "命名可能词不达意"等等, 另外还有未经证实的"中文代码导致的未知错误", 就不一一回应了.
 
 - **绝大多数API, 包括标准库都是英文的**
-答: 没错, 但在代码中, 自己定义的类/方法/变量占的篇幅一般都不少于依赖库(包括标准库)的方法/类所占篇幅, 欢迎提供具体统计数据. 可以看看[这里](https://git.oschina.net/zhishi/assembler-in-chinese-v0/blob/master/src/cn/org/assembler/%E6%B1%87%E7%BC%96%E5%99%A8%E7%B1%BB.java)的中英文比例. 因此, 中文命名带来的代码改变是一目了然的.
+
+答: 没错, 但在代码中, 自己定义的类/方法/变量占的篇幅一般都不少于依赖库(包括标准库)的方法/类所占篇幅, 欢迎提供具体统计数据. 可以看看[这里](https://git.oschina.net/zhishi/assembler-in-chinese-v0/blob/master/src/cn/org/assembler/%E6%B1%87%E7%BC%96%E5%99%A8%E7%B1%BB.java)的中英文代码篇幅的比例. 因此, 中文命名带来的代码改变是一目了然的.
 
 - **如果关键词还是英文, 用中文命名就没有意义**
 
@@ -42,9 +41,7 @@
 
 - **中文输入太慢, 降低开发效率**
 
-答: 首先, 单纯说写代码的速度, 如果考虑推敲命名的时间, 对母语是中文的程序员, 中文命名应该比能够更恰当, 哪个更快还不一定. 其次, 鉴于开发过程在整个软件生存周期中只占一小部分, 其他的部分(设计,调试,测试,维护)从良好的可读性获取的利远大于开发效率可能降低的弊.
-
-短期内,使用支持中英文混输的输入法能够减轻负担. 
+答: 首先, 如果考虑推敲命名的时间, 对母语是中文的程序员, 中文命名应该比能够更恰当更快, 综合各种因素哪种方式写代码更快还待实践证实. 其次, 鉴于开发过程在整个软件生存周期中只占一小部分, 其他的部分(设计,调试,测试,维护)从良好的可读性获取的利远大于开发效率可能降低的弊.
 
 - **会有各种汉字编码问题导致乱码**
 
@@ -56,9 +53,9 @@
 
 - **中英混杂着更难看懂**
 
-答: 没有数据表明纯英文代码阅读速度高于中英混杂的代码, 或者说基本不可能证明. 因为需要完全"相同含义"的代码进行对比, 还要保证命名同等恰当. 
+答: 没有数据表明纯英文代码阅读速度高于中英混杂的代码, 或者说基本不可能证明. 因为需要完全"相同含义"的代码进行对比, 还要保证命名同等"恰当". 
 
-说到底就是是否相信母语是中文的程序员对中文的敏感程度高于对英文的. 本人在实践中越发坚信这一点. 如果不信而不尝试, 个人觉得不是理性之举.
+程序员对母语的敏感程度终归高于对外语的. 本人在实践中越发坚信这一点.
 
 ### 中文开发常见技术问题
 - 频繁切换中英文: 为了在输入中文的同时不用切换就可以输入特殊符号(){};等等, 搜狗输入法支持"中文时使用英文标点"
