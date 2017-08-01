@@ -6,9 +6,9 @@
 
 欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues).
 
-### 关键词为英文的编程语言对中文代码的支持
+### 关键词为英文的编程语言对中文代码的支持(字母排序)
 
-[C](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.c), [C++](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E9%97%AE%E5%A5%BD.cpp), [Java](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), [JavaScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.js), [C#](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.cs), [PHP](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.php), [Python 3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.py), [Go](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.go), [Scala](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.scala), [FASM](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.asm), [Perl](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.pl), [Ruby](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.rb), [Common Lisp](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.lisp), [CoffeeScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.coffee), MySQL, [Sqlite3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/sqlite%E8%84%9A%E6%9C%AC), [Haskell](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/Haskell%E7%A4%BA%E4%BE%8B.hs), [Kotlin](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.kt)
+[C](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.c), [C++](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E9%97%AE%E5%A5%BD.cpp), [C#](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.cs), [CoffeeScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.coffee), [Common Lisp](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.lisp), [FASM](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.asm), [Go](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.go), [Haskell](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/Haskell%E7%A4%BA%E4%BE%8B.hs), [Java](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E5%A4%A7%E5%AE%B6%E5%A5%BD.java), [JavaScript](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.js), [Kotlin](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E4%BD%A0%E5%A5%BD.kt), MySQL, [Perl](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.pl), [PHP](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.php), [Python 3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.py), [Ruby](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.rb), [Scala](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91.scala), [Sqlite3](%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81/sqlite%E8%84%9A%E6%9C%AC)
 
 上面仅为我们测试证实过的编程语言. 很大一部分很可能已经支持, 如: Object-C, Swift, OCaml, HTML/CSS
 
@@ -24,7 +24,7 @@
 
 | 英文关键词语言 | 中文关键词语言 | 
 | ------------- | ------------- |
-| 见各讨论区 | [易语言](http://www.5a5x.com/wode_source/etrade/), 按键精灵和TC也有类似代码分享网站 |
+| 详见各区(字母排序): [Java](../../../Java) [JavaScript](../../../JavaScript) [Python](../../../Python)  | [易语言](http://www.5a5x.com/wode_source/etrade/), 按键精灵和TC也有类似代码分享网站 |
 
 ### 质疑与回应
 (转载)[发展中文编程的意义：让大众化编程促进软件产业的建设](http://www.hystudio.net/726.html)已对很多质疑作出了[回应](http://www.hystudio.net/726.html#jieda)
