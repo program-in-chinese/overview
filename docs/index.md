@@ -1,5 +1,5 @@
 ## 讨论区
-[综合讨论](https://github.com/program-in-chinese/overview/issues) [Java](https://github.com/program-in-chinese/Java) [JavaScript](https://github.com/program-in-chinese/JavaScript) [Python](https://github.com/program-in-chinese/Python) 欢迎创建新区
+[综合讨论](https://github.com/program-in-chinese/overview/issues) [Java](https://github.com/program-in-chinese/Java) [JavaScript](https://github.com/program-in-chinese/JavaScript) [Python](https://github.com/program-in-chinese/Python) [.Net](https://github.com/program-in-chinese/.Net) 欢迎参考已有区创建新区
 
 ## 讨论组周报
 
