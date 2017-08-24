@@ -22,3 +22,9 @@
 - 新讨论点: [跨界: 哪些中文非IT领域会偏好中文API, 编程/脚本语言?](https://github.com/program-in-chinese/overview/issues/19)
 - 起草社区守则, 贡献指南, 主页.
 - [JUnit4_in_chinese](https://github.com/program-in-chinese/junit4_in_chinese)开始合作开发; 开展实验项目: [p5js_in_chinese](https://github.com/program-in-chinese/p5js_in_chinese)
+
+### 20170821
+- 新增1位成员, 对中文编程颇有经验, 添加了C#中文化项目.
+- 新讨论点: 游戏设计领域对中文编程(语言)的需求, Prolog中文化 
+- [JUnit4_in_chinese](https://github.com/program-in-chinese/junit4_in_chinese)开发过程规范化, 添加代码风格自动检查和持续集成测试.
+- 由于浏览器API大变动, 开始重写火狐插件: [History in Threads](https://github.com/program-in-chinese/HistoryInThreads_WebExtension), 已经把多数JavaScript代码中文化.
