@@ -28,3 +28,8 @@
 - 新讨论点: 游戏设计领域对中文编程(语言)的需求, Prolog中文化 
 - [JUnit4_in_chinese](https://github.com/program-in-chinese/junit4_in_chinese)开发过程规范化, 添加代码风格自动检查和持续集成测试.
 - 由于浏览器API大变动, 开始重写火狐插件: [History in Threads](https://github.com/program-in-chinese/HistoryInThreads_WebExtension), 已经把多数JavaScript代码中文化.
+
+### 20170828
+- @yemadu 添加.Net讨论区内容并发起新讨论, @swizl 新建Cxx讨论区
+- 与@azige 研究GBK环境下Maven输出乱码问题; @nlpguyz 实测prolog对中文代码的支持
+- 初步完成HistoryInThreads插件重构, 功能达成, 还需优化性能.
