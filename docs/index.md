@@ -33,3 +33,8 @@
 - @yemadu 添加.Net讨论区内容并发起新讨论, @swizl 新建Cxx讨论区
 - 与@azige 研究GBK环境下Maven输出乱码问题; @nlpguyz 实测prolog对中文代码的支持
 - 初步完成HistoryInThreads插件重构, 功能达成, 还需优化性能.
+
+### 20170903
+- 新增一位成员
+- 新讨论点: 汉化现有编程语言的思路; 量子计算; 对p5js的调研
+- [History in Threads](https://addons.mozilla.org/en-US/firefox/addon/history-in-threads/)插件新版发布
