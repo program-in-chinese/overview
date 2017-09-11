@@ -40,6 +40,6 @@
 - 实现: [History in Threads](https://addons.mozilla.org/en-US/firefox/addon/history-in-threads/)插件新版发布
 
 ### 20170910
-- 成员+1 -1
+- 成员+2 -1
 - 讨论: 汉化TinyCC和Lua的相关讨论; 中文编程的不同思路
 - 实现: 第一个[p5js中文代码演示](https://my.oschina.net/u/750760/tweet/15262605), 与相关的接口汉化
