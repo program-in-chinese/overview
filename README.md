@@ -1,4 +1,5 @@
-## [社区守则](CODE_OF_CONDUCT.md)
+## [讨论组周报](https://program-in-chinese.github.io/overview/)
+[社区守则](CODE_OF_CONDUCT.md)
 
 ## 使用中文编写代码
 
