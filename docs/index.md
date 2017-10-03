@@ -15,3 +15,6 @@
 20170903 | 新增一位成员 | 汉化现有编程语言的思路; 量子计算; 对p5js的调研 | [History in Threads](https://addons.mozilla.org/en-US/firefox/addon/history-in-threads/)插件新版发布 |
 20170910 | 成员+2 -1 | 汉化TinyCC和Lua的相关讨论; 中文编程的不同思路 | 第一个[p5js中文代码演示](https://my.oschina.net/u/750760/tweet/15262605), 与相关的接口汉化 |
 20170917 | | [汉化TinyCC的讨论和实践继续](https://github.com/program-in-chinese/overview/issues/28#issuecomment-328427766); [在注释中添加标识符的中文标注](https://github.com/program-in-chinese/overview/issues/32) | 开始着手[简单易用的中文编程(脚本)语言原型](https://github.com/program-in-chinese/overview/issues/33) |
+20170924 | | | 继续[简单易用的中文编程(脚本)语言原型](https://github.com/program-in-chinese/overview/issues/33#issuecomment-331752774) |
+20171001 | 成员-1 | | 深入[Java中乱码问题](https://github.com/program-in-chinese/junit4_in_chinese/pull/12#issuecomment-333349920) |
+20171008 | 成员+1 | | |
