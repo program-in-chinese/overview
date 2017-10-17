@@ -36,7 +36,7 @@
 
 - **绝大多数API, 包括标准库都是英文的**
 
-答: 没错, 但在代码中, 自己定义的类/方法/变量占的篇幅一般都不少于依赖库(包括标准库)的方法/类所占篇幅, 欢迎提供具体统计数据. 可以看看[这里](https://git.oschina.net/zhishi/assembler-in-chinese-v0/blob/master/src/cn/org/assembler/%E6%B1%87%E7%BC%96%E5%99%A8%E7%B1%BB.java)的中英文代码篇幅的比例. 因此, 中文命名带来的代码改变是一目了然的.
+答: 没错, 但在代码中, 自己定义的类/方法/变量占的篇幅一般都不少于依赖库(包括标准库)的方法/类所占篇幅, 欢迎提供具体统计数据. 可以看看[这里](https://git.oschina.net/zhishi/assembler-in-chinese-v0/blob/master/src/cn/org/assembler/%E6%B1%87%E7%BC%96%E5%99%A8%E7%B1%BB.java)的中英文代码篇幅的比例. 中文命名带来的代码改变是一目了然的. 更关键的是, 自定义的部分往往是**业务逻辑最集中并且最需要可读性**的部分.
 
 - **如果关键词还是英文, 用中文命名就没有意义**
 
