@@ -18,5 +18,5 @@
 20170924 | | 继续[简单易用的中文编程(脚本)语言原型](https://github.com/program-in-chinese/overview/issues/33#issuecomment-331752774) | |
 20171001 | | 深入[Java中乱码问题](https://github.com/program-in-chinese/junit4_in_chinese/pull/12#issuecomment-333349920) | 成员-1 |
 20171008 | | 用p5js做了简单的[主题动画](https://github.com/program-in-chinese/overview/issues/20#issuecomment-335245582) | 成员+1 |
-20171015 | 乱码问题向原作者[提问](https://github.com/checkstyle/checkstyle/commit/702a1a957607881e72bb94b3104c2603ef10891f#commitcomment-24897023); 参与[C#汉化讨论](https://github.com/dotnet/csharplang/issues/993),通过它发展了新组员; 组员贡献[wiki](https://github.com/program-in-chinese/overview/wiki)规整主题内容 | | 成员 26(+1) |
-20171022 | 汉化现有语言[讨论](https://github.com/program-in-chinese/overview/issues/25#issuecomment-337445958), 关键字汉化用词[讨论](https://github.com/program-in-chinese/overview/issues/40) | | 成员 27(+1) |
+20171015 | 乱码问题向原作者[提问](https://github.com/checkstyle/checkstyle/commit/702a1a957607881e72bb94b3104c2603ef10891f#commitcomment-24897023); 参与[C#汉化讨论](https://github.com/dotnet/csharplang/issues/993),通过它发展了新组员; 组员贡献[wiki](https://github.com/program-in-chinese/overview/wiki)规整主题内容 | | 成员 26([+1](https://github.com/program-in-chinese/overview/issues/2#issuecomment-336612923) -1) |
+20171022 | 汉化现有语言[讨论](https://github.com/program-in-chinese/overview/issues/25#issuecomment-337445958), 关键字汉化用词[讨论](https://github.com/program-in-chinese/overview/issues/40) | | 成员 27([+2](https://github.com/program-in-chinese/overview/issues/2#issuecomment-336962229)) |
