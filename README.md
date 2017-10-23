@@ -19,7 +19,7 @@
 
 | 实用 | [易语言](http://www.dywt.com.cn/)，[按键精灵](http://www.anjian.com/)，[TC简单程序开发](http://www1.tyuyan.net/)，[习语言](http://blog.163.com/xiyuyan@yeah/), [Z语言](http://www.zyuyan.org/) |
 | ------------- | ------------- |
-| 先驱 | [中蟒](http://www.chinesepython.org/) [周蟒](https://code.google.com/archive/p/zhpy/) [文言Perl](https://github.com/audreyt/lingua-sinica-perlyuyan) |
+| 先驱 | [中蟒](http://www.chinesepython.org/) [周蟒](https://code.google.com/archive/p/zhpy/) [文言Perl](https://github.com/audreyt/lingua-sinica-perlyuyan) 丙正正 O语言 |
 | 实验 | 定义中文关键词：[iOS开发](https://github.com/uxyheaven/yi-ios)，[iOS中文编程](https://github.com/xueyongwei/ePlus), [Coffeescript](https://github.com/nobodxbodon/coffeescript) |
 | 待考证 | [标天汇编](http://www.onlinedown.net/soft/50298.htm)([备份](http://www.jgegd.com/biaotian/btasm/btasm.zip)) |
 
@@ -70,4 +70,6 @@
 ##### *根据[Fun with GitHub repositories statistics](https://blog.sourced.tech/post/github_stats/), github上的1-contributor repository大约是60%. 当然还有很多项目没有开源. 上面的90%仍然是假设.
 
 ### 参考资料
+[一些中文编程语言](http://www.raychase.net/758)
+
 [Unicode in Ruby, Perl, Python, JavaScript, Java, Emacs Lisp, Mathematica](http://xahlee.info/comp/unicode_support_ruby_python_elisp.html)
