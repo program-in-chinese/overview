@@ -1,11 +1,12 @@
-## [讨论组周报](https://program-in-chinese.github.io/overview/)
-[社区守则](CODE_OF_CONDUCT.md)
+### 请阅[社区守则](CODE_OF_CONDUCT.md)
+
+欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues)
+
+[讨论组周报](https://github.com/program-in-chinese/team_website/blob/master/docs/%E8%AE%A8%E8%AE%BA%E7%BB%84%E5%91%A8%E6%8A%A5.md)
 
 ## 使用中文编写代码
 
-大胆假设:以中文为母语的所有程序员,从事的项目中,90%是单人项目(*),剩下的10%中,90%只有同样是中文为母语的程序员参与.这样,只有1%的项目有用英文写代码的硬性需要.为了这1%的需要,而在剩下的99%中使用英文,得不偿失.
-
-欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues).
+大胆假设:以中文为母语的所有程序员,从事的项目中,90%是单人项目([*](https://github.com/program-in-chinese/overview#%E6%A0%B9%E6%8D%AEfun-with-github-repositories-statistics-github%E4%B8%8A%E7%9A%841-contributor-repository%E5%A4%A7%E7%BA%A6%E6%98%AF60-%E5%BD%93%E7%84%B6%E8%BF%98%E6%9C%89%E5%BE%88%E5%A4%9A%E9%A1%B9%E7%9B%AE%E6%B2%A1%E6%9C%89%E5%BC%80%E6%BA%90-%E4%B8%8A%E9%9D%A2%E7%9A%8490%E4%BB%8D%E7%84%B6%E6%98%AF%E5%81%87%E8%AE%BE)),剩下的10%中,90%只有同样是中文为母语的程序员参与.这样,只有1%的项目有用英文写代码的硬性需要.为了这1%的需要,而在剩下的99%中使用英文,得不偿失.
 
 ### 关键词为英文的编程语言对中文代码的支持(字母排序)
 
