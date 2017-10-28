@@ -1,3 +1,5 @@
+### 其实地上本没有路，走的人多了，也便成了路。 -- 《故乡》鲁迅
+
 ### 请阅[社区守则](CODE_OF_CONDUCT.md)
 
 欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues)
