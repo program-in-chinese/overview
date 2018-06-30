@@ -30,3 +30,16 @@
 [一些中文编程语言](http://www.raychase.net/758)
 
 [Unicode in Ruby, Perl, Python, JavaScript, Java, Emacs Lisp, Mathematica](http://xahlee.info/comp/unicode_support_ruby_python_elisp.html)
+
+### 讨论区索引
+四大主题(中文命名, 汉化API, 汉化现有语言, 创立新语言)详见[中文编程专栏目录, 初衷和希冀](https://zhuanlan.zhihu.com/p/30882225)
+- [x] [社区运行方式讨论, 迎新](https://github.com/program-in-chinese/overview/issues/2)
+- [x] 中文命名
+  - [x] [索引: 用中文代码作示例的编程教程](https://github.com/program-in-chinese/overview/issues/5)
+- [x] 汉化API
+- [x] 汉化现有语言
+- [x] 创立新语言
+- [x] 不辩不明
+  - [x] [索引: 在其他论坛关于用中文编写代码的讨论](https://github.com/program-in-chinese/overview/issues/3) 
+- [x] 社区维护
+  - [ ] [备份所有issue讨论](https://github.com/program-in-chinese/overview/issues/1)
