@@ -45,13 +45,13 @@
   - [x] 辅助工具
     - [x] [vsc插件实现拼音输入法](https://github.com/program-in-chinese/overview/issues/53)
     - [x] [提议：直接实现一个支持拼音匹配中文标识符的 VSCode](https://github.com/program-in-chinese/overview/issues/55)
-    - [x] [怎么对变量和函数命名?](https://github.com/program-in-chinese/overview/issues/57)
   - [x] 一般讨论
     - [ ] [汉化了十数个编译器的前辈的心得体会](https://github.com/program-in-chinese/overview/issues/13)
     - [ ] [所有开发者母语都是中文时, 为什么大多数项目仍然选择英文命名?](https://github.com/program-in-chinese/overview/issues/18)
     - [ ] [在注释中添加标识符的中文标注](https://github.com/program-in-chinese/overview/issues/32)
     - [x] [编写操作系统原型](https://github.com/program-in-chinese/overview/issues/43)
     - [x] [中文命名的特定问题, 相关风格及规范](https://github.com/program-in-chinese/overview/issues/45)
+    - [ ] [怎么对变量和函数命名?](https://github.com/program-in-chinese/overview/issues/57)
 - [x] 汉化API
   - [x] [把最常用的开源的英文API进行中文化](https://github.com/program-in-chinese/overview/issues/9)
   - [ ] [JUnit中文化的原型验证](https://github.com/program-in-chinese/overview/issues/10)
@@ -69,20 +69,20 @@
 - [x] 创立新语言
   - [x] 实践
     - [x] [我實現了一個中文的簡單的Lisp](https://github.com/program-in-chinese/overview/issues/56)
-    - [x] [函數式中文語言](https://github.com/program-in-chinese/overview/issues/60)
+    - [ ] [函數式中文語言](https://github.com/program-in-chinese/overview/issues/60)
     - [ ] [简单易用的中文编程(脚本)语言原型](https://github.com/program-in-chinese/overview/issues/33)
   - [x] 调研
-    - [x] [游戏设计领域对中文编程(语言)的需求](https://github.com/program-in-chinese/overview/issues/22)
+    - [ ] [游戏设计领域对中文编程(语言)的需求](https://github.com/program-in-chinese/overview/issues/22)
     - [x] [实践已有的语言：体验用易语言、易语言.飞扬](https://github.com/program-in-chinese/overview/issues/52)
     - [x] [Open source Non-English-based programming languages 开源非英文关键词编程语言](https://github.com/program-in-chinese/overview/issues/39)
-    - [x] [对日语编程语言Nadesiko, なでしこ的功能和源码学习](https://github.com/program-in-chinese/overview/issues/46)
-    - [x] [单字富指令型中文（还加韩文）编程语言 Sclipting](https://github.com/program-in-chinese/overview/issues/50)
+    - [ ] [对日语编程语言Nadesiko, なでしこ的功能和源码学习](https://github.com/program-in-chinese/overview/issues/46)
+    - [ ] [单字富指令型中文（还加韩文）编程语言 Sclipting](https://github.com/program-in-chinese/overview/issues/50)
   - [x] 一般讨论
     - [x] [讨论: 适合中文用户的编程语言和IDE, 侧重于现有语言/IDE不具备的特性](https://github.com/program-in-chinese/overview/issues/11)
     - [ ] [关于建立个制作委员会, 通过模仿现有编程语言的标准（如C和javascript）来实现汉语编程语言（中文编程）的发展](https://github.com/program-in-chinese/overview/issues/28)
     - [x] [为量子计算设计的中文编程语言](https://github.com/program-in-chinese/overview/issues/29)
     - [ ] [如果能够做到以下这些，我相信中文编程语言一定能取得颠覆性成功](https://github.com/program-in-chinese/overview/issues/31)
-    - [x] [中文编程历史](https://github.com/program-in-chinese/overview/issues/47)
+    - [ ] [中文编程历史](https://github.com/program-in-chinese/overview/issues/47)
     - [ ] [天生支持i18n的程序语言汇总](https://github.com/program-in-chinese/overview/issues/59)
 - [x] 编码问题
   - [x] [GBK<->UTF8 互转问题: Maven checkstyle输出乱码](https://github.com/program-in-chinese/overview/issues/26)
