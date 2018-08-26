@@ -1,0 +1,66 @@
+[
+    {
+        "color": "ee0701",
+        "default": true,
+        "id": 725660928,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw3MjU2NjA5Mjg=",
+        "url": "https://api.github.com/repos/program-in-chinese/CTS/labels/bug"
+    },
+    {
+        "color": "cccccc",
+        "default": true,
+        "id": 725660930,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw3MjU2NjA5MzA=",
+        "url": "https://api.github.com/repos/program-in-chinese/CTS/labels/duplicate"
+    },
+    {
+        "color": "84b6eb",
+        "default": true,
+        "id": 725660932,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw3MjU2NjA5MzI=",
+        "url": "https://api.github.com/repos/program-in-chinese/CTS/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 725660936,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWw3MjU2NjA5MzY=",
+        "url": "https://api.github.com/repos/program-in-chinese/CTS/labels/good%20first%20issue"
+    },
+    {
+        "color": "33aa3f",
+        "default": true,
+        "id": 725660934,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw3MjU2NjA5MzQ=",
+        "url": "https://api.github.com/repos/program-in-chinese/CTS/labels/help%20wanted"
+    },
+    {
+        "color": "e6e6e6",
+        "default": true,
+        "id": 725660938,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw3MjU2NjA5Mzg=",
+        "url": "https://api.github.com/repos/program-in-chinese/CTS/labels/invalid"
+    },
+    {
+        "color": "cc317c",
+        "default": true,
+        "id": 725660939,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw3MjU2NjA5Mzk=",
+        "url": "https://api.github.com/repos/program-in-chinese/CTS/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 725660940,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw3MjU2NjA5NDA=",
+        "url": "https://api.github.com/repos/program-in-chinese/CTS/labels/wontfix"
+    }
+]

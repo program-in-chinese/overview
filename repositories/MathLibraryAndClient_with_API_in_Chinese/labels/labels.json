@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 1008287330,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxMDA4Mjg3MzMw",
+        "url": "https://api.github.com/repos/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 1008287333,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxMDA4Mjg3MzMz",
+        "url": "https://api.github.com/repos/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 1008287335,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxMDA4Mjg3MzM1",
+        "url": "https://api.github.com/repos/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 1008287338,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxMDA4Mjg3MzM4",
+        "url": "https://api.github.com/repos/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 1008287337,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxMDA4Mjg3MzM3",
+        "url": "https://api.github.com/repos/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 1008287339,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxMDA4Mjg3MzM5",
+        "url": "https://api.github.com/repos/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 1008287340,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxMDA4Mjg3MzQw",
+        "url": "https://api.github.com/repos/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 1008287341,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxMDA4Mjg3MzQx",
+        "url": "https://api.github.com/repos/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese/labels/wontfix"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "color": "ee0701",
+        "default": true,
+        "id": 769779226,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw3Njk3NzkyMjY=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscode_helloWorld/labels/bug"
+    },
+    {
+        "color": "cccccc",
+        "default": true,
+        "id": 769779227,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw3Njk3NzkyMjc=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscode_helloWorld/labels/duplicate"
+    },
+    {
+        "color": "84b6eb",
+        "default": true,
+        "id": 769779228,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw3Njk3NzkyMjg=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscode_helloWorld/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 769779230,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWw3Njk3NzkyMzA=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscode_helloWorld/labels/good%20first%20issue"
+    },
+    {
+        "color": "33aa3f",
+        "default": true,
+        "id": 769779229,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw3Njk3NzkyMjk=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscode_helloWorld/labels/help%20wanted"
+    },
+    {
+        "color": "e6e6e6",
+        "default": true,
+        "id": 769779231,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw3Njk3NzkyMzE=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscode_helloWorld/labels/invalid"
+    },
+    {
+        "color": "cc317c",
+        "default": true,
+        "id": 769779232,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw3Njk3NzkyMzI=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscode_helloWorld/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 769779233,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw3Njk3NzkyMzM=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscode_helloWorld/labels/wontfix"
+    }
+]

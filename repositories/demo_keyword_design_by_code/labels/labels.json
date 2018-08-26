@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 1031265946,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxMDMxMjY1OTQ2",
+        "url": "https://api.github.com/repos/program-in-chinese/demo_keyword_design_by_code/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 1031265947,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxMDMxMjY1OTQ3",
+        "url": "https://api.github.com/repos/program-in-chinese/demo_keyword_design_by_code/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 1031265948,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxMDMxMjY1OTQ4",
+        "url": "https://api.github.com/repos/program-in-chinese/demo_keyword_design_by_code/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 1031265950,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxMDMxMjY1OTUw",
+        "url": "https://api.github.com/repos/program-in-chinese/demo_keyword_design_by_code/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 1031265949,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxMDMxMjY1OTQ5",
+        "url": "https://api.github.com/repos/program-in-chinese/demo_keyword_design_by_code/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 1031265951,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxMDMxMjY1OTUx",
+        "url": "https://api.github.com/repos/program-in-chinese/demo_keyword_design_by_code/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 1031265952,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxMDMxMjY1OTUy",
+        "url": "https://api.github.com/repos/program-in-chinese/demo_keyword_design_by_code/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 1031265953,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxMDMxMjY1OTUz",
+        "url": "https://api.github.com/repos/program-in-chinese/demo_keyword_design_by_code/labels/wontfix"
+    }
+]

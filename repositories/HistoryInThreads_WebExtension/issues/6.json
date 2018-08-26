@@ -1,0 +1,121 @@
+{
+    "assignee": null,
+    "assignees": [],
+    "author_association": "MEMBER",
+    "body": "不确定API是否支持. 官方论坛提了问: https://discourse.mozilla.org/t/api-in-webextension-to-get-icon-of-the-url-in-a-history-visit/18679",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "author_association": "MEMBER",
+            "body": "有人回了这个功能还在开发中: https://bugzilla.mozilla.org/show_bug.cgi?id=1315616",
+            "created_at": "2017-09-01T19:27:47Z",
+            "html_url": "https://github.com/program-in-chinese/HistoryInThreads_WebExtension/issues/6#issuecomment-326665091",
+            "id": 326665091,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension/issues/6",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDMyNjY2NTA5MQ==",
+            "updated_at": "2017-09-01T19:27:47Z",
+            "url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension/issues/comments/326665091",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension/issues/6/comments",
+    "created_at": "2017-09-01T06:32:13Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2017-09-01T19:30:42Z",
+            "event": "labeled",
+            "id": 1231910680,
+            "label": {
+                "color": "d93f0b",
+                "name": "外部依赖"
+            },
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDEyMzE5MTA2ODA=",
+            "url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension/issues/events/1231910680"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension/issues/6/events",
+    "html_url": "https://github.com/program-in-chinese/HistoryInThreads_WebExtension/issues/6",
+    "id": 254548574,
+    "labels": [
+        {
+            "color": "d93f0b",
+            "default": false,
+            "id": 681666433,
+            "name": "受阻",
+            "node_id": "MDU6TGFiZWw2ODE2NjY0MzM=",
+            "url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension/labels/%E5%8F%97%E9%98%BB"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension/issues/6/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "node_id": "MDU6SXNzdWUyNTQ1NDg1NzQ=",
+    "number": 6,
+    "repository_url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension",
+    "state": "open",
+    "title": "显示url的图标",
+    "updated_at": "2017-09-01T19:30:42Z",
+    "url": "https://api.github.com/repos/program-in-chinese/HistoryInThreads_WebExtension/issues/6",
+    "user": {
+        "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+        "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+        "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+        "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/nobodxbodon",
+        "id": 392497,
+        "login": "nobodxbodon",
+        "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+        "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+        "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+        "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/nobodxbodon"
+    }
+}

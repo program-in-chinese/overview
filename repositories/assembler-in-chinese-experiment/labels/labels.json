@@ -1,0 +1,58 @@
+[
+    {
+        "color": "ee0701",
+        "default": true,
+        "id": 660073107,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw2NjAwNzMxMDc=",
+        "url": "https://api.github.com/repos/program-in-chinese/assembler-in-chinese-experiment/labels/bug"
+    },
+    {
+        "color": "cccccc",
+        "default": true,
+        "id": 660073108,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw2NjAwNzMxMDg=",
+        "url": "https://api.github.com/repos/program-in-chinese/assembler-in-chinese-experiment/labels/duplicate"
+    },
+    {
+        "color": "84b6eb",
+        "default": true,
+        "id": 660073109,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw2NjAwNzMxMDk=",
+        "url": "https://api.github.com/repos/program-in-chinese/assembler-in-chinese-experiment/labels/enhancement"
+    },
+    {
+        "color": "128A0C",
+        "default": true,
+        "id": 660073110,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw2NjAwNzMxMTA=",
+        "url": "https://api.github.com/repos/program-in-chinese/assembler-in-chinese-experiment/labels/help%20wanted"
+    },
+    {
+        "color": "e6e6e6",
+        "default": true,
+        "id": 660073111,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw2NjAwNzMxMTE=",
+        "url": "https://api.github.com/repos/program-in-chinese/assembler-in-chinese-experiment/labels/invalid"
+    },
+    {
+        "color": "cc317c",
+        "default": true,
+        "id": 660073112,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw2NjAwNzMxMTI=",
+        "url": "https://api.github.com/repos/program-in-chinese/assembler-in-chinese-experiment/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 660073113,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw2NjAwNzMxMTM=",
+        "url": "https://api.github.com/repos/program-in-chinese/assembler-in-chinese-experiment/labels/wontfix"
+    }
+]

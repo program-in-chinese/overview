@@ -1,0 +1,66 @@
+[
+    {
+        "color": "ee0701",
+        "default": true,
+        "id": 744668169,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw3NDQ2NjgxNjk=",
+        "url": "https://api.github.com/repos/program-in-chinese/angular_official_tutorial_zh/labels/bug"
+    },
+    {
+        "color": "cccccc",
+        "default": true,
+        "id": 744668170,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw3NDQ2NjgxNzA=",
+        "url": "https://api.github.com/repos/program-in-chinese/angular_official_tutorial_zh/labels/duplicate"
+    },
+    {
+        "color": "84b6eb",
+        "default": true,
+        "id": 744668171,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw3NDQ2NjgxNzE=",
+        "url": "https://api.github.com/repos/program-in-chinese/angular_official_tutorial_zh/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 744668173,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWw3NDQ2NjgxNzM=",
+        "url": "https://api.github.com/repos/program-in-chinese/angular_official_tutorial_zh/labels/good%20first%20issue"
+    },
+    {
+        "color": "33aa3f",
+        "default": true,
+        "id": 744668172,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw3NDQ2NjgxNzI=",
+        "url": "https://api.github.com/repos/program-in-chinese/angular_official_tutorial_zh/labels/help%20wanted"
+    },
+    {
+        "color": "e6e6e6",
+        "default": true,
+        "id": 744668174,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw3NDQ2NjgxNzQ=",
+        "url": "https://api.github.com/repos/program-in-chinese/angular_official_tutorial_zh/labels/invalid"
+    },
+    {
+        "color": "cc317c",
+        "default": true,
+        "id": 744668175,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw3NDQ2NjgxNzU=",
+        "url": "https://api.github.com/repos/program-in-chinese/angular_official_tutorial_zh/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 744668176,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw3NDQ2NjgxNzY=",
+        "url": "https://api.github.com/repos/program-in-chinese/angular_official_tutorial_zh/labels/wontfix"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "color": "ee0701",
+        "default": true,
+        "id": 662319916,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw2NjIzMTk5MTY=",
+        "url": "https://api.github.com/repos/program-in-chinese/backup_issues/labels/bug"
+    },
+    {
+        "color": "cccccc",
+        "default": true,
+        "id": 662319917,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw2NjIzMTk5MTc=",
+        "url": "https://api.github.com/repos/program-in-chinese/backup_issues/labels/duplicate"
+    },
+    {
+        "color": "84b6eb",
+        "default": true,
+        "id": 662319918,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw2NjIzMTk5MTg=",
+        "url": "https://api.github.com/repos/program-in-chinese/backup_issues/labels/enhancement"
+    },
+    {
+        "color": "128A0C",
+        "default": true,
+        "id": 662319919,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw2NjIzMTk5MTk=",
+        "url": "https://api.github.com/repos/program-in-chinese/backup_issues/labels/help%20wanted"
+    },
+    {
+        "color": "e6e6e6",
+        "default": true,
+        "id": 662319920,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw2NjIzMTk5MjA=",
+        "url": "https://api.github.com/repos/program-in-chinese/backup_issues/labels/invalid"
+    },
+    {
+        "color": "cc317c",
+        "default": true,
+        "id": 662319921,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw2NjIzMTk5MjE=",
+        "url": "https://api.github.com/repos/program-in-chinese/backup_issues/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 662319922,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw2NjIzMTk5MjI=",
+        "url": "https://api.github.com/repos/program-in-chinese/backup_issues/labels/wontfix"
+    }
+]

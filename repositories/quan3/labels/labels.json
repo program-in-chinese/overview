@@ -1,0 +1,66 @@
+[
+    {
+        "color": "ee0701",
+        "default": true,
+        "id": 767757075,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw3Njc3NTcwNzU=",
+        "url": "https://api.github.com/repos/program-in-chinese/quan3/labels/bug"
+    },
+    {
+        "color": "cccccc",
+        "default": true,
+        "id": 767757076,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw3Njc3NTcwNzY=",
+        "url": "https://api.github.com/repos/program-in-chinese/quan3/labels/duplicate"
+    },
+    {
+        "color": "84b6eb",
+        "default": true,
+        "id": 767757077,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw3Njc3NTcwNzc=",
+        "url": "https://api.github.com/repos/program-in-chinese/quan3/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 767757079,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWw3Njc3NTcwNzk=",
+        "url": "https://api.github.com/repos/program-in-chinese/quan3/labels/good%20first%20issue"
+    },
+    {
+        "color": "33aa3f",
+        "default": true,
+        "id": 767757078,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw3Njc3NTcwNzg=",
+        "url": "https://api.github.com/repos/program-in-chinese/quan3/labels/help%20wanted"
+    },
+    {
+        "color": "e6e6e6",
+        "default": true,
+        "id": 767757080,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw3Njc3NTcwODA=",
+        "url": "https://api.github.com/repos/program-in-chinese/quan3/labels/invalid"
+    },
+    {
+        "color": "cc317c",
+        "default": true,
+        "id": 767757081,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw3Njc3NTcwODE=",
+        "url": "https://api.github.com/repos/program-in-chinese/quan3/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 767757082,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw3Njc3NTcwODI=",
+        "url": "https://api.github.com/repos/program-in-chinese/quan3/labels/wontfix"
+    }
+]

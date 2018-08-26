@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 824555382,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw4MjQ1NTUzODI=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscpinyin/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 824555383,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw4MjQ1NTUzODM=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscpinyin/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 824555385,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw4MjQ1NTUzODU=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscpinyin/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 824555387,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWw4MjQ1NTUzODc=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscpinyin/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 824555386,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw4MjQ1NTUzODY=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscpinyin/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 824555388,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw4MjQ1NTUzODg=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscpinyin/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 824555389,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw4MjQ1NTUzODk=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscpinyin/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 824555390,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw4MjQ1NTUzOTA=",
+        "url": "https://api.github.com/repos/program-in-chinese/vscpinyin/labels/wontfix"
+    }
+]
