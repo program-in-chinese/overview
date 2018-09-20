@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 1056477968,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxMDU2NDc3OTY4",
+        "url": "https://api.github.com/repos/program-in-chinese/java_code_translator/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 1056477969,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxMDU2NDc3OTY5",
+        "url": "https://api.github.com/repos/program-in-chinese/java_code_translator/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 1056477970,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxMDU2NDc3OTcw",
+        "url": "https://api.github.com/repos/program-in-chinese/java_code_translator/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 1056477972,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxMDU2NDc3OTcy",
+        "url": "https://api.github.com/repos/program-in-chinese/java_code_translator/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 1056477971,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxMDU2NDc3OTcx",
+        "url": "https://api.github.com/repos/program-in-chinese/java_code_translator/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 1056477973,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxMDU2NDc3OTcz",
+        "url": "https://api.github.com/repos/program-in-chinese/java_code_translator/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 1056477974,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxMDU2NDc3OTc0",
+        "url": "https://api.github.com/repos/program-in-chinese/java_code_translator/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 1056477975,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxMDU2NDc3OTc1",
+        "url": "https://api.github.com/repos/program-in-chinese/java_code_translator/labels/wontfix"
+    }
+]

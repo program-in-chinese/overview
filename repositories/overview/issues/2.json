@@ -1895,9 +1895,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "NONE",
+            "body": "路过,支持一下",
+            "created_at": "2018-09-02T15:16:43Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/2#issuecomment-417937840",
+            "id": 417937840,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/2",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQxNzkzNzg0MA==",
+            "updated_at": "2018-09-02T15:16:43Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/417937840",
+            "user": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/12899262?v=4",
+                "events_url": "https://api.github.com/users/geekyouth/events{/privacy}",
+                "followers_url": "https://api.github.com/users/geekyouth/followers",
+                "following_url": "https://api.github.com/users/geekyouth/following{/other_user}",
+                "gists_url": "https://api.github.com/users/geekyouth/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/geekyouth",
+                "id": 12899262,
+                "login": "geekyouth",
+                "node_id": "MDQ6VXNlcjEyODk5MjYy",
+                "organizations_url": "https://api.github.com/users/geekyouth/orgs",
+                "received_events_url": "https://api.github.com/users/geekyouth/received_events",
+                "repos_url": "https://api.github.com/users/geekyouth/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/geekyouth/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/geekyouth/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/geekyouth"
+            }
         }
     ],
-    "comments": 61,
+    "comments": 62,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/2/comments",
     "created_at": "2017-07-29T20:07:35Z",
     "event_data": [
@@ -5721,7 +5752,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "社区运行方式讨论, 迎新",
-    "updated_at": "2018-08-23T06:47:08Z",
+    "updated_at": "2018-09-02T15:16:43Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/2",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

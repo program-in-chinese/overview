@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 1035768400,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxMDM1NzY4NDAw",
+        "url": "https://api.github.com/repos/program-in-chinese/cn_jdk10/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 1035768401,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxMDM1NzY4NDAx",
+        "url": "https://api.github.com/repos/program-in-chinese/cn_jdk10/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 1035768402,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxMDM1NzY4NDAy",
+        "url": "https://api.github.com/repos/program-in-chinese/cn_jdk10/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 1035768404,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxMDM1NzY4NDA0",
+        "url": "https://api.github.com/repos/program-in-chinese/cn_jdk10/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 1035768403,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxMDM1NzY4NDAz",
+        "url": "https://api.github.com/repos/program-in-chinese/cn_jdk10/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 1035768405,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxMDM1NzY4NDA1",
+        "url": "https://api.github.com/repos/program-in-chinese/cn_jdk10/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 1035768406,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxMDM1NzY4NDA2",
+        "url": "https://api.github.com/repos/program-in-chinese/cn_jdk10/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 1035768407,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxMDM1NzY4NDA3",
+        "url": "https://api.github.com/repos/program-in-chinese/cn_jdk10/labels/wontfix"
+    }
+]

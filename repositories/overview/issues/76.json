@@ -42,8 +42,8 @@
         }
     ],
     "author_association": "MEMBER",
-    "body": ">http://fanfou.com/statuses/gyFkSQjHUEI\r\n\r\n科学用语，避免歧义，保护自然语言，从我做起：\r\n1. 使用**编程语言**而不简称语言\r\n2. 使用C**代码**或C，而非C语言，\r\n3. 用**PL**缩写替代编程语言（某语言=某PL \r\n4. 在1的基础上，尊重现有的俗称（比如go**lang** \r\n5. PHP这种不需要加PL后缀的就不加 \r\n6. 将写代码和编程**区别**开来coding!=programming\r\n\r\n--------\r\n\r\n相关涉及的PL不多，目前想到的只有两个：\r\n\r\nOfficial | 俗称 | 建议称谓 | 保留称谓\r\n------- | ------|------------|----------\r\nC  | C、C语言 | C、C代码 | C语言\r\nGo | Go语言、golang| golang|\r\nJavaScript| JS | - |\r\n\r\n\r\n",
-    "closed_at": null,
+    "body": ">http://fanfou.com/statuses/gyFkSQjHUEI\r\n\r\n科学用语，避免歧义，保护自然语言，从我做起：\r\n1. 使用**编程语言**而不简称语言\r\n2. 使用C**代码**或C，而非C语言，\r\n3. 用**PL**缩写替代编程语言（某语言=某PL \r\n4. 在1的基础上，尊重现有的俗称（比如go**lang** \r\n5. PHP这种不需要加PL后缀的就不加 \r\n6. 将写代码和编程**区别**开来coding!=programming\r\n\r\n--------\r\n\r\n相关涉及的PL不多，目前想到的只有两个：\r\n\r\nOfficial | 俗称 | 建议称谓 | 保留称谓\r\n------- | ------|------------|----------\r\nC  | C、C语言 | C、C代码 | C语言\r\nGo | Go语言、golang| golang|\r\nJavaScript| JS | - |\r\nScripting language/脚本语言|脚本|-|脚本语言\r\nProgramming language/编程语言|语言|PL、编程语言|\r\n\r\n\r\n",
+    "closed_at": "2018-08-28T16:45:18Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -168,9 +168,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/absente"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "上面的表述仍然很有争议. \r\n如打算将其形成规范, 需要更多客观依据(包括各种编程语言/软件工程背景知识等). \r\n如有兴趣将其完善/严谨化, 请重开此贴.",
+            "created_at": "2018-08-28T16:45:18Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/76#issuecomment-416658016",
+            "id": 416658016,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/76",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQxNjY1ODAxNg==",
+            "updated_at": "2018-08-28T16:45:18Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/416658016",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 4,
+    "comments": 5,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/76/comments",
     "created_at": "2018-08-09T05:50:06Z",
     "event_data": [
@@ -584,6 +615,101 @@
             "id": 1789958856,
             "node_id": "MDE5OkFkZGVkVG9Qcm9qZWN0RXZlbnQxNzg5OTU4ODU2",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1789958856"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-08-28T16:36:51Z",
+            "event": "unlabeled",
+            "id": 1813576654,
+            "label": {
+                "color": "d1a5e5",
+                "name": "术语词典"
+            },
+            "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTgxMzU3NjY1NA==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1813576654"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-08-28T16:36:55Z",
+            "event": "unlabeled",
+            "id": 1813576798,
+            "label": {
+                "color": "ebfca9",
+                "name": "规范"
+            },
+            "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTgxMzU3Njc5OA==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1813576798"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-08-28T16:45:18Z",
+            "event": "closed",
+            "id": 1813595379,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTgxMzU5NTM3OQ==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1813595379"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/76/events",
@@ -597,29 +723,13 @@
             "name": "中文化",
             "node_id": "MDU6TGFiZWwxMDE3OTk4MTIw",
             "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E4%B8%AD%E6%96%87%E5%8C%96"
-        },
-        {
-            "color": "d1a5e5",
-            "default": false,
-            "id": 1018943862,
-            "name": "术语词典",
-            "node_id": "MDU6TGFiZWwxMDE4OTQzODYy",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%9C%AF%E8%AF%AD%E8%AF%8D%E5%85%B8"
-        },
-        {
-            "color": "ebfca9",
-            "default": false,
-            "id": 1019236511,
-            "name": "规范",
-            "node_id": "MDU6TGFiZWwxMDE5MjM2NTEx",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E8%A7%84%E8%8C%83"
         }
     ],
     "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/76/labels{/name}",
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 12,
+        "closed_issues": 14,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -648,18 +758,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 17,
+        "open_issues": 19,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-08-23T07:55:02Z",
+        "updated_at": "2018-09-19T09:48:06Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNDg5ODY2NDA=",
     "number": 76,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "关于统一现有PL的中文简称及相关术语规范化的一些建议",
-    "updated_at": "2018-08-15T12:41:30Z",
+    "updated_at": "2018-08-28T16:49:23Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/76",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",

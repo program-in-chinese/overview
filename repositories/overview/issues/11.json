@@ -1337,9 +1337,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "也许其他帖里提到过. IDE中可在新建项目时选择模板项目, 如下(Eclipse的XBase入门模板). 可以考虑针对现有IDE, 开发一些常见常用的使用中文命名的项目模板, 如[Spring Boot问好](https://github.com/program-in-chinese/spring_boot_hello_zh)或更实用的. 以便用户上手即用.\r\n![screen shot 2018-08-31 at 10 48 57 am](https://user-images.githubusercontent.com/392497/44928112-ad631f00-ad0b-11e8-9795-579eaeecdf4f.png)\r\n",
+            "created_at": "2018-08-31T17:57:17Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/11#issuecomment-417743692",
+            "id": 417743692,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/11",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQxNzc0MzY5Mg==",
+            "updated_at": "2018-08-31T17:57:17Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/417743692",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 43,
+    "comments": 44,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/11/comments",
     "created_at": "2017-08-01T21:04:16Z",
     "event_data": [
@@ -4082,7 +4113,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "讨论: 适合中文用户的编程语言和IDE, 侧重于现有语言/IDE不具备的特性",
-    "updated_at": "2018-08-23T22:00:20Z",
+    "updated_at": "2018-08-31T17:57:17Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/11",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 1057828663,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxMDU3ODI4NjYz",
+        "url": "https://api.github.com/repos/program-in-chinese/code_translator_service/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 1057828664,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxMDU3ODI4NjY0",
+        "url": "https://api.github.com/repos/program-in-chinese/code_translator_service/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 1057828665,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxMDU3ODI4NjY1",
+        "url": "https://api.github.com/repos/program-in-chinese/code_translator_service/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 1057828667,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxMDU3ODI4NjY3",
+        "url": "https://api.github.com/repos/program-in-chinese/code_translator_service/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 1057828666,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxMDU3ODI4NjY2",
+        "url": "https://api.github.com/repos/program-in-chinese/code_translator_service/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 1057828668,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxMDU3ODI4NjY4",
+        "url": "https://api.github.com/repos/program-in-chinese/code_translator_service/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 1057828669,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxMDU3ODI4NjY5",
+        "url": "https://api.github.com/repos/program-in-chinese/code_translator_service/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 1057828670,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxMDU3ODI4Njcw",
+        "url": "https://api.github.com/repos/program-in-chinese/code_translator_service/labels/wontfix"
+    }
+]

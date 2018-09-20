@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "随着新项目的开展, 迟早需要作为一个团队对项目进行维护和推广. 是否最好有个主页, 至少发布一些项目进度/发布的消息? Github page是否适合?\r\n\r\n另外, github的默认图标虽然不是太难看, 但肯定不算美观. 也请推荐一下.",
-    "closed_at": null,
+    "closed_at": "2018-08-30T17:27:50Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -624,9 +624,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/absente"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "在形成核心项目群(全组或者多数人愿意以各种形式投入贡献的一组内容相关的项目)之前, 考虑暂时还是围绕具体项目, 由各个项目的团队进行分别宣传.",
+            "created_at": "2018-08-30T17:27:50Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/12#issuecomment-417401223",
+            "id": 417401223,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/12",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQxNzQwMTIyMw==",
+            "updated_at": "2018-08-30T17:27:50Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/417401223",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 20,
+    "comments": 21,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/12/comments",
     "created_at": "2017-08-01T23:04:11Z",
     "event_data": [
@@ -2625,6 +2656,35 @@
             },
             "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTc4NjQ1NjQ4OA==",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1786456488"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-08-30T17:27:50Z",
+            "event": "closed",
+            "id": 1818801475,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTgxODgwMTQ3NQ==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1818801475"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/12/events",
@@ -2646,9 +2706,9 @@
     "node_id": "MDU6SXNzdWUyNDcyMjc0Mzg=",
     "number": 12,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "讨论组的主页, 对外名称, 徽标?",
-    "updated_at": "2018-08-13T21:37:06Z",
+    "updated_at": "2018-08-30T17:27:51Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/12",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

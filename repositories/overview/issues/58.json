@@ -955,7 +955,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 12,
+        "closed_issues": 14,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -984,10 +984,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 17,
+        "open_issues": 19,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-08-23T07:55:02Z",
+        "updated_at": "2018-09-19T09:48:06Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzMTI3NTc5ODQ=",
@@ -995,7 +995,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "有能力者可考虑对小程序编程进行汉化，更实际",
-    "updated_at": "2018-08-13T21:17:32Z",
+    "updated_at": "2018-09-19T09:47:48Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/58",
     "user": {
         "avatar_url": "https://avatars0.githubusercontent.com/u/7810874?v=4",

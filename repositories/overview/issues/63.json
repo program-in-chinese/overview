@@ -684,7 +684,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 1,
+        "closed_issues": 2,
         "created_at": "2018-07-20T08:26:27Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -713,10 +713,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/1/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMTAxNg==",
         "number": 1,
-        "open_issues": 1,
+        "open_issues": 0,
         "state": "open",
         "title": "dyl.rar",
-        "updated_at": "2018-08-13T00:09:49Z",
+        "updated_at": "2018-08-30T17:07:49Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/1"
     },
     "node_id": "MDU6SXNzdWUzNDIyMTA3NzE=",

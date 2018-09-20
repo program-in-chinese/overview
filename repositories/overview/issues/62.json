@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "https://www.zhihu.com/question/20184664/answer/445574696\r\n\r\n> 中文编程我觉得可行，但是还是存有局限性。优势很明显，字符集大，相当于stdlib足够大，这样写起来话就少，代码更精炼（参考APL）。\r\n> 劣势暂时没有。只是现阶段的中文编程没把优势发挥出来而已。\r\n参考：[中国和美国战略对抗的根本原因是什么？我的回答](https://zhuanlan.zhihu.com/p/40004584)\r\n参同：[NTFS：如何评价6hu2t32和他的中文编程？](https://www.zhihu.com/question/68565624/answer/267995249)\r\n\r\n> 关于大方向的主观判断，中文必然在近未来的信息技术发展中起重要作用。具体到编程领域，也认同使用中文编程的意义和必要性。\r\n\r\n> 问题主要在于编程的形式。从根本上引入中文编程，对汉语使用者来说确实能提高某些情况下的开发效率，但就维护层面来看，未必能有明显改观，反而会形成割裂。因为编程的形式没有变，软件的开发还是依托 代码/线性文本 为载体。如果这个问题不解决，中文编程更多可能只会停留在小范围应用和理论教学等方面。\r\n\r\n> 作为同样接触过OTP和APL的路人，私以为coding不是现代化编程的终点，现有的开发流程仍有很多可以开环转闭环的空间。构建一个完善统一的开发/运维软件运行时，以图表代文本，以可视空间结构代替线性树形结构，中文式解析多于函数式抽象，数位计算同符号表达分离，书同文，语各表，进制二三并用，新旧转换隔离。只有足够跨度的改变，才能促成真正的变革，真正的变革始终要符合社会实际。再往后说就扯远了，为避免过度跑题，最后向b大在中文编程方面的探索致敬。\r\n\r\n\r\n18.718 /reservd4 wx.mp:section6buu, [eç∫īГσא](/secti6n), also>linkedin:company/信息六科",
-    "closed_at": null,
+    "closed_at": "2018-08-30T17:07:49Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -438,9 +438,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/absente"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "如有https://github.com/program-in-chinese/overview/issues/62#issuecomment-405833007 相关的具体项目规划, 请新开帖并引用此帖相关楼作为背景介绍.",
+            "created_at": "2018-08-30T17:07:49Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/62#issuecomment-417394799",
+            "id": 417394799,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/62",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQxNzM5NDc5OQ==",
+            "updated_at": "2018-08-30T17:07:49Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/417394799",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 14,
+    "comments": 15,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/62/comments",
     "created_at": "2018-07-18T06:55:38Z",
     "event_data": [
@@ -1500,6 +1531,101 @@
             },
             "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTc4NjQzOTkzOQ==",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1786439939"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-08-30T17:01:43Z",
+            "event": "unlabeled",
+            "id": 1818748485,
+            "label": {
+                "color": "c5def5",
+                "name": "长期"
+            },
+            "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTgxODc0ODQ4NQ==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1818748485"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-08-30T17:02:59Z",
+            "event": "unlabeled",
+            "id": 1818751095,
+            "label": {
+                "color": "9b2045",
+                "name": "历史"
+            },
+            "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTgxODc1MTA5NQ==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1818751095"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-08-30T17:07:49Z",
+            "event": "closed",
+            "id": 1818760703,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTgxODc2MDcwMw==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1818760703"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/62/events",
@@ -1513,14 +1639,6 @@
             "name": "APL",
             "node_id": "MDU6TGFiZWwxMDE5MjQ5NDI4",
             "url": "https://api.github.com/repos/program-in-chinese/overview/labels/APL"
-        },
-        {
-            "color": "9b2045",
-            "default": false,
-            "id": 1019249750,
-            "name": "历史",
-            "node_id": "MDU6TGFiZWwxMDE5MjQ5NzUw",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E5%8E%86%E5%8F%B2"
         },
         {
             "color": "6e0ba8",
@@ -1537,21 +1655,13 @@
             "name": "输入法",
             "node_id": "MDU6TGFiZWwxMDE3OTk5MTAw",
             "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E8%BE%93%E5%85%A5%E6%B3%95"
-        },
-        {
-            "color": "c5def5",
-            "default": false,
-            "id": 658880771,
-            "name": "长期",
-            "node_id": "MDU6TGFiZWw2NTg4ODA3NzE=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E9%95%BF%E6%9C%9F"
         }
     ],
     "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/62/labels{/name}",
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 1,
+        "closed_issues": 2,
         "created_at": "2018-07-20T08:26:27Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -1580,18 +1690,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/1/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMTAxNg==",
         "number": 1,
-        "open_issues": 1,
+        "open_issues": 0,
         "state": "open",
         "title": "dyl.rar",
-        "updated_at": "2018-08-13T00:09:49Z",
+        "updated_at": "2018-08-30T17:07:49Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/1"
     },
     "node_id": "MDU6SXNzdWUzNDIxOTk2MzE=",
     "number": 62,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "分享一下个人关于 中文编程/中文信息化 的思路",
-    "updated_at": "2018-08-13T21:27:40Z",
+    "updated_at": "2018-08-30T17:07:49Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/62",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",

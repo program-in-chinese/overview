@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 1039760454,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxMDM5NzYwNDU0",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 1039760455,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxMDM5NzYwNDU1",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 1039760456,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxMDM5NzYwNDU2",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 1039760458,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxMDM5NzYwNDU4",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 1039760457,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxMDM5NzYwNDU3",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 1039760459,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxMDM5NzYwNDU5",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 1039760460,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxMDM5NzYwNDYw",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 1039760461,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxMDM5NzYwNDYx",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/labels/wontfix"
+    }
+]

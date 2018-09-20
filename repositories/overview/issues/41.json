@@ -345,9 +345,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "下面的反馈指出了一个忽视了的但非常大而且中长期仍会大量增加的潜在用户群。考虑到老龄化以及老年人平均受教育水平越来越高, 他们会是最有动力(外界压力相对较小)使用中文编程的群体之一。\r\n\r\n摘自https://www.zhihu.com/question/20941966/answer/476507778?group_id=1021024804593233920#comment-512951229\r\n\r\n>中文编程最大的阻力就是输入法切换太麻烦，全角半角不通用。拿我身边的例子来说，我爸写程序用中文。退休了有的是时间，但是依然嫌麻烦。后来用拼音，结果发现时间长了看不懂。毕竟读的都是汉字，读拼音还是不习惯。最后还是用汉字了。",
+            "created_at": "2018-09-08T17:36:58Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/41#issuecomment-419660119",
+            "id": 419660119,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/41",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQxOTY2MDExOQ==",
+            "updated_at": "2018-09-08T17:36:58Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/419660119",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 11,
+    "comments": 12,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/41/comments",
     "created_at": "2017-10-19T04:28:11Z",
     "event_data": [
@@ -679,7 +710,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "如何面向中文编程(潜在)用户进行推广?",
-    "updated_at": "2018-08-24T16:51:22Z",
+    "updated_at": "2018-09-08T17:36:58Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/41",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

@@ -734,7 +734,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 12,
+        "closed_issues": 14,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -763,10 +763,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 17,
+        "open_issues": 19,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-08-23T07:55:02Z",
+        "updated_at": "2018-09-19T09:48:06Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzMTMyMDQwNDI=",
@@ -774,7 +774,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "天生支持i18n的程序语言汇总",
-    "updated_at": "2018-08-13T21:32:42Z",
+    "updated_at": "2018-09-19T09:32:57Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/59",
     "user": {
         "avatar_url": "https://avatars2.githubusercontent.com/u/7764678?v=4",
