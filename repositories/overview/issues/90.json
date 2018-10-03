@@ -2,50 +2,19 @@
     "assignee": null,
     "assignees": [],
     "author_association": "MEMBER",
-    "body": "首先分个类，常见的脚本语言可以这么分：\r\n - 主后端：Python，Perl/Ruby，erlang<BEAM\r\n - 内嵌式：Lua>C，elixir>erlang\r\n - 主前端：JavaScript<Node.js，TypeScript<deno，ActionScript3<JVM，Dart\r\n\r\n我觉上述语言，除了erlang/elixir外，都大同小异，甚至很多后端的python代码，都可以直接[机械]翻译成后端的typescript代码。现在的问题在于，PL不互通但可以互译，而相应的runtime却没办法统一调度。我觉得中文编程可以作为上层设计，用来统一调度这些PL的runtime。Haxe那种思路只是把代码从A翻译成B，然后用B去在B的runtime里执行，这种思路感觉还是太原始了，中间层生成了多余的代码，不利于协调。\r\n\r\n\r\n个人认为合理的调度层次应该是这样：中文化的脚本 -发送给> [middleman代理] -由代理直接操作> runtime\r\n\r\n",
+    "body": "缘起：很多人觉得github很复杂，也有很多人觉得GitHub全是英文看着发怵，简单说，在广大国人面前，GitHub还是不够人性化，不够贴近国情。\r\n\r\n思路：实现一个chrome的crx插件，可以覆盖大部分基于chromium和webkit/blink内核的浏览器，包括但不限于：Firefox，Opera、Vivaldi，360、qq、猎豹等\r\n\r\n需求实现：\r\n\r\n- [ ] 4.实现readme和issue的自动翻译功能\r\n- [ ] 4.1实现issue comment文本框的语言转换功能（输入中文，输出英文\r\n- [ ] 1.界面UI汉化：\r\n- [ ] 1.1覆盖常规页面[repo/issue]\r\n- [ ] 1.2覆盖 project/search\r\n- [ ] 2.论坛结构优化 /简化操作逻辑\r\n- [ ] 2.1优化code目录结构/树状浏览\r\n- [ ] 3.优化注册和登录流程\r\n- [ ] <del>3.1或者，使用一个公用github账号，进行游客代理</del>\r\n\r\n（to be continue / to be done\r\n\r\n\r\n\r\n\r\n ",
     "closed_at": null,
     "comment_data": [
         {
             "author_association": "MEMBER",
-            "body": "关于非脚本语言也可以类比：\r\n - 编译型：C++、C、Rust、D、Go\r\n - 平台型：.Net/C# VB F#，JVM/java scala clojure kotlin\r\n\r\n思路也是类似的，编译型貌似只能用haxe那种翻译的思路了，平台型可以转成bytecode。\r\n另外haxe只做翻译可能也是因为考虑到actionscript-转换>c++的问题",
-            "created_at": "2018-08-09T03:02:12Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/75#issuecomment-411621285",
-            "id": 411621285,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQxMTYyMTI4NQ==",
-            "updated_at": "2018-08-09T03:02:12Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/411621285",
-            "user": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
-                "events_url": "https://api.github.com/users/absente/events{/privacy}",
-                "followers_url": "https://api.github.com/users/absente/followers",
-                "following_url": "https://api.github.com/users/absente/following{/other_user}",
-                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/absente",
-                "id": 1655223,
-                "login": "absente",
-                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
-                "organizations_url": "https://api.github.com/users/absente/orgs",
-                "received_events_url": "https://api.github.com/users/absente/received_events",
-                "repos_url": "https://api.github.com/users/absente/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/absente"
-            }
-        },
-        {
-            "author_association": "MEMBER",
-            "body": "和Z语言思路有点类似? [Z语言实现基本原理](https://zhuanlan.zhihu.com/p/40523508)",
-            "created_at": "2018-08-09T03:24:47Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/75#issuecomment-411624502",
-            "id": 411624502,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQxMTYyNDUwMg==",
-            "updated_at": "2018-08-09T03:24:47Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/411624502",
+            "body": "之前github有过语言切换功能, 但2016年停止了: https://webapps.stackexchange.com/questions/51424/github-in-other-languages\r\n感觉这个插件可以集成代码翻译功能: [浏览器插件实现GitHub代码翻译原型演示](https://zhuanlan.zhihu.com/p/43304088)\r\n\r\n> 3.1 使用一个公用github账号，进行游客代理\r\n\r\n与匿名发言类似, 容易被滥用吧",
+            "created_at": "2018-10-02T17:20:16Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/90#issuecomment-426358153",
+            "id": 426358153,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/90",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQyNjM1ODE1Mw==",
+            "updated_at": "2018-10-02T17:20:16Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/426358153",
             "user": {
                 "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
                 "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
@@ -68,46 +37,15 @@
             }
         },
         {
-            "author_association": "MEMBER",
-            "body": "> 和Z语言思路有点类似?\r\n\r\n@nobodxbodon  还是有点差别的，层级顺序是中文>现有[脚本语言/平台语言]>runtime>编译后的可执行码",
-            "created_at": "2018-08-09T05:52:05Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/75#issuecomment-411644850",
-            "id": 411644850,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQxMTY0NDg1MA==",
-            "updated_at": "2018-08-09T05:52:05Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/411644850",
-            "user": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
-                "events_url": "https://api.github.com/users/absente/events{/privacy}",
-                "followers_url": "https://api.github.com/users/absente/followers",
-                "following_url": "https://api.github.com/users/absente/following{/other_user}",
-                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/absente",
-                "id": 1655223,
-                "login": "absente",
-                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
-                "organizations_url": "https://api.github.com/users/absente/orgs",
-                "received_events_url": "https://api.github.com/users/absente/received_events",
-                "repos_url": "https://api.github.com/users/absente/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/absente"
-            }
-        },
-        {
             "author_association": "NONE",
-            "body": "不同脚本语言也有各自的特性.而且语言也会更新 \r\n如果要把所有的脚本语言的运行时都调度到同一个运行时\r\n而且要实现所有特性的话上工作量太大",
-            "created_at": "2018-08-09T09:33:32Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/75#issuecomment-411698104",
-            "id": 411698104,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQxMTY5ODEwNA==",
-            "updated_at": "2018-08-09T09:33:32Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/411698104",
+            "body": "我觉得网站ui不需要翻译(\r\n需要翻译的是项目的readme、issues",
+            "created_at": "2018-10-02T22:03:41Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/90#issuecomment-426445969",
+            "id": 426445969,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/90",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQyNjQ0NTk2OQ==",
+            "updated_at": "2018-10-02T22:03:41Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/426445969",
             "user": {
                 "avatar_url": "https://avatars1.githubusercontent.com/u/31186920?v=4",
                 "events_url": "https://api.github.com/users/MikaGuraNTK/events{/privacy}",
@@ -131,45 +69,14 @@
         },
         {
             "author_association": "MEMBER",
-            "body": "@MikaGuraNTK \r\n关于更新的问题，我的想法是以python和node为主，其他少量兼容（比如JVM/.Net CLR）。\r\n不做全覆盖，erlang对应做erlang的port，根据实际需要去推导会好点。\r\nPS：可以类比tidb之于mysql的关系。\r\n\r\n换句话说不需要保证方言的一致性，只需在统一文字的基础上，在对应的runtime实现相应的功能就可以。\r\n\r\n为了统一，python的核心方言可以锁定版本到3.5.x（为了兼容pypy；3.5以后的作为DLC），node以TypeScript 3.0为准，erlang以OTP21为准，JVM以java8为准（9/10作为DLC），CLR锁定到.net core 2.x就行。\r\n\r\n具体语法的话，取erlang、typescript和rust的并集，基本上也就包含了python/.Net/JVM。",
-            "created_at": "2018-08-09T10:01:49Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/75#issuecomment-411705725",
-            "id": 411705725,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQxMTcwNTcyNQ==",
-            "updated_at": "2018-08-09T10:18:04Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/411705725",
-            "user": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
-                "events_url": "https://api.github.com/users/absente/events{/privacy}",
-                "followers_url": "https://api.github.com/users/absente/followers",
-                "following_url": "https://api.github.com/users/absente/following{/other_user}",
-                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/absente",
-                "id": 1655223,
-                "login": "absente",
-                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
-                "organizations_url": "https://api.github.com/users/absente/orgs",
-                "received_events_url": "https://api.github.com/users/absente/received_events",
-                "repos_url": "https://api.github.com/users/absente/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/absente"
-            }
-        },
-        {
-            "author_association": "MEMBER",
-            "body": "今天听说Julia 1.0发布了，感觉很多思路可以借鉴。https://julialang.org/",
-            "created_at": "2018-08-10T14:04:11Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/75#issuecomment-412092244",
-            "id": 412092244,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQxMjA5MjI0NA==",
-            "updated_at": "2018-08-10T14:04:11Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/412092244",
+            "body": "> @MikaGuraNTK 我觉得网站ui不需要翻译(\r\n> 需要翻译的是项目的readme、issues\r\n\r\n对于已经会英语的来说自然是不需要UI翻译的。readme 和 issue倒是有更需要一点。(已补充到1楼\r\n\r\n> @nobodxbodon 感觉这个插件可以集成代码翻译功能: 浏览器插件实现GitHub代码翻译原型演示\r\n\r\n嗯，有很多现有的代码可以利用。\r\n\r\n> 与匿名发言类似, 容易被滥用吧\r\n\r\n是的（已排除",
+            "created_at": "2018-10-03T03:43:27Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/90#issuecomment-426502373",
+            "id": 426502373,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/90",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQyNjUwMjM3Mw==",
+            "updated_at": "2018-10-03T03:43:27Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/426502373",
             "user": {
                 "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
                 "events_url": "https://api.github.com/users/absente/events{/privacy}",
@@ -192,9 +99,9 @@
             }
         }
     ],
-    "comments": 6,
-    "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75/comments",
-    "created_at": "2018-08-09T02:49:04Z",
+    "comments": 3,
+    "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/90/comments",
+    "created_at": "2018-10-02T11:44:05Z",
     "event_data": [
         {
             "actor": {
@@ -219,15 +126,15 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-09T02:49:04Z",
+            "created_at": "2018-10-02T11:44:05Z",
             "event": "labeled",
-            "id": 1779192739,
+            "id": 1879073948,
             "label": {
                 "color": "6e0ba8",
                 "name": "想法"
             },
-            "node_id": "MDEyOkxhYmVsZWRFdmVudDE3NzkxOTI3Mzk=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779192739"
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE4NzkwNzM5NDg=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1879073948"
         },
         {
             "actor": {
@@ -252,15 +159,15 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-09T02:49:04Z",
+            "created_at": "2018-10-02T11:44:05Z",
             "event": "labeled",
-            "id": 1779192740,
+            "id": 1879073949,
             "label": {
-                "color": "f9d0c4",
-                "name": "翻译/汉化"
+                "color": "006b75",
+                "name": "推广"
             },
-            "node_id": "MDEyOkxhYmVsZWRFdmVudDE3NzkxOTI3NDA=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779192740"
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE4NzkwNzM5NDk=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1879073949"
         },
         {
             "actor": {
@@ -285,15 +192,15 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-09T02:49:04Z",
+            "created_at": "2018-10-02T11:44:05Z",
             "event": "labeled",
-            "id": 1779192741,
+            "id": 1879073952,
             "label": {
-                "color": "0052cc",
-                "name": "底层"
+                "color": "bfd4f2",
+                "name": "调研"
             },
-            "node_id": "MDEyOkxhYmVsZWRFdmVudDE3NzkxOTI3NDE=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779192741"
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE4NzkwNzM5NTI=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1879073952"
         },
         {
             "actor": {
@@ -318,47 +225,14 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-09T02:49:04Z",
-            "event": "labeled",
-            "id": 1779192742,
-            "label": {
-                "color": "6ffcc6",
-                "name": "语言设计"
-            },
-            "node_id": "MDEyOkxhYmVsZWRFdmVudDE3NzkxOTI3NDI=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779192742"
-        },
-        {
-            "actor": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
-                "events_url": "https://api.github.com/users/absente/events{/privacy}",
-                "followers_url": "https://api.github.com/users/absente/followers",
-                "following_url": "https://api.github.com/users/absente/following{/other_user}",
-                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/absente",
-                "id": 1655223,
-                "login": "absente",
-                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
-                "organizations_url": "https://api.github.com/users/absente/orgs",
-                "received_events_url": "https://api.github.com/users/absente/received_events",
-                "repos_url": "https://api.github.com/users/absente/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/absente"
-            },
-            "commit_id": null,
-            "commit_url": null,
-            "created_at": "2018-08-09T04:57:21Z",
+            "created_at": "2018-10-02T11:44:15Z",
             "event": "milestoned",
-            "id": 1779309214,
+            "id": 1879074258,
             "milestone": {
                 "title": "2018戊戌"
             },
-            "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE3NzkzMDkyMTQ=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779309214"
+            "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE4NzkwNzQyNTg=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1879074258"
         },
         {
             "actor": {
@@ -383,11 +257,11 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-09T05:52:05Z",
+            "created_at": "2018-10-03T03:43:27Z",
             "event": "mentioned",
-            "id": 1779361575,
-            "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MTc3OTM2MTU3NQ==",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779361575"
+            "id": 1880907842,
+            "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MTg4MDkwNzg0Mg==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1880907842"
         },
         {
             "actor": {
@@ -412,11 +286,11 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-09T05:52:05Z",
+            "created_at": "2018-10-03T03:43:27Z",
             "event": "subscribed",
-            "id": 1779361576,
-            "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE3NzkzNjE1NzY=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779361576"
+            "id": 1880907843,
+            "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE4ODA5MDc4NDM=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1880907843"
         },
         {
             "actor": {
@@ -441,11 +315,11 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-09T10:01:49Z",
+            "created_at": "2018-10-03T03:43:27Z",
             "event": "mentioned",
-            "id": 1779799877,
-            "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MTc3OTc5OTg3Nw==",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779799877"
+            "id": 1880907844,
+            "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MTg4MDkwNzg0NA==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1880907844"
         },
         {
             "actor": {
@@ -470,87 +344,17 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-09T10:01:49Z",
+            "created_at": "2018-10-03T03:43:27Z",
             "event": "subscribed",
-            "id": 1779799879,
-            "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE3Nzk3OTk4Nzk=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1779799879"
-        },
-        {
-            "actor": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
-                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
-                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
-                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
-                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/nobodxbodon",
-                "id": 392497,
-                "login": "nobodxbodon",
-                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
-                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
-                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
-                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/nobodxbodon"
-            },
-            "commit_id": null,
-            "commit_url": null,
-            "created_at": "2018-08-13T21:27:40Z",
-            "event": "unlabeled",
-            "id": 1786439944,
-            "label": {
-                "color": "0052cc",
-                "name": "L底层"
-            },
-            "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTc4NjQzOTk0NA==",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1786439944"
-        },
-        {
-            "actor": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
-                "events_url": "https://api.github.com/users/absente/events{/privacy}",
-                "followers_url": "https://api.github.com/users/absente/followers",
-                "following_url": "https://api.github.com/users/absente/following{/other_user}",
-                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/absente",
-                "id": 1655223,
-                "login": "absente",
-                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
-                "organizations_url": "https://api.github.com/users/absente/orgs",
-                "received_events_url": "https://api.github.com/users/absente/received_events",
-                "repos_url": "https://api.github.com/users/absente/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/absente"
-            },
-            "commit_id": null,
-            "commit_url": null,
-            "created_at": "2018-08-15T12:58:45Z",
-            "event": "added_to_project",
-            "id": 1789958937,
-            "node_id": "MDE5OkFkZGVkVG9Qcm9qZWN0RXZlbnQxNzg5OTU4OTM3",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1789958937"
+            "id": 1880907845,
+            "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE4ODA5MDc4NDU=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1880907845"
         }
     ],
-    "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75/events",
-    "html_url": "https://github.com/program-in-chinese/overview/issues/75",
-    "id": 348955845,
+    "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/90/events",
+    "html_url": "https://github.com/program-in-chinese/overview/issues/90",
+    "id": 365858848,
     "labels": [
-        {
-            "color": "f9d0c4",
-            "default": false,
-            "id": 1017998120,
-            "name": "中文化",
-            "node_id": "MDU6TGFiZWwxMDE3OTk4MTIw",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E4%B8%AD%E6%96%87%E5%8C%96"
-        },
         {
             "color": "6e0ba8",
             "default": false,
@@ -560,15 +364,23 @@
             "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%83%B3%E6%B3%95"
         },
         {
-            "color": "6ffcc6",
+            "color": "006b75",
             "default": false,
-            "id": 1017999778,
-            "name": "设计",
-            "node_id": "MDU6TGFiZWwxMDE3OTk5Nzc4",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E8%AE%BE%E8%AE%A1"
+            "id": 1017997653,
+            "name": "推广",
+            "node_id": "MDU6TGFiZWwxMDE3OTk3NjUz",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%8E%A8%E5%B9%BF"
+        },
+        {
+            "color": "bfd4f2",
+            "default": false,
+            "id": 1018001029,
+            "name": "调研",
+            "node_id": "MDU6TGFiZWwxMDE4MDAxMDI5",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E8%B0%83%E7%A0%94"
         }
     ],
-    "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/75/labels{/name}",
+    "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/90/labels{/name}",
     "locked": false,
     "milestone": {
         "closed_at": null,
@@ -607,13 +419,13 @@
         "updated_at": "2018-10-02T11:44:15Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
-    "node_id": "MDU6SXNzdWUzNDg5NTU4NDU=",
-    "number": 75,
+    "node_id": "MDU6SXNzdWUzNjU4NTg4NDg=",
+    "number": 90,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
-    "title": "关于脚本语言的同质化、代码互译，以及运行时共享的一些想法",
-    "updated_at": "2018-08-13T21:27:40Z",
-    "url": "https://api.github.com/repos/program-in-chinese/overview/issues/75",
+    "title": "实现做一个Github 网站UI中文化插件",
+    "updated_at": "2018-10-03T03:43:27Z",
+    "url": "https://api.github.com/repos/program-in-chinese/overview/issues/90",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
         "events_url": "https://api.github.com/users/absente/events{/privacy}",

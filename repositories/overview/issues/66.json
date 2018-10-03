@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "白驹过隙, 时不我待. \r\n如果有兴趣的话, 要不在哪试着建个聊天室之类? 作为讨论组成员促进交流之用.",
-    "closed_at": null,
+    "closed_at": "2018-09-24T07:31:21Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -4931,6 +4931,35 @@
             "id": 1847871164,
             "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE4NDc4NzExNjQ=",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1847871164"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-09-24T07:31:21Z",
+            "event": "closed",
+            "id": 1862458148,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTg2MjQ1ODE0OA==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1862458148"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/66/events",
@@ -4950,7 +4979,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 14,
+        "closed_issues": 16,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -4979,18 +5008,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 19,
+        "open_issues": 18,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-09-19T09:48:06Z",
+        "updated_at": "2018-10-02T11:44:15Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNDMzMDQ3MDU=",
     "number": 66,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "讨论组成立一周年 聚会?",
-    "updated_at": "2018-09-19T09:30:19Z",
+    "updated_at": "2018-09-24T07:31:21Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/66",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

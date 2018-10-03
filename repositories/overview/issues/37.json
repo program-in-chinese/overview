@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "经 @hummerstudio [建议](https://github.com/program-in-chinese/overview/issues/9#issuecomment-336820860), 开专题讨论. 下面内容来自[原帖](https://github.com/program-in-chinese/overview/issues/9#issue-246953852)\r\n\r\n核心库的中文化是个工作量很大的挑战, 因为包括文档的翻译, 而且可能会有不可能汉化的部分(比如[无法用一个新interface取代Iterable](https://git.oschina.net/zhishi/JavaCN/issues/I8K9Y)的问题). [这里](https://git.oschina.net/zhishi/JavaCN)是尝试对Java核心库(从最常用的部分开始)的汉化. 比如ArrayList汉化成\"数组列表\", 单元测试示例如下:\r\n```\r\npublic class 数组列表测试 {\r\n\r\n  // TODO: 添加测试“取”方法\r\n  \r\n  @Test\r\n  public void 测试添加元素类() {\r\n    数组列表<Integer> 表 = new 数组列表<>();\r\n    表.添加(1);\r\n    assertTrue(表.长度() == 1);\r\n  }\r\n\r\n  @Test\r\n  public void 测试添加整数元素类() {\r\n    数组列表<Integer> 表 = new 数组列表<>();\r\n    表.添加(0, 2);\r\n    assertTrue(表.长度() == 1);\r\n    表.添加(0, 1);\r\n    assertTrue(表.长度() == 2);\r\n  }\r\n\r\n  @Test\r\n  public void 测试Collections方法() {\r\n    数组列表<Integer> 表 = new 数组列表<>();\r\n    表.添加(2);\r\n    表.添加(1);\r\n    Collections.sort(表.原型());\r\n    assertTrue(表.取(0) == 1);\r\n  }\r\n}\r\n```\r\n尝试过的方法:\r\n1. 封装原类, [ArrayList例子](https://gitee.com/zhishi/JavaCN/blob/master/src/%E7%88%AA%E5%93%87/%E5%85%AC%E7%94%A8/%E6%95%B0%E7%BB%84%E5%88%97%E8%A1%A8.java)\r\n2. 汉化源代码, [Collection例子](https://gitee.com/zhishi/JavaCN/blob/master/src/%E7%88%AA%E5%93%87/%E5%85%AC%E7%94%A8/%E9%9B%86%E5%90%88.java)\r\n\r\n1对接口(Interface)不适用, 2还是有比如上面Iterable的问题. \r\n\r\n@hummerstudio https://github.com/program-in-chinese/overview/issues/9#issuecomment-336815090 提出项目开展方法:\r\n\r\n> 1. 先确定翻译范围，列出来。包括（类所属）包名、类名、（类的）方法名。方法名有API可以很方便的打印出来，具体我不记得了，IDE显示方法名就是用的这个API。\r\n> 1. 在步骤1的基础上，看看哪些是常见的词（专业术语，有特殊指定的词等），讨论制定一个标准的英文->中文的对照表。\r\n> 1. 在步骤2的基础上，参考步骤1的输出，就可以让社区的人员来自愿领取翻译任务了，这时候已经没有什么技术性可研了，写好教程即可。\r\n> 1. 另外要做好版本控制，做到一个官方JDK版本对应一个汉化版本。\r\n\r\n> 大体上是这样一个步骤，步骤3的实施过程可以根据步骤2的结果看看复杂性如何，是否可以引入一些方便的工具来进一步降低难度和效率（比如开发一个源码自动修改、打包的工具，只需要翻译人员提供一个特定格式的文本文件，工具读取文件，自动修改英文原版源码，并作打包）。\r\n\r\n上面所说的自动修改工具在[这](https://gitee.com/zhishi/JavaCN/tree/master/src/main/%E5%B7%A5%E5%85%B7)有一点很初步的尝试.",
-    "closed_at": null,
+    "closed_at": "2018-09-24T07:32:58Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -190,9 +190,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "如有进展再行开启.",
+            "created_at": "2018-09-24T07:32:58Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/37#issuecomment-423894947",
+            "id": 423894947,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/37",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQyMzg5NDk0Nw==",
+            "updated_at": "2018-09-24T07:32:58Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/423894947",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 6,
+    "comments": 7,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/37/comments",
     "created_at": "2017-10-16T17:27:00Z",
     "event_data": [
@@ -547,6 +578,35 @@
             "id": 1789958269,
             "node_id": "MDE5OkFkZGVkVG9Qcm9qZWN0RXZlbnQxNzg5OTU4MjY5",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1789958269"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-09-24T07:32:58Z",
+            "event": "closed",
+            "id": 1862460220,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTg2MjQ2MDIyMA==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1862460220"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/37/events",
@@ -568,9 +628,9 @@
     "node_id": "MDU6SXNzdWUyNjU4NDk5NTY=",
     "number": 37,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "尝试JDK汉化",
-    "updated_at": "2018-08-08T06:25:58Z",
+    "updated_at": "2018-09-24T07:32:58Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/37",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
