@@ -2,7 +2,7 @@
     "assignee": null,
     "assignees": [],
     "author_association": "MEMBER",
-    "body": "刚迎来了第三位成员, 俗话说三人成群, 也许是时候讨论一下这个社区的运行方式了. 本人是第一次在github新建orgnization, 之前参与过另一个以外国程序员为主的org, 觉得大氛围挺专业, 而且这种公开讨论的形式效率挺高. 希望大家随意聊聊. 比如对这个社区的期望, 个人的目标, 如何利用github进行主题讨论, 任何对我的问题, 或者任何其他话题. @buyouyuan  @jeromechan\r\n\r\n下面是已有的讨论较多的话题. 为避免此帖太长, 如对其中一些有兴趣可以直接在那里发表; 如果有新主题或不同意见非常欢迎开新issue讨论(类似论坛开新帖):\r\n- 发展中文API\r\n  - [创建新API](https://github.com/program-in-chinese/overview/issues/6)\r\n  - [汉化已有的英文API](https://github.com/program-in-chinese/overview/issues/9)\r\n- [以中文代码作例程的教程](https://github.com/program-in-chinese/overview/issues/5)\r\n- [创立新语言](https://github.com/program-in-chinese/overview/issues/11)\r\n\r\n另, 本人在其他社区的账号: [知乎](https://www.zhihu.com/people/wu-xuan-81-42/posts) [百度贴吧](http://tieba.baidu.com/home/main?id=afd5e58786e5a4a7e4baba162b&fr=userbar&red_tag=r3320357497) [OSC](https://my.oschina.net/u/750760/home?type=atme) [易语言论坛](http://bbs.eyuyan.com/u.php?uid=794220)",
+    "body": "刚迎来了第三位成员, 俗话说三人成群, 也许是时候讨论一下这个社区的运行方式了. 本人是第一次在github新建orgnization, 之前参与过另一个以外国程序员为主的org, 觉得大氛围挺专业, 而且这种公开讨论的形式效率挺高. 希望大家随意聊聊. 比如对这个社区的期望, 个人的目标, 如何利用github进行主题讨论, 任何对我的问题, 或者任何其他话题. @buyouyuan  @jeromechan\r\n\r\n下面是已有的讨论较多的话题. 为避免此帖太长, 如对其中一些有兴趣可以直接在那里发表; 如果有新主题或不同意见非常欢迎开新issue讨论(类似论坛开新帖):\r\n- 发展中文API\r\n  - [创建新API](https://github.com/program-in-chinese/overview/issues/6)\r\n  - [汉化已有的英文API](https://github.com/program-in-chinese/overview/issues/9)\r\n- [以中文代码作例程的教程](https://github.com/program-in-chinese/overview/issues/5)\r\n- [创立新语言](https://github.com/program-in-chinese/overview/issues/11)\r\n\r\n另, 本人在其他社区的账号: [知乎](https://www.zhihu.com/people/wu-xuan-81-42/posts) [百度贴吧](http://tieba.baidu.com/home/main?id=afd5e58786e5a4a7e4baba162b&fr=userbar&red_tag=r3320357497) [OSC](https://my.oschina.net/u/750760/home?type=atme) [易语言论坛](http://bbs.eyuyan.com/u.php?uid=794220)\r\n\r\n内部微信群详见[此贴](https://github.com/program-in-chinese/overview/issues/66)",
     "closed_at": null,
     "comment_data": [
         {
@@ -5752,7 +5752,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "社区运行方式讨论, 迎新",
-    "updated_at": "2018-09-02T15:16:43Z",
+    "updated_at": "2018-10-04T21:12:08Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/2",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
