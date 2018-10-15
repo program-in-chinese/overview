@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 1089182498,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxMDg5MTgyNDk4",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 1089182499,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxMDg5MTgyNDk5",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 1089182500,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxMDg5MTgyNTAw",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 1089182502,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxMDg5MTgyNTAy",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 1089182501,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxMDg5MTgyNTAx",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 1089182503,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxMDg5MTgyNTAz",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 1089182504,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxMDg5MTgyNTA0",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 1089182505,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxMDg5MTgyNTA1",
+        "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/labels/wontfix"
+    }
+]
