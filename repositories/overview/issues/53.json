@@ -757,9 +757,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "也许可供参考, [ローマ字入力時の日本語識別子入力補完プラグインの 開発](http://jssst.or.jp/files/user/taikai/2017/FOSE/fose3-1.pdf)开发了辅助插件以改进IDE对输入日语命名的支持:\r\n> In this research, we develop a plug-in that reduces the burden on programmers when input Japanese identifier. The complication of software development projects in recent years has increased the time cost of maintaining software. So it is important to increase the readability of source code in order to reduce costs. There are several reports that it is useful to write the identi er names of variables and functions in Japanese as one way to increase the readability of source codes. However, when input Japanese identifier, there are some problems to struggle for programmers: the character conversion is troublesome and the input completion is not effective. In this research, we attempt two kinds of methods, one using Migemo and one using morphological analysis, to develop a plug-in that realizes incremental search for Japanese identi ers even if Romaji input mode, and to solve above problems.",
+            "created_at": "2018-10-19T02:50:54Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/53#issuecomment-431228418",
+            "id": 431228418,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/53",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzMTIyODQxOA==",
+            "updated_at": "2018-10-19T02:50:54Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/431228418",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 23,
+    "comments": 24,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/53/comments",
     "created_at": "2018-01-06T17:32:59Z",
     "event_data": [
@@ -1532,7 +1563,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 17,
+        "closed_issues": 18,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -1561,10 +1592,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 18,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-10-03T09:03:29Z",
+        "updated_at": "2018-10-17T14:04:33Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUyODY1MDI3NzE=",
@@ -1572,7 +1603,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "vsc插件实现拼音输入法",
-    "updated_at": "2018-08-13T21:14:35Z",
+    "updated_at": "2018-10-19T02:50:54Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/53",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

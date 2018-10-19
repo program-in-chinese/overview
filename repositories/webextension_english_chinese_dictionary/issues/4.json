@@ -8,7 +8,37 @@
     "comments": 0,
     "comments_url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/issues/4/comments",
     "created_at": "2018-10-14T07:17:56Z",
-    "event_data": [],
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": "c5ed68577e457b0f2b5a75b50789039810310c1d",
+            "commit_url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/commits/c5ed68577e457b0f2b5a75b50789039810310c1d",
+            "created_at": "2018-10-15T22:13:44Z",
+            "event": "referenced",
+            "id": 1905343435,
+            "node_id": "MDE1OlJlZmVyZW5jZWRFdmVudDE5MDUzNDM0MzU=",
+            "url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/issues/events/1905343435"
+        }
+    ],
     "events_url": "https://api.github.com/repos/program-in-chinese/webextension_english_chinese_dictionary/issues/4/events",
     "html_url": "https://github.com/program-in-chinese/webextension_english_chinese_dictionary/issues/4",
     "id": 369875416,

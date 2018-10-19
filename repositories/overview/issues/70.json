@@ -531,9 +531,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "@ZoomQuiet 请教一下关于社区建设和推广的问题. 最初在此建立讨论组的主要出发点是:\r\n- 管理成本较小\r\n- 面向程序员群体\r\n- 便于分享代码\r\n- 所有讨论内容方便导出和备份(https://github.com/program-in-chinese/backup_issues)\r\n\r\n在讨论过程中逐渐发现这里接触不到很多中文编程的潜在用户(https://github.com/program-in-chinese/overview/issues/41, https://github.com/program-in-chinese/overview/issues/19). 请问有建议或经验可以分享吗?",
+            "created_at": "2018-10-17T19:19:46Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/70#issuecomment-430755259",
+            "id": 430755259,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/70",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzMDc1NTI1OQ==",
+            "updated_at": "2018-10-17T19:19:46Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/430755259",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 17,
+    "comments": 18,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/70/comments",
     "created_at": "2018-07-23T07:37:34Z",
     "event_data": [
@@ -1533,6 +1564,64 @@
             "id": 1784351900,
             "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE3ODQzNTE5MDA=",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1784351900"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/22494?v=4",
+                "events_url": "https://api.github.com/users/ZoomQuiet/events{/privacy}",
+                "followers_url": "https://api.github.com/users/ZoomQuiet/followers",
+                "following_url": "https://api.github.com/users/ZoomQuiet/following{/other_user}",
+                "gists_url": "https://api.github.com/users/ZoomQuiet/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/ZoomQuiet",
+                "id": 22494,
+                "login": "ZoomQuiet",
+                "node_id": "MDQ6VXNlcjIyNDk0",
+                "organizations_url": "https://api.github.com/users/ZoomQuiet/orgs",
+                "received_events_url": "https://api.github.com/users/ZoomQuiet/received_events",
+                "repos_url": "https://api.github.com/users/ZoomQuiet/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/ZoomQuiet/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/ZoomQuiet/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/ZoomQuiet"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-10-17T19:19:46Z",
+            "event": "mentioned",
+            "id": 1910473702,
+            "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MTkxMDQ3MzcwMg==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1910473702"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/22494?v=4",
+                "events_url": "https://api.github.com/users/ZoomQuiet/events{/privacy}",
+                "followers_url": "https://api.github.com/users/ZoomQuiet/followers",
+                "following_url": "https://api.github.com/users/ZoomQuiet/following{/other_user}",
+                "gists_url": "https://api.github.com/users/ZoomQuiet/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/ZoomQuiet",
+                "id": 22494,
+                "login": "ZoomQuiet",
+                "node_id": "MDQ6VXNlcjIyNDk0",
+                "organizations_url": "https://api.github.com/users/ZoomQuiet/orgs",
+                "received_events_url": "https://api.github.com/users/ZoomQuiet/received_events",
+                "repos_url": "https://api.github.com/users/ZoomQuiet/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/ZoomQuiet/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/ZoomQuiet/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/ZoomQuiet"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-10-17T19:19:46Z",
+            "event": "subscribed",
+            "id": 1910473705,
+            "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE5MTA0NzM3MDU=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1910473705"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/70/events",
@@ -1552,7 +1641,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 17,
+        "closed_issues": 18,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -1581,10 +1670,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 18,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-10-03T09:03:29Z",
+        "updated_at": "2018-10-17T14:04:33Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNDM1MjA2NjM=",
@@ -1592,7 +1681,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "在国内社区进行相关推广",
-    "updated_at": "2018-09-19T09:32:45Z",
+    "updated_at": "2018-10-17T19:19:46Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/70",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

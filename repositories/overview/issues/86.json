@@ -593,9 +593,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "[Github代码翻译插件](https://zhuanlan.zhihu.com/p/43304088)的后续:\r\n[Chrome插件原型](https://chrome.google.com/webstore/detail/github%E4%BB%A3%E7%A0%81%E7%BF%BB%E8%AF%91%E5%8E%9F%E5%9E%8B/inicknfojohdbgekdffgcdfiheflpnbh/related)\r\n通过调用[离线英汉词典插件](https://github.com/program-in-chinese/webextension_english_chinese_dictionary)的查词接口, 实现了除关键词和核心API之外的命名和文本单词部分翻译:\r\nPython:\r\n![screen shot 2018-10-17 at 12 15 00 am](https://user-images.githubusercontent.com/392497/47069724-84f09080-d1a4-11e8-9550-89aaa582f6aa.png)\r\nTypescript:\r\n![screen shot 2018-10-17 at 12 36 21 am](https://user-images.githubusercontent.com/392497/47069956-106a2180-d1a5-11e8-825b-fa5a882c806d.png)\r\nJava:\r\n![screen shot 2018-10-17 at 12 38 24 am](https://user-images.githubusercontent.com/392497/47069960-12cc7b80-d1a5-11e8-8c47-a0f9bb0c4068.png)\r\n打算继续改进. 包括添加所有语言的关键词词典, 等等.\r\n",
+            "created_at": "2018-10-17T07:40:31Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/86#issuecomment-430523546",
+            "id": 430523546,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/86",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzMDUyMzU0Ng==",
+            "updated_at": "2018-10-17T07:40:31Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/430523546",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 19,
+    "comments": 20,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/86/comments",
     "created_at": "2018-08-26T03:37:44Z",
     "event_data": [
@@ -955,7 +986,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 17,
+        "closed_issues": 18,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -984,10 +1015,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 18,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-10-03T09:03:29Z",
+        "updated_at": "2018-10-17T14:04:33Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNTQwNjIwNTU=",
@@ -995,7 +1026,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "批量代码汉化工具",
-    "updated_at": "2018-10-09T07:05:39Z",
+    "updated_at": "2018-10-17T07:40:31Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/86",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
