@@ -613,10 +613,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 20,
+        "open_issues": 25,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-10-17T14:04:33Z",
+        "updated_at": "2018-10-20T06:15:20Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNDQ3MzA2MzY=",

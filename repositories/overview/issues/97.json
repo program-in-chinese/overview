@@ -2,44 +2,15 @@
     "assignee": null,
     "assignees": [],
     "author_association": "MEMBER",
-    "body": "- 我不会在面向过程的编程方式上做改变\r\n比如无意修改关键词写法\r\n- 自然语言有很多快捷短语 以及灵活的用法，但我致力于剔除这些东西，目的是得到一个比较核心的部分。\r\n推荐一本书《现代汉语800词》\r\n- 语言可以描述思维，用图也可以。只是二者各有长短。\r\n\r\n",
-    "closed_at": "2018-08-23T06:37:37Z",
+    "body": "昨天发现日本教育界有将编程与核心学科结合的思路, 如2017年的[小学校におけるプログラミング 教育実践上 の 課題](http://www.naruto-u.ac.jp/journal/info-edu/j15005.pdf), 感觉和之前自己一些想法有些共鸣.\r\n最重要的是, 只有依靠母语命名, 才可以做到这样的结合. 毕竟不可能在少儿时期就用第二语言教学核心学科.\r\n\r\n![screen shot 2018-10-18 at 3 20 45 pm](https://user-images.githubusercontent.com/392497/47251836-a2189f80-d3ee-11e8-9c46-ecc75a85b86d.png)\r\n\r\n\r\n打算研究一下日本官方今年刚发布的[小学编程教育指导第一版](http://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2018/03/30/1403162_01.pdf) (在[知乎文章](https://zhuanlan.zhihu.com/p/47128031)引用), 总结一下可以借鉴的部分.\r\n\r\n哪位日语水平在线的童鞋欢迎一同, 靠在线翻译啃还是挺费劲的.",
+    "closed_at": null,
     "comment_data": [],
     "comments": 0,
-    "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/84/comments",
-    "created_at": "2018-08-23T06:29:31Z",
+    "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/97/comments",
+    "created_at": "2018-10-20T05:34:03Z",
     "event_data": [
         {
             "actor": {
-                "avatar_url": "https://avatars3.githubusercontent.com/u/25894997?v=4",
-                "events_url": "https://api.github.com/users/gchihiha/events{/privacy}",
-                "followers_url": "https://api.github.com/users/gchihiha/followers",
-                "following_url": "https://api.github.com/users/gchihiha/following{/other_user}",
-                "gists_url": "https://api.github.com/users/gchihiha/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/gchihiha",
-                "id": 25894997,
-                "login": "gchihiha",
-                "node_id": "MDQ6VXNlcjI1ODk0OTk3",
-                "organizations_url": "https://api.github.com/users/gchihiha/orgs",
-                "received_events_url": "https://api.github.com/users/gchihiha/received_events",
-                "repos_url": "https://api.github.com/users/gchihiha/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/gchihiha/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/gchihiha/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/gchihiha"
-            },
-            "commit_id": null,
-            "commit_url": null,
-            "created_at": "2018-08-23T06:37:37Z",
-            "event": "closed",
-            "id": 1804457849,
-            "node_id": "MDExOkNsb3NlZEV2ZW50MTgwNDQ1Nzg0OQ==",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1804457849"
-        },
-        {
-            "actor": {
                 "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
                 "events_url": "https://api.github.com/users/absente/events{/privacy}",
                 "followers_url": "https://api.github.com/users/absente/followers",
@@ -61,15 +32,15 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-23T07:52:11Z",
+            "created_at": "2018-10-20T06:10:20Z",
             "event": "labeled",
-            "id": 1804580191,
+            "id": 1916075247,
             "label": {
-                "color": "6e0ba8",
-                "name": "想法"
+                "color": "006b75",
+                "name": "推广"
             },
-            "node_id": "MDEyOkxhYmVsZWRFdmVudDE4MDQ1ODAxOTE=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1804580191"
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE5MTYwNzUyNDc=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1916075247"
         },
         {
             "actor": {
@@ -94,30 +65,71 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-23T07:55:02Z",
+            "created_at": "2018-10-20T06:10:20Z",
+            "event": "labeled",
+            "id": 1916075249,
+            "label": {
+                "color": "f9d0c4",
+                "name": "中文化"
+            },
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE5MTYwNzUyNDk=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1916075249"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-10-20T06:10:23Z",
             "event": "milestoned",
-            "id": 1804585665,
+            "id": 1916075273,
             "milestone": {
                 "title": "2018戊戌"
             },
-            "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE4MDQ1ODU2NjU=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1804585665"
+            "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE5MTYwNzUyNzM=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1916075273"
         }
     ],
-    "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/84/events",
-    "html_url": "https://github.com/program-in-chinese/overview/issues/84",
-    "id": 353241950,
+    "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/97/events",
+    "html_url": "https://github.com/program-in-chinese/overview/issues/97",
+    "id": 372175881,
     "labels": [
         {
-            "color": "6e0ba8",
+            "color": "f9d0c4",
             "default": false,
-            "id": 1000523124,
-            "name": "想法",
-            "node_id": "MDU6TGFiZWwxMDAwNTIzMTI0",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%83%B3%E6%B3%95"
+            "id": 1017998120,
+            "name": "中文化",
+            "node_id": "MDU6TGFiZWwxMDE3OTk4MTIw",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E4%B8%AD%E6%96%87%E5%8C%96"
+        },
+        {
+            "color": "006b75",
+            "default": false,
+            "id": 1017997653,
+            "name": "推广",
+            "node_id": "MDU6TGFiZWwxMDE3OTk3NjUz",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%8E%A8%E5%B9%BF"
         }
     ],
-    "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/84/labels{/name}",
+    "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/97/labels{/name}",
     "locked": false,
     "milestone": {
         "closed_at": null,
@@ -156,31 +168,31 @@
         "updated_at": "2018-10-20T06:15:20Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
-    "node_id": "MDU6SXNzdWUzNTMyNDE5NTA=",
-    "number": 84,
+    "node_id": "MDU6SXNzdWUzNzIxNzU4ODE=",
+    "number": 97,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "closed",
-    "title": "hi~我来了 我描述一下自己观点",
-    "updated_at": "2018-08-23T07:55:02Z",
-    "url": "https://api.github.com/repos/program-in-chinese/overview/issues/84",
+    "state": "open",
+    "title": "通过中文命名将少儿编程与核心学科结合起来",
+    "updated_at": "2018-10-20T06:10:23Z",
+    "url": "https://api.github.com/repos/program-in-chinese/overview/issues/97",
     "user": {
-        "avatar_url": "https://avatars3.githubusercontent.com/u/25894997?v=4",
-        "events_url": "https://api.github.com/users/gchihiha/events{/privacy}",
-        "followers_url": "https://api.github.com/users/gchihiha/followers",
-        "following_url": "https://api.github.com/users/gchihiha/following{/other_user}",
-        "gists_url": "https://api.github.com/users/gchihiha/gists{/gist_id}",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+        "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+        "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+        "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
         "gravatar_id": "",
-        "html_url": "https://github.com/gchihiha",
-        "id": 25894997,
-        "login": "gchihiha",
-        "node_id": "MDQ6VXNlcjI1ODk0OTk3",
-        "organizations_url": "https://api.github.com/users/gchihiha/orgs",
-        "received_events_url": "https://api.github.com/users/gchihiha/received_events",
-        "repos_url": "https://api.github.com/users/gchihiha/repos",
+        "html_url": "https://github.com/nobodxbodon",
+        "id": 392497,
+        "login": "nobodxbodon",
+        "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+        "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+        "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+        "repos_url": "https://api.github.com/users/nobodxbodon/repos",
         "site_admin": false,
-        "starred_url": "https://api.github.com/users/gchihiha/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/gchihiha/subscriptions",
+        "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/gchihiha"
+        "url": "https://api.github.com/users/nobodxbodon"
     }
 }

@@ -2,50 +2,19 @@
     "assignee": null,
     "assignees": [],
     "author_association": "MEMBER",
-    "body": "### 表示关系\r\n#### 合并/交叉同类项：结构助词/所有格(possessive - [的/之]\r\n\r\n中文里面，如果一句话里面有两个以上的【的】字，通常可以减去一个(以上），且不影响原有的意思。比如标题就可以写成：一些APL类风格[的]编程语言之语法设计思考",
+    "body": "我觉得为了与易语言这类汉化编程语言区分开来，应该赋予中文化更广的含义。即中文化不局限于关键词汉化，而是在汉化的基础上做推广。APL这类symbolic的方案，实际上是另一种中文化思路。",
     "closed_at": null,
     "comment_data": [
         {
             "author_association": "MEMBER",
-            "body": "十的定义：[乘数/倍数]十[加数]，所以一十一可以省略前缀，简称十一，二十八=>8+10*2",
-            "created_at": "2018-08-27T04:47:17Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/83#issuecomment-416113153",
-            "id": 416113153,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/83",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQxNjExMzE1Mw==",
-            "updated_at": "2018-08-27T04:47:17Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/416113153",
-            "user": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
-                "events_url": "https://api.github.com/users/absente/events{/privacy}",
-                "followers_url": "https://api.github.com/users/absente/followers",
-                "following_url": "https://api.github.com/users/absente/following{/other_user}",
-                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/absente",
-                "id": 1655223,
-                "login": "absente",
-                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
-                "organizations_url": "https://api.github.com/users/absente/orgs",
-                "received_events_url": "https://api.github.com/users/absente/received_events",
-                "repos_url": "https://api.github.com/users/absente/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/absente"
-            }
-        },
-        {
-            "author_association": "MEMBER",
-            "body": "https://github.com/program-in-chinese/overview/issues/93\r\n\r\n其实可以换个思路，就是基于APL的notation as tool of thought，给现有的编程语言做一套通用notation，这样就万事大吉了。",
-            "created_at": "2018-10-16T10:04:09Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/83#issuecomment-430179247",
-            "id": 430179247,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/83",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQzMDE3OTI0Nw==",
-            "updated_at": "2018-10-16T10:04:09Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/430179247",
+            "body": "举个例子。function、asynchronized、system，这三个词，汉化写作[函数，异步，系统]，中文化可以写作汉化形式，也可以缩写成[fn，async，sys]\r\n\r\n为此，若需将二者加以区分，则汉化类PL可以称为hansPL，中文化可以称为sinoPL。及program-in-chinese=program-in[hans, sino, chn]",
+            "created_at": "2018-10-20T06:30:04Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/99#issuecomment-431554054",
+            "id": 431554054,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzMTU1NDA1NA==",
+            "updated_at": "2018-10-20T06:36:46Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/431554054",
             "user": {
                 "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
                 "events_url": "https://api.github.com/users/absente/events{/privacy}",
@@ -68,9 +37,9 @@
             }
         }
     ],
-    "comments": 2,
-    "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/83/comments",
-    "created_at": "2018-08-21T17:40:50Z",
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99/comments",
+    "created_at": "2018-10-20T06:12:54Z",
     "event_data": [
         {
             "actor": {
@@ -95,15 +64,15 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-21T17:42:27Z",
+            "created_at": "2018-10-20T06:12:54Z",
             "event": "labeled",
-            "id": 1800782653,
+            "id": 1916075952,
             "label": {
-                "color": "89ede9",
-                "name": "APL"
+                "color": "fbca04",
+                "name": "内务"
             },
-            "node_id": "MDEyOkxhYmVsZWRFdmVudDE4MDA3ODI2NTM=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1800782653"
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE5MTYwNzU5NTI=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1916075952"
         },
         {
             "actor": {
@@ -128,71 +97,71 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-08-21T17:42:32Z",
+            "created_at": "2018-10-20T06:12:54Z",
+            "event": "labeled",
+            "id": 1916075953,
+            "label": {
+                "color": "9b2045",
+                "name": "历史"
+            },
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE5MTYwNzU5NTM=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1916075953"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-10-20T06:13:12Z",
             "event": "milestoned",
-            "id": 1800782842,
+            "id": 1916076021,
             "milestone": {
                 "title": "2018戊戌"
             },
-            "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE4MDA3ODI4NDI=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1800782842"
-        },
-        {
-            "actor": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
-                "events_url": "https://api.github.com/users/absente/events{/privacy}",
-                "followers_url": "https://api.github.com/users/absente/followers",
-                "following_url": "https://api.github.com/users/absente/following{/other_user}",
-                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/absente",
-                "id": 1655223,
-                "login": "absente",
-                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
-                "organizations_url": "https://api.github.com/users/absente/orgs",
-                "received_events_url": "https://api.github.com/users/absente/received_events",
-                "repos_url": "https://api.github.com/users/absente/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/absente"
-            },
-            "commit_id": null,
-            "commit_url": null,
-            "created_at": "2018-08-21T17:42:41Z",
-            "event": "labeled",
-            "id": 1800783132,
-            "label": {
-                "color": "6ffcc6",
-                "name": "设计"
-            },
-            "node_id": "MDEyOkxhYmVsZWRFdmVudDE4MDA3ODMxMzI=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1800783132"
+            "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE5MTYwNzYwMjE=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1916076021"
         }
     ],
-    "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/83/events",
-    "html_url": "https://github.com/program-in-chinese/overview/issues/83",
-    "id": 352642150,
+    "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99/events",
+    "html_url": "https://github.com/program-in-chinese/overview/issues/99",
+    "id": 372178470,
     "labels": [
         {
-            "color": "89ede9",
+            "color": "fbca04",
             "default": false,
-            "id": 1019249428,
-            "name": "APL",
-            "node_id": "MDU6TGFiZWwxMDE5MjQ5NDI4",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/APL"
+            "id": 657797434,
+            "name": "内务",
+            "node_id": "MDU6TGFiZWw2NTc3OTc0MzQ=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E5%86%85%E5%8A%A1"
         },
         {
-            "color": "6ffcc6",
+            "color": "9b2045",
             "default": false,
-            "id": 1017999778,
-            "name": "设计",
-            "node_id": "MDU6TGFiZWwxMDE3OTk5Nzc4",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E8%AE%BE%E8%AE%A1"
+            "id": 1019249750,
+            "name": "历史",
+            "node_id": "MDU6TGFiZWwxMDE5MjQ5NzUw",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E5%8E%86%E5%8F%B2"
         }
     ],
-    "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/83/labels{/name}",
+    "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99/labels{/name}",
     "locked": false,
     "milestone": {
         "closed_at": null,
@@ -231,13 +200,13 @@
         "updated_at": "2018-10-20T06:15:20Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
-    "node_id": "MDU6SXNzdWUzNTI2NDIxNTA=",
-    "number": 83,
+    "node_id": "MDU6SXNzdWUzNzIxNzg0NzA=",
+    "number": 99,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
-    "title": "类似APL风格的编程语言的一些语法设计思考",
-    "updated_at": "2018-10-16T10:04:09Z",
-    "url": "https://api.github.com/repos/program-in-chinese/overview/issues/83",
+    "title": "关于“中文化”和“汉化”的概念划分",
+    "updated_at": "2018-10-20T06:36:46Z",
+    "url": "https://api.github.com/repos/program-in-chinese/overview/issues/99",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
         "events_url": "https://api.github.com/users/absente/events{/privacy}",
