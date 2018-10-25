@@ -624,9 +624,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "财经圈子: [前端会用标签模板（Tagged Templates）就能当股神](https://zhuanlan.zhihu.com/p/36426258)",
+            "created_at": "2018-10-22T06:19:21Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/19#issuecomment-431748879",
+            "id": 431748879,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/19",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzMTc0ODg3OQ==",
+            "updated_at": "2018-10-22T06:19:21Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/431748879",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 20,
+    "comments": 21,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/19/comments",
     "created_at": "2017-08-08T06:20:04Z",
     "event_data": [
@@ -1273,7 +1304,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "跨界: 哪些中文非IT领域会偏好中文API, 编程/脚本语言?",
-    "updated_at": "2018-10-02T18:10:12Z",
+    "updated_at": "2018-10-22T06:19:22Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/19",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
