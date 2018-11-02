@@ -624,9 +624,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "时间倒序:\r\n[专栏一岁了-我为什么投身于普及用中文编程](http://zhuanlan.zhihu.com/p/48272342) 以及[v2ex转帖](https://www.v2ex.com/t/503610)\r\n[在线代码离线翻译Chrome插件\"一马\"v0.0.8](http://zhuanlan.zhihu.com/p/48120706)\r\n[浏览器插件-离线英汉词典 0.0.7](http://zhuanlan.zhihu.com/p/48116424)\r\n[初步尝试将传统学科的内容程序/数据化](http://zhuanlan.zhihu.com/p/47807062)\r\n[前端会用标签模板（Tagged Templates）就能当股神](http://zhuanlan.zhihu.com/p/36426258)\r\n[Chrome插件实现GitHub代码离线翻译v0.0.4](http://zhuanlan.zhihu.com/p/47215777)\r\n[它山之石-日本推广编程中使用日语命名的渊源](https://zhuanlan.zhihu.com/p/47128031)\r\n[首次发现在例程中使用日语命名的编程书籍](https://zhuanlan.zhihu.com/p/47127716)\r\n[Chrome插件实现GitHub代码翻译v0.0.3](https://zhuanlan.zhihu.com/p/47071729)\r\n",
+            "created_at": "2018-11-02T06:53:08Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/48#issuecomment-435288043",
+            "id": 435288043,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/48",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTI4ODA0Mw==",
+            "updated_at": "2018-11-02T06:53:08Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435288043",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 20,
+    "comments": 21,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/48/comments",
     "created_at": "2017-11-09T05:07:54Z",
     "event_data": [
@@ -2327,7 +2358,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "\"中文编程\"知乎专栏开通!",
-    "updated_at": "2018-10-12T23:56:02Z",
+    "updated_at": "2018-11-02T06:53:08Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/48",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
