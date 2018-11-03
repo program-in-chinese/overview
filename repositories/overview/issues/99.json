@@ -190,9 +190,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/absente"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "昨天在v2ex的讨论帖里，为了方便交流，引出了[新文言]的概念，其实也可以用古文编程等价替换：https://www.v2ex.com/t/503773\r\n\r\n> 基于中文表达逻辑的编程语言\r\n\r\n另外附上一则评论，供参考：\r\n\r\n```\r\njust for fun 没问题，只是总有些中文编程布道师，打着国家民族的旗号的，搞些意义不明的事，误人子弟，这种人不狠狠黑一下对不起我一颗真正的爱国心。\r\n你不和这些人划清界限，客观来说躺枪是难免的。\r\n```",
+            "created_at": "2018-11-03T03:48:09Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/99#issuecomment-435557615",
+            "id": 435557615,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTU1NzYxNQ==",
+            "updated_at": "2018-11-03T03:48:09Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435557615",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            }
         }
     ],
-    "comments": 6,
+    "comments": 7,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99/comments",
     "created_at": "2018-10-20T06:12:54Z",
     "event_data": [
@@ -534,7 +565,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "关于“中文化”和“汉化”的概念划分",
-    "updated_at": "2018-11-02T04:30:30Z",
+    "updated_at": "2018-11-03T03:48:09Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/99",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
