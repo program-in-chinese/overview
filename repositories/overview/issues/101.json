@@ -2,10 +2,42 @@
     "assignee": null,
     "assignees": [],
     "author_association": "MEMBER",
-    "body": "background：前段时间在py教学方面有实践中文命名，后来觉得为了书写方便，自己做了约定了一套notation https://github.com/pyzh/CPN/issues/4\r\n\r\n简单说就是将编程语言更加通用化（部分数学化）的同时，通过中文命名，来节省开销",
+    "body": "background：前段时间在py教学方面有实践中文命名，后来觉得为了书写方便，自己做了约定了一套notation https://github.com/pyzh/CPN/issues/4\r\n\r\n简单说就是将编程语言更加通用化（部分数学化）的同时，通过中文命名，来节省开销。这里前面的语言指自然语言\r\n\r\n一楼主要用来更新主要的说明。举例会放到后续楼层。不过为了方便，目前先放一些例子上来。具体个人倾向于用CPN=2，即CPN-1+CPN-2。关于CPN：https://github.com/pyzh/CPN/issues/4\r\n\r\n例1：java风格的hello world\r\n\r\n```\r\n^ HelloWorld:  // CPN=2\r\n^$∅ main / args:str[] :\r\n  System`out`println \"hello world\"\r\n```\r\n\r\n```\r\n^ 你好呀： //CPN=2+中文命名\r\n^$0 main / 参:str[] : \r\n  系统`控制台`打印 \"你好”\r\n```\r\n\r\n//CPN=2，日常用法，记为PN2  # p=普通的pu\r\n```\r\n^ 你好呀： \r\n^$0 main / 参:str[] →\r\n  sys.out.print \"你好”  // 变量名保持单音节为主\r\n\r\n```\r\n\r\n",
     "closed_at": null,
-    "comment_data": [],
-    "comments": 0,
+    "comment_data": [
+        {
+            "author_association": "MEMBER",
+            "body": "关于`^$0`的所谓的可读性问题，如果有比较在意的，可以用一个折中方案，即：vscode做个插件，输入^的时候可以补全pub，$→S , 0→void/无",
+            "created_at": "2018-11-03T11:49:37Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/101#issuecomment-435581739",
+            "id": 435581739,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/101",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTU4MTczOQ==",
+            "updated_at": "2018-11-03T11:49:37Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435581739",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            }
+        }
+    ],
+    "comments": 1,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/101/comments",
     "created_at": "2018-11-02T05:03:55Z",
     "event_data": [
@@ -106,6 +138,39 @@
             },
             "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE5NDIxNDg1NjA=",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1942148560"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-03T10:34:07Z",
+            "event": "renamed",
+            "id": 1944327816,
+            "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MTk0NDMyNzgxNg==",
+            "rename": {
+                "from": "通过非中文的编程语言加上中文命名，来推广中文编程",
+                "to": "通过非语言特定的编程语言加上中文命名，来推广中文编程"
+            },
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1944327816"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/101/events",
@@ -172,8 +237,8 @@
     "number": 101,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
-    "title": "通过非中文的编程语言加上中文命名，来推广中文编程",
-    "updated_at": "2018-11-02T05:04:11Z",
+    "title": "通过非语言特定的编程语言加上中文命名，来推广中文编程",
+    "updated_at": "2018-11-03T11:49:37Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/101",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
