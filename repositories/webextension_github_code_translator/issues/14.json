@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "提示更全词库需安装xx插件",
-    "closed_at": null,
+    "closed_at": "2018-11-04T09:36:52Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -35,9 +35,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "https://github.com/shekhargulati/java8-the-missing-tutorial/blob/master/code/src/main/java/com/shekhargulati/java8_tutorial/ch01/BasicCalculator.java\r\n\r\n如未安装离线英汉词典, 提示如下:\r\n\r\n![screen shot 2018-11-04 at 1 34 14 am](https://user-images.githubusercontent.com/392497/47961956-097b4580-dfd2-11e8-8660-b0d4a4d7efd9.png)\r\n",
+            "created_at": "2018-11-04T09:36:52Z",
+            "html_url": "https://github.com/program-in-chinese/webextension_github_code_translator/issues/14#issuecomment-435651721",
+            "id": 435651721,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/14",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTY1MTcyMQ==",
+            "updated_at": "2018-11-04T09:36:52Z",
+            "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/comments/435651721",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 1,
+    "comments": 2,
     "comments_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/14/comments",
     "created_at": "2018-10-30T03:49:05Z",
     "event_data": [
@@ -69,6 +100,64 @@
             "id": 1944262742,
             "node_id": "MDE1OlJlZmVyZW5jZWRFdmVudDE5NDQyNjI3NDI=",
             "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/events/1944262742"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": "9cf11b51a319864a37a0d25fba74b58df39398e3",
+            "commit_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/commits/9cf11b51a319864a37a0d25fba74b58df39398e3",
+            "created_at": "2018-11-04T09:17:50Z",
+            "event": "referenced",
+            "id": 1944719948,
+            "node_id": "MDE1OlJlZmVyZW5jZWRFdmVudDE5NDQ3MTk5NDg=",
+            "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/events/1944719948"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-04T09:36:52Z",
+            "event": "closed",
+            "id": 1944724761,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTk0NDcyNDc2MQ==",
+            "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/events/1944724761"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/14/events",
@@ -81,9 +170,9 @@
     "node_id": "MDU6SXNzdWUzNzUzMDg2MzY=",
     "number": 14,
     "repository_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator",
-    "state": "open",
+    "state": "closed",
     "title": "如未安装英汉词典插件, 应有最基本的词库",
-    "updated_at": "2018-11-03T05:32:48Z",
+    "updated_at": "2018-11-04T09:36:52Z",
     "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/14",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

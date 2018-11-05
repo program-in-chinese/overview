@@ -7,13 +7,13 @@
     "comment_data": [
         {
             "author_association": "MEMBER",
-            "body": "关于`^$0`的所谓的可读性问题，如果有比较在意的，可以用一个折中方案，即：vscode做个插件，输入^的时候可以补全pub，$→S , 0→void/无",
+            "body": "关于`^$0`的所谓的可读性问题，如果有比较在意的，可以用一个折中方案，即：vscode做个插件，输入^的时候可以补全pub，$→S , 0→void/无。当然，也可以定义一个宏：PSV→^$0",
             "created_at": "2018-11-03T11:49:37Z",
             "html_url": "https://github.com/program-in-chinese/overview/issues/101#issuecomment-435581739",
             "id": 435581739,
             "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/101",
             "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTU4MTczOQ==",
-            "updated_at": "2018-11-03T11:49:37Z",
+            "updated_at": "2018-11-04T09:51:49Z",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435581739",
             "user": {
                 "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -227,10 +227,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 27,
+        "open_issues": 28,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-02T05:04:11Z",
+        "updated_at": "2018-11-05T02:36:50Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNzY2NzA3OTY=",
@@ -238,7 +238,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "通过非语言特定的编程语言加上中文命名，来推广中文编程",
-    "updated_at": "2018-11-03T11:49:37Z",
+    "updated_at": "2018-11-04T09:51:49Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/101",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
