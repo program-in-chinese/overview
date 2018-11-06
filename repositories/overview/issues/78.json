@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "引：昨天晚上偶然见随到央视的一个节目叫挑战不可能，里面有个小朋友在挑战跟人下盲棋，里面念的口令我觉得挺有意思，让我想起了早年电视剧《棋武士》里相关的棋谱口令。\r\n\r\n> 马八进七，帅五平六。士五进六。 http://fanfou.com/statuses/K9wL1GBdb1E\r\n\r\n类似的术语，我记得围棋也有，古琴也有，其他的就不太了解了。\r\n感觉很适合tacit组合子逻辑的文言编程思路，具体可参考 @bhuztez 的九章算术。\r\n",
-    "closed_at": null,
+    "closed_at": "2018-11-05T18:12:54Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -66,9 +66,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/absente"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "如有进一步实践计划请重开此贴.",
+            "created_at": "2018-11-05T18:12:54Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/78#issuecomment-435976875",
+            "id": 435976875,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/78",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTk3Njg3NQ==",
+            "updated_at": "2018-11-05T18:12:54Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435976875",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 2,
+    "comments": 3,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/78/comments",
     "created_at": "2018-08-09T08:19:40Z",
     "event_data": [
@@ -454,6 +485,35 @@
             "id": 1789959174,
             "node_id": "MDE5OkFkZGVkVG9Qcm9qZWN0RXZlbnQxNzg5OTU5MTc0",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1789959174"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-05T18:12:54Z",
+            "event": "closed",
+            "id": 1946968464,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTk0Njk2ODQ2NA==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1946968464"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/78/events",
@@ -497,7 +557,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 18,
+        "closed_issues": 26,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -526,18 +586,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 28,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T02:36:50Z",
+        "updated_at": "2018-11-05T18:54:29Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNDkwMjQ4NzU=",
     "number": 78,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "从象棋棋谱引出的关于传统术语在中文编程领域的再利用及语法借鉴",
-    "updated_at": "2018-08-13T21:31:56Z",
+    "updated_at": "2018-11-05T18:12:54Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/78",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",

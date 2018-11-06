@@ -1429,7 +1429,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 18,
+        "closed_issues": 26,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -1458,10 +1458,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 28,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T02:36:50Z",
+        "updated_at": "2018-11-05T18:54:29Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUyOTIxNzc3MjY=",

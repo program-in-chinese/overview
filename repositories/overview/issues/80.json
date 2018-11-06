@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "类似[searchcode](https://searchcode.com/)/[Sourcegraph](https://about.sourcegraph.com/), 不同处是针对中文命名的源代码进行索引. 主要目的是促进源码交流和再利用. 暂时想到的相比英文代码搜索引擎的额外问题:\r\n\r\n技术:\r\n- 中文分词. 比如在github搜索\"简繁体互转\"就无法找到[这个源码](https://github.com/program-in-chinese/zhconverter/blob/master/test/com/github/nobodxbodon/zhconverter/%E7%AE%80%E7%B9%81%E8%BD%AC%E6%8D%A2%E6%B5%8B%E8%AF%95%E7%B1%BB.java), 而搜索\"确认简繁体互转\"就可以.\r\n\r\n非技术:\r\n- 找到合适的代码库, 并定期更新\r\n\r\n做了一点初步调研, 参考[这帖](https://www.quora.com/Is-there-a-free-open-source-software-source-code-search-engine), 只找到这个开源的可供参考(还未细看许可证): https://github.com/boyter/searchcode-server\r\n看起来多数此类英文代码搜索引擎项目都已废止. 相信除了本身投入较大之外, 面向人群有限也是个因素(相对一般搜索引擎的用户量, 对编程有兴趣群体应该是个零头). 中文代码总量仍极少, 初期硬件投入会较小.",
-    "closed_at": null,
+    "closed_at": "2018-11-05T18:32:05Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -97,9 +97,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/absente"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "短期内仍以推广中文命名为主要方向. 毕竟没有相当数量中文命名的代码库, 搜索引擎也没有很大意义.\r\n另外, https://github.com/program-in-chinese/overview/issues/97 的知识库建设和查询/搜索功能也许更有价值.",
+            "created_at": "2018-11-05T18:32:05Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/80#issuecomment-435983684",
+            "id": 435983684,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/80",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTk4MzY4NA==",
+            "updated_at": "2018-11-05T18:32:05Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435983684",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 3,
+    "comments": 4,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/80/comments",
     "created_at": "2018-08-19T06:52:09Z",
     "event_data": [
@@ -225,6 +256,35 @@
             },
             "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE4MDA2NzE0MTU=",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1800671415"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-05T18:32:06Z",
+            "event": "closed",
+            "id": 1947013925,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTk0NzAxMzkyNQ==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1947013925"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/80/events",
@@ -244,7 +304,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 18,
+        "closed_issues": 26,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -273,18 +333,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 28,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T02:36:50Z",
+        "updated_at": "2018-11-05T18:54:29Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNTE4Nzk0NTA=",
     "number": 80,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "中文代码搜索引擎",
-    "updated_at": "2018-09-19T09:47:51Z",
+    "updated_at": "2018-11-05T18:32:06Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/80",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

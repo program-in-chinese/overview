@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "https://zhuanlan.zhihu.com/p/30529835 文后最新评论报告此问题. 需研究影响与对策.\r\n\r\n参考:\r\n[GetProcAddress官方文档](https://msdn.microsoft.com/en-us/library/windows/desktop/ms683212(v=vs.85).aspx)\r\n\r\n---------------\r\n\r\n有一个事实直接反对在Windows上编写DLL时使用中文命名。\r\n\r\n\r\n<<Windows核心编程第五版>>(中文版)Page 532\r\n\r\n说：\r\n\r\n\"注意：参数pszSymbolName\r\n\r\n...\r\n\r\n这是因为编译器/链接器始终都是将符号的名称以ANSI字符串的形式保存的\"\r\n\r\n\r\n于是在编写DLL时导出的符号名一定不能用中文。\r\n\r\n由于这书是多年以前的，我还亲自做了实验。\r\n\r\n实验环境是\r\n\r\nVS2017 Version 15.7\r\n\r\nWindows10 Pro x64 1803\r\n\r\nVisual C++\r\n\r\n实验表明，用中文命名的导出符号无法以符号名的形式被导入，无论是动态还是静态。\r\n\r\n虽然这个事实只是针对DLL，但DLL是Windows最重要的组成部分之一。\r\n\r\n---------------",
-    "closed_at": null,
+    "closed_at": "2018-11-05T18:24:11Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -190,9 +190,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "个人暂不打算继续研究. 如发现实例需求或有兴趣探索请重开此贴.",
+            "created_at": "2018-11-05T18:24:11Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/74#issuecomment-435980753",
+            "id": 435980753,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/74",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTk4MDc1Mw==",
+            "updated_at": "2018-11-05T18:24:11Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435980753",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 6,
+    "comments": 7,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/74/comments",
     "created_at": "2018-07-28T03:22:18Z",
     "event_data": [
@@ -537,6 +568,35 @@
             },
             "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTc4NjQ0NTYzNA==",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1786445634"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-05T18:24:11Z",
+            "event": "closed",
+            "id": 1946995213,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTk0Njk5NTIxMw==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1946995213"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/74/events",
@@ -572,7 +632,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 18,
+        "closed_issues": 26,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -601,18 +661,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 28,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T02:36:50Z",
+        "updated_at": "2018-11-05T18:54:29Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNDU0MTM3Mzg=",
     "number": 74,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "在Windows上编写DLL时不能使用中文命名",
-    "updated_at": "2018-08-13T21:30:53Z",
+    "updated_at": "2018-11-05T18:24:12Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/74",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

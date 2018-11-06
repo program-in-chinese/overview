@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "我觉得为了与易语言这类汉化编程语言区分开来，应该赋予中文化更广的含义。即中文化不局限于关键词汉化，而是在汉化的基础上做推广。APL这类symbolic的方案，实际上是另一种中文化思路。",
-    "closed_at": null,
+    "closed_at": "2018-11-05T17:54:08Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -221,9 +221,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/absente"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "> HTTP, TCP, IP，如果把P当作部首，那么对应的是三个单字\r\n\r\n首字母缩写和[之前](https://github.com/program-in-chinese/overview/issues/99#issuecomment-431554054)说的缩写不同. P有完整含义而function->fn中的'f','n'没有. 中文命名和英文缩写之间关系请在https://github.com/program-in-chinese/overview/issues/45 继续探讨.\r\n\r\n关于\"新文言\", 看到`所以这个新文言 PL 有没有必要，我自己还没有定论`( https://www.v2ex.com/t/503773#r_6396032 ), 如有实验/进展, 请另开题讨论.\r\n\r\n[上面](https://github.com/program-in-chinese/overview/issues/99#issuecomment-435557615)引述的组外言论, 因引用意义不明而易被误会(https://github.com/program-in-chinese/overview/issues/44#issuecomment-435676091).\r\n\r\n顶楼的出发点\"我觉得为了与易语言这类汉化编程语言区分开来\", 不认为应该为了区分而区分. 现在首页和专栏置顶帖都明确了本组内\"中文编程\"包涵的范围. 如果视而不见者, 只能说装睡的人是叫不醒的.",
+            "created_at": "2018-11-05T17:54:07Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/99#issuecomment-435970418",
+            "id": 435970418,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTk3MDQxOA==",
+            "updated_at": "2018-11-05T17:54:07Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435970418",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 7,
+    "comments": 8,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99/comments",
     "created_at": "2018-10-20T06:12:54Z",
     "event_data": [
@@ -498,6 +529,35 @@
             "id": 1942121026,
             "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE5NDIxMjEwMjY=",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1942121026"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-05T17:54:08Z",
+            "event": "closed",
+            "id": 1946924808,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTk0NjkyNDgwOA==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1946924808"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/99/events",
@@ -525,7 +585,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 18,
+        "closed_issues": 26,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -554,18 +614,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 28,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T02:36:50Z",
+        "updated_at": "2018-11-05T18:54:29Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNzIxNzg0NzA=",
     "number": 99,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "关于“中文化”和“汉化”的概念划分",
-    "updated_at": "2018-11-03T03:48:09Z",
+    "updated_at": "2018-11-05T17:54:08Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/99",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",

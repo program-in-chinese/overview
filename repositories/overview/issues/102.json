@@ -2,10 +2,42 @@
     "assignee": null,
     "assignees": [],
     "author_association": "MEMBER",
-    "body": "截至2018年11月3日\r\nrust：https://github.com/rust-lang/rust/issues/55467\r\nhaxe：https://haxe.org/blog/unicode/\r\n",
+    "body": "虽然绝大多数较流行的编程语言已支持Unicode命名(详见[在各种编程语言中使用中文命名](https://zhuanlan.zhihu.com/p/30886931)), 仍有少数还未支持. 汇总如下.\r\n\r\n截至2018年11月3日\r\nrust：https://github.com/rust-lang/rust/issues/55467\r\nhaxe：https://haxe.org/blog/unicode/\r\n",
     "closed_at": null,
-    "comment_data": [],
-    "comments": 0,
+    "comment_data": [
+        {
+            "author_association": "MEMBER",
+            "body": "在顶楼补了一句说明\"虽然绝大多数较流行的编程语言已支持Unicode命名...\". 各位如对此有兴趣请多关注相关issue进展并更新顶楼.",
+            "created_at": "2018-11-05T18:06:33Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/102#issuecomment-435974567",
+            "id": 435974567,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/102",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTk3NDU2Nw==",
+            "updated_at": "2018-11-05T18:06:33Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435974567",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
+        }
+    ],
+    "comments": 1,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/102/comments",
     "created_at": "2018-11-04T18:19:23Z",
     "event_data": [
@@ -92,7 +124,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 18,
+        "closed_issues": 26,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -121,10 +153,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 28,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T02:36:50Z",
+        "updated_at": "2018-11-05T18:54:29Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNzcxNzk2NDE=",
@@ -132,7 +164,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "暂不支持unicode identifier的编程语言/环境 汇总",
-    "updated_at": "2018-11-05T02:36:50Z",
+    "updated_at": "2018-11-05T18:06:33Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/102",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",

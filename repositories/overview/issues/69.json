@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "我正在实现一些语言于https://github.com/the-language/the-language\r\n现在人工写C，所以不能用中文标识。\r\n部分直接实现在C/Verilog，同时互相实现\r\n+ 入（λ） https://github.com/the-language/the-language/blob/898ec51c4004c9f9196d47329612a4897b71d6be/%E5%8C%96/%E8%BF%B0.scrbl\r\n+ miniKanren？\r\n+ 一个书面语言？\r\n+ `(λ x (λ y x))`和`(λ x (λ y (λ z (x z (y z)))))`？\r\n现在正在实现像PHP的GC\r\nC实现将可以作为内核，Verilog实现将可以作为CPU。",
-    "closed_at": null,
+    "closed_at": "2018-11-05T18:08:39Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -128,9 +128,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/zaoqi"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "如有进展请重开此贴.",
+            "created_at": "2018-11-05T18:08:39Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/69#issuecomment-435975385",
+            "id": 435975385,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/69",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTk3NTM4NQ==",
+            "updated_at": "2018-11-05T18:08:39Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435975385",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 4,
+    "comments": 5,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/69/comments",
     "created_at": "2018-07-21T13:42:37Z",
     "event_data": [
@@ -669,6 +700,35 @@
             "id": 1789967266,
             "node_id": "MDI2Ok1vdmVkQ29sdW1uc0luUHJvamVjdEV2ZW50MTc4OTk2NzI2Ng==",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1789967266"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-05T18:08:40Z",
+            "event": "closed",
+            "id": 1946958602,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTk0Njk1ODYwMg==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1946958602"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/69/events",
@@ -728,7 +788,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 18,
+        "closed_issues": 26,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -757,18 +817,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 28,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T02:36:50Z",
+        "updated_at": "2018-11-05T18:54:29Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNDMzMjczNzY=",
     "number": 69,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "the language",
-    "updated_at": "2018-08-13T21:27:54Z",
+    "updated_at": "2018-11-05T18:08:40Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/69",
     "user": {
         "avatar_url": "https://avatars2.githubusercontent.com/u/19170231?v=4",

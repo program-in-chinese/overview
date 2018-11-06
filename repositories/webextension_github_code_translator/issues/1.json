@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "调用[离线英汉词典插件](https://github.com/program-in-chinese/webextension_english_chinese_dictionary)接口, 参考: [onConnectExternal](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/runtime/onConnectExternal), [onMessageExternal](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/runtime/onMessageExternal)\r\n\r\n命名翻译参考Java源码翻译项目中的[命名翻译部分](https://github.com/program-in-chinese/java_code_translator/tree/master/src/main/java/com/codeinchinese/java/%E6%BA%90%E7%A0%81%E7%BF%BB%E8%AF%91)\r\n",
-    "closed_at": null,
+    "closed_at": "2018-11-06T03:30:50Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -97,9 +97,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "列出问题 #20 #21 #22 ",
+            "created_at": "2018-11-06T03:30:50Z",
+            "html_url": "https://github.com/program-in-chinese/webextension_github_code_translator/issues/1#issuecomment-436119723",
+            "id": 436119723,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/1",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNjExOTcyMw==",
+            "updated_at": "2018-11-06T03:30:50Z",
+            "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/comments/436119723",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 3,
+    "comments": 4,
     "comments_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/1/comments",
     "created_at": "2018-10-14T06:06:01Z",
     "event_data": [
@@ -189,6 +220,35 @@
             "id": 1944723061,
             "node_id": "MDEzOlJlb3BlbmVkRXZlbnQxOTQ0NzIzMDYx",
             "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/events/1944723061"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-06T03:30:50Z",
+            "event": "closed",
+            "id": 1947940602,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTk0Nzk0MDYwMg==",
+            "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/events/1947940602"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/1/events",
@@ -201,9 +261,9 @@
     "node_id": "MDU6SXNzdWUzNjk4NzEzNDM=",
     "number": 1,
     "repository_url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator",
-    "state": "open",
+    "state": "closed",
     "title": "实用化: 基于英汉词典实现直译",
-    "updated_at": "2018-11-04T09:29:49Z",
+    "updated_at": "2018-11-06T03:30:50Z",
     "url": "https://api.github.com/repos/program-in-chinese/webextension_github_code_translator/issues/1",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

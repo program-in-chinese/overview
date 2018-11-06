@@ -624,9 +624,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "下一个相关项目是, IDE插件实现源码翻译([v2帖](https://www.v2ex.com/t/504604)). 想象效果:\r\n![screen shot 2018-11-04 at 9 21 49 pm](https://user-images.githubusercontent.com/392497/48021594-d4641580-e0ed-11e8-96d6-819f5230fd4a.png)\r\n\r\n考虑先从vscode的离线英汉词典开始做, 参考[官方例程](https://github.com/Microsoft/vscode-extension-samples/tree/master/statusbar-sample).",
+            "created_at": "2018-11-05T19:28:08Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/86#issuecomment-436003939",
+            "id": 436003939,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/86",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNjAwMzkzOQ==",
+            "updated_at": "2018-11-05T19:28:08Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/436003939",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 20,
+    "comments": 21,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/86/comments",
     "created_at": "2018-08-26T03:37:44Z",
     "event_data": [
@@ -986,7 +1017,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 18,
+        "closed_issues": 26,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -1015,10 +1046,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 28,
+        "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T02:36:50Z",
+        "updated_at": "2018-11-05T18:54:29Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNTQwNjIwNTU=",
@@ -1026,7 +1057,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "批量代码汉化工具",
-    "updated_at": "2018-10-17T07:40:31Z",
+    "updated_at": "2018-11-05T19:28:08Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/86",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
