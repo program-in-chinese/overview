@@ -2,44 +2,12 @@
     "assignee": null,
     "assignees": [],
     "author_association": "MEMBER",
-    "body": "虽然绝大多数较流行的编程语言已支持Unicode命名(详见[在各种编程语言中使用中文命名](https://zhuanlan.zhihu.com/p/30886931)), 仍有少数还未支持. 汇总如下.\r\n\r\n截至2018年11月3日\r\nrust：https://github.com/rust-lang/rust/issues/55467\r\nhaxe：https://haxe.org/blog/unicode/\r\n\r\npatch 2018.1107：\r\nwindows DLL：https://github.com/program-in-chinese/overview/issues/74",
+    "body": "CSS的标准是死的，感觉没有中文化的实际需求。但在用户层面，个人觉得可以通过vscode等辅助插件的形式，让编写css或样式设计更简单一些。\r\n\r\n目前想到了两种思路：\r\n\r\n1. 通过中文伪代码等介质来生成html和css/scss\r\n2. 将css的渲染结构3d可视化（参考以前firefox的一个inspect选项\r\n\r\n关于提供输入补全提示和显示层的翻译，个人觉得意义不大。",
     "closed_at": null,
-    "comment_data": [
-        {
-            "author_association": "MEMBER",
-            "body": "在顶楼补了一句说明\"虽然绝大多数较流行的编程语言已支持Unicode命名...\". 各位如对此有兴趣请多关注相关issue进展并更新顶楼.",
-            "created_at": "2018-11-05T18:06:33Z",
-            "html_url": "https://github.com/program-in-chinese/overview/issues/102#issuecomment-435974567",
-            "id": 435974567,
-            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/102",
-            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNTk3NDU2Nw==",
-            "updated_at": "2018-11-05T18:06:33Z",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/435974567",
-            "user": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
-                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
-                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
-                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
-                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
-                "gravatar_id": "",
-                "html_url": "https://github.com/nobodxbodon",
-                "id": 392497,
-                "login": "nobodxbodon",
-                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
-                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
-                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
-                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
-                "site_admin": false,
-                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
-                "type": "User",
-                "url": "https://api.github.com/users/nobodxbodon"
-            }
-        }
-    ],
-    "comments": 1,
-    "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/102/comments",
-    "created_at": "2018-11-04T18:19:23Z",
+    "comment_data": [],
+    "comments": 0,
+    "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/103/comments",
+    "created_at": "2018-11-10T05:04:53Z",
     "event_data": [
         {
             "actor": {
@@ -64,15 +32,15 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-11-04T18:19:23Z",
+            "created_at": "2018-11-10T05:04:53Z",
             "event": "labeled",
-            "id": 1944944789,
+            "id": 1958260340,
             "label": {
                 "color": "f9d0c4",
                 "name": "中文化"
             },
-            "node_id": "MDEyOkxhYmVsZWRFdmVudDE5NDQ5NDQ3ODk=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1944944789"
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE5NTgyNjAzNDA=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1958260340"
         },
         {
             "actor": {
@@ -97,19 +65,52 @@
             },
             "commit_id": null,
             "commit_url": null,
-            "created_at": "2018-11-05T02:36:50Z",
+            "created_at": "2018-11-10T05:04:53Z",
+            "event": "labeled",
+            "id": 1958260341,
+            "label": {
+                "color": "bfd4f2",
+                "name": "调研"
+            },
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE5NTgyNjAzNDE=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1958260341"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-10T05:04:57Z",
             "event": "milestoned",
-            "id": 1945195794,
+            "id": 1958260379,
             "milestone": {
                 "title": "2018戊戌"
             },
-            "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE5NDUxOTU3OTQ=",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1945195794"
+            "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE5NTgyNjAzNzk=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1958260379"
         }
     ],
-    "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/102/events",
-    "html_url": "https://github.com/program-in-chinese/overview/issues/102",
-    "id": 377179641,
+    "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/103/events",
+    "html_url": "https://github.com/program-in-chinese/overview/issues/103",
+    "id": 379391357,
     "labels": [
         {
             "color": "f9d0c4",
@@ -118,9 +119,17 @@
             "name": "中文化",
             "node_id": "MDU6TGFiZWwxMDE3OTk4MTIw",
             "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E4%B8%AD%E6%96%87%E5%8C%96"
+        },
+        {
+            "color": "bfd4f2",
+            "default": false,
+            "id": 1018001029,
+            "name": "调研",
+            "node_id": "MDU6TGFiZWwxMDE4MDAxMDI5",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E8%B0%83%E7%A0%94"
         }
     ],
-    "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/102/labels{/name}",
+    "labels_url": "https://api.github.com/repos/program-in-chinese/overview/issues/103/labels{/name}",
     "locked": false,
     "milestone": {
         "closed_at": null,
@@ -159,13 +168,13 @@
         "updated_at": "2018-11-10T05:04:57Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
-    "node_id": "MDU6SXNzdWUzNzcxNzk2NDE=",
-    "number": 102,
+    "node_id": "MDU6SXNzdWUzNzkzOTEzNTc=",
+    "number": 103,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
-    "title": "暂不支持unicode identifier的编程语言/环境 汇总",
-    "updated_at": "2018-11-07T00:39:41Z",
-    "url": "https://api.github.com/repos/program-in-chinese/overview/issues/102",
+    "title": "关于HTML和CSS/样式设计的辅助工具？",
+    "updated_at": "2018-11-10T05:04:57Z",
+    "url": "https://api.github.com/repos/program-in-chinese/overview/issues/103",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
         "events_url": "https://api.github.com/users/absente/events{/privacy}",

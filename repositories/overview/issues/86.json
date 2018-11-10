@@ -655,9 +655,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "继续下去有两个方向. 一是继续浏览器和vscode(及visual studio)上的插件开发; 二是Java开发环境下的插件开发, 比如Eclipse.\r\n前者的优势是, 因为都是JS实现, 可以重用的部分不少. 而且面向平台和用户较广. 但JS在NLP方面的库相对较少.\r\n后者的优势是, Java的NLP相关库较丰富, 用户群也许更接近商用项目.\r\n\r\n初步打算, 在[v2帖](https://www.v2ex.com/t/504604#r_6405817)的三项中, 先完成vscode的源码翻译预览(效果与当前浏览器插件齐平), 以接触尽可能大的用户群. 插件中实现并列编辑器可以参考官方[参考例程](https://github.com/Microsoft/vscode-extension-samples/tree/master/contentprovider-sample). 之后再确定是进一步改进机翻效果还是尝试第二个方向.\r\n\r\n> 几种模式都在考虑:\r\n> - 只是预览\r\n> - 批量翻译(只是单向)\r\n> - 像你说的翻译后只是作为中间产物使用, 源码仍然是英文命名\r\n\r\n> 实现优先级暂定是从上向下, 感觉技术难度也是越后越难. 理想目标是保证完全翻译出的编译无误, 但即使使用 IDE 本身的重构 API 恐怕也不能 100%.",
+            "created_at": "2018-11-07T19:21:17Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/86#issuecomment-436745681",
+            "id": 436745681,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/86",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQzNjc0NTY4MQ==",
+            "updated_at": "2018-11-07T19:25:17Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/436745681",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            }
         }
     ],
-    "comments": 21,
+    "comments": 22,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/86/comments",
     "created_at": "2018-08-26T03:37:44Z",
     "event_data": [
@@ -1017,7 +1048,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 26,
+        "closed_issues": 27,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -1049,7 +1080,7 @@
         "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T18:54:29Z",
+        "updated_at": "2018-11-10T05:04:57Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNTQwNjIwNTU=",
@@ -1057,7 +1088,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "批量代码汉化工具",
-    "updated_at": "2018-11-05T19:28:08Z",
+    "updated_at": "2018-11-07T19:25:17Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/86",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

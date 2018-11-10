@@ -121,7 +121,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 26,
+        "closed_issues": 27,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -153,7 +153,7 @@
         "open_issues": 20,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-05T18:54:29Z",
+        "updated_at": "2018-11-10T05:04:57Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNTMyNDE5NTA=",
