@@ -3788,20 +3788,45 @@
             },
             "node_id": "MDEyOkxhYmVsZWRFdmVudDE3NzY5NTA2MTk=",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1776950619"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-22T04:40:23Z",
+            "event": "unlabeled",
+            "id": 1981595687,
+            "label": {
+                "color": "f9d0c4",
+                "name": "中文化"
+            },
+            "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTk4MTU5NTY4Nw==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1981595687"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/9/events",
     "html_url": "https://github.com/program-in-chinese/overview/issues/9",
     "id": 246953852,
     "labels": [
-        {
-            "color": "f9d0c4",
-            "default": false,
-            "id": 1017998120,
-            "name": "中文化",
-            "node_id": "MDU6TGFiZWwxMDE3OTk4MTIw",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E4%B8%AD%E6%96%87%E5%8C%96"
-        },
         {
             "color": "c5def5",
             "default": false,
@@ -3819,7 +3844,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "把最常用的开源的英文API进行中文化",
-    "updated_at": "2018-08-08T06:27:29Z",
+    "updated_at": "2018-11-22T04:40:23Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/9",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",

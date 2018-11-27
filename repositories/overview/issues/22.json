@@ -1017,14 +1017,6 @@
     "id": 250093091,
     "labels": [
         {
-            "color": "f9d0c4",
-            "default": false,
-            "id": 1017998120,
-            "name": "中文化",
-            "node_id": "MDU6TGFiZWwxMDE3OTk4MTIw",
-            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E4%B8%AD%E6%96%87%E5%8C%96"
-        },
-        {
             "color": "ebfca9",
             "default": false,
             "id": 1019236511,

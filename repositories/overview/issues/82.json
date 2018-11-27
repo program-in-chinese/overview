@@ -35,9 +35,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/nobodxbodon"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "@nobodxbodon 目前想到一个，就是用256个字符*4个汉字，表示IPv4地址，或者用65536个字符，每个字对应一个地址。ipv6类似，v4用汉字的话，分隔符都可以省了",
+            "created_at": "2018-11-20T07:39:44Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/82#issuecomment-440173841",
+            "id": 440173841,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/82",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQ0MDE3Mzg0MQ==",
+            "updated_at": "2018-11-20T07:40:15Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/440173841",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            }
         }
     ],
-    "comments": 1,
+    "comments": 2,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/82/comments",
     "created_at": "2018-08-21T17:26:03Z",
     "event_data": [
@@ -266,6 +297,64 @@
             "id": 1813572941,
             "node_id": "MDExOkNsb3NlZEV2ZW50MTgxMzU3Mjk0MQ==",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1813572941"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-20T07:39:44Z",
+            "event": "mentioned",
+            "id": 1976586831,
+            "node_id": "MDE0Ok1lbnRpb25lZEV2ZW50MTk3NjU4NjgzMQ==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1976586831"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-20T07:39:44Z",
+            "event": "subscribed",
+            "id": 1976586832,
+            "node_id": "MDE1OlN1YnNjcmliZWRFdmVudDE5NzY1ODY4MzI=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1976586832"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/82/events",
@@ -301,7 +390,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 27,
+        "closed_issues": 28,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -330,10 +419,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 20,
+        "open_issues": 24,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-10T05:04:57Z",
+        "updated_at": "2018-11-22T04:39:25Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNTI2Mzc0MzY=",
@@ -341,7 +430,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "closed",
     "title": "关于用单字表示常用数字的一些思考",
-    "updated_at": "2018-08-28T16:35:10Z",
+    "updated_at": "2018-11-20T07:40:15Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/82",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
