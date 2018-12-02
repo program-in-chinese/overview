@@ -64,6 +64,14 @@
         "url": "https://api.github.com/repos/program-in-chinese/study/labels/todo"
     },
     {
+        "color": "81ea4d",
+        "default": false,
+        "id": 1144331090,
+        "name": "web前端",
+        "node_id": "MDU6TGFiZWwxMTQ0MzMxMDkw",
+        "url": "https://api.github.com/repos/program-in-chinese/study/labels/web%E5%89%8D%E7%AB%AF"
+    },
+    {
         "color": "ffffff",
         "default": true,
         "id": 1101417154,

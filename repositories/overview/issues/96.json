@@ -42,7 +42,7 @@
         }
     ],
     "author_association": "MEMBER",
-    "body": "## 背景\r\n[专用帖: 对中文编程的质疑, 困惑, 批评, 吐槽](https://github.com/program-in-chinese/overview/issues/44#issuecomment-430566166) 中阐述的:\r\n\r\n- 中文编程努力方向从根上有偏离\r\n\r\n## 分析\r\n\r\n- 想解决辅助普遍人快速进入编程世界, 将界面中文其实并不能解决问题\r\n- 反而, 通过编程, 将普通人带入编程福利世界:\r\n    + 可以用自然的语言/行为来控制电脑可以控制的\r\n- 这才是扩大电脑使用人群,提高人民互联网幸福感的方向吧\r\n\r\n\r\n## 建议\r\n> 聋哑人和正常人的交流很重要, 也很常见\r\n\r\n- 手语, 又是全球通用的, 一共就两种变种\r\n- 但是, 手语言的学习和使用,又比英文还要困难\r\n- 那么, 提供一套兼容全球手语的双向翻译器/或是简单的识别器\r\n    + 立即可以为上千万聋哑人获得更多的电脑控制权\r\n    + 结合 IFTTT 以及 Home 类似智能家庭控制器\r\n    + 完全可以形成一个嵌入专用硬件的产业了\r\n\r\n\r\n## 方案\r\n参考: [解除好友2：暗网 (豆瓣)](https://movie.douban.com/subject/26725678/)\r\n\r\n- 技术上已经没有什么问题\r\n- 普通的电脑摄像头/webcam 捕捉手部动作\r\n    + 通过边缘处理, 抽象出骨架的动作\r\n    + 对比手语单词的关键动作结点, 进行简单的查询匹配\r\n    + 即可识别主要单词, 加上模糊查询, 统计分析, 精确率就可以提升\r\n- 初期, 也可以配合专有手套通过其它信号装置更加敏感的捕捉到行为特征:\r\n    + 颜色\r\n    + 红外灯\r\n    + NFC\r\n    + 近场雷达\r\n    + 次声波\r\n    + ...\r\n- 关键可以用任何语言来混杂完成...\r\n\r\n\r\n",
+    "body": ">建议[HL2CN] Hand Language to Chinese 手语识别\r\n\r\n## 背景\r\n[专用帖: 对中文编程的质疑, 困惑, 批评, 吐槽](https://github.com/program-in-chinese/overview/issues/44#issuecomment-430566166) 中阐述的:\r\n\r\n- 中文编程努力方向从根上有偏离\r\n\r\n## 分析\r\n\r\n- 想解决辅助普遍人快速进入编程世界, 将界面中文其实并不能解决问题\r\n- 反而, 通过编程, 将普通人带入编程福利世界:\r\n    + 可以用自然的语言/行为来控制电脑可以控制的\r\n- 这才是扩大电脑使用人群,提高人民互联网幸福感的方向吧\r\n\r\n\r\n## 建议\r\n> 聋哑人和正常人的交流很重要, 也很常见\r\n\r\n- 手语, 又是全球通用的, 一共就两种变种\r\n- 但是, 手语言的学习和使用,又比英文还要困难\r\n- 那么, 提供一套兼容全球手语的双向翻译器/或是简单的识别器\r\n    + 立即可以为上千万聋哑人获得更多的电脑控制权\r\n    + 结合 IFTTT 以及 Home 类似智能家庭控制器\r\n    + 完全可以形成一个嵌入专用硬件的产业了\r\n\r\n\r\n## 方案\r\n参考: [解除好友2：暗网 (豆瓣)](https://movie.douban.com/subject/26725678/)\r\n\r\n- 技术上已经没有什么问题\r\n- 普通的电脑摄像头/webcam 捕捉手部动作\r\n    + 通过边缘处理, 抽象出骨架的动作\r\n    + 对比手语单词的关键动作结点, 进行简单的查询匹配\r\n    + 即可识别主要单词, 加上模糊查询, 统计分析, 精确率就可以提升\r\n- 初期, 也可以配合专有手套通过其它信号装置更加敏感的捕捉到行为特征:\r\n    + 颜色\r\n    + 红外灯\r\n    + NFC\r\n    + 近场雷达\r\n    + 次声波\r\n    + ...\r\n- 关键可以用任何语言来混杂完成...\r\n\r\n\r\n",
     "closed_at": null,
     "comment_data": [
         {
@@ -423,12 +423,115 @@
             },
             "node_id": "MDE1Ok1pbGVzdG9uZWRFdmVudDE5MTYwNzYyODA=",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1916076280"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-30T09:07:22Z",
+            "event": "added_to_project",
+            "id": 1997401035,
+            "node_id": "MDE5OkFkZGVkVG9Qcm9qZWN0RXZlbnQxOTk3NDAxMDM1",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1997401035"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-30T09:23:52Z",
+            "event": "renamed",
+            "id": 1997435847,
+            "node_id": "MDE3OlJlbmFtZWRUaXRsZUV2ZW50MTk5NzQzNTg0Nw==",
+            "rename": {
+                "from": "建议[HL2CN] Hand Language to Chinese 手语识别",
+                "to": "中文的手语识别"
+            },
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1997435847"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-30T09:24:02Z",
+            "event": "labeled",
+            "id": 1997436205,
+            "label": {
+                "color": "6e0ba8",
+                "name": "想法"
+            },
+            "node_id": "MDEyOkxhYmVsZWRFdmVudDE5OTc0MzYyMDU=",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1997436205"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/96/events",
     "html_url": "https://github.com/program-in-chinese/overview/issues/96",
     "id": 371163219,
     "labels": [
+        {
+            "color": "6e0ba8",
+            "default": false,
+            "id": 1000523124,
+            "name": "想法",
+            "node_id": "MDU6TGFiZWwxMDAwNTIzMTI0",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%83%B3%E6%B3%95"
+        },
         {
             "color": "006b75",
             "default": false,
@@ -442,7 +545,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 28,
+        "closed_issues": 33,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -471,18 +574,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 24,
+        "open_issues": 33,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-22T04:39:25Z",
+        "updated_at": "2018-11-30T09:57:27Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNzExNjMyMTk=",
     "number": 96,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
-    "title": "建议[HL2CN] Hand Language to Chinese 手语识别",
-    "updated_at": "2018-10-20T06:14:19Z",
+    "title": "中文的手语识别",
+    "updated_at": "2018-11-30T09:24:13Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/96",
     "user": {
         "avatar_url": "https://avatars2.githubusercontent.com/u/22494?v=4",

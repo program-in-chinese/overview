@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 1146645513,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwxMTQ2NjQ1NTEz",
+        "url": "https://api.github.com/repos/program-in-chinese/docsSite/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 1146645514,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwxMTQ2NjQ1NTE0",
+        "url": "https://api.github.com/repos/program-in-chinese/docsSite/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 1146645515,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwxMTQ2NjQ1NTE1",
+        "url": "https://api.github.com/repos/program-in-chinese/docsSite/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 1146645517,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwxMTQ2NjQ1NTE3",
+        "url": "https://api.github.com/repos/program-in-chinese/docsSite/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 1146645516,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwxMTQ2NjQ1NTE2",
+        "url": "https://api.github.com/repos/program-in-chinese/docsSite/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 1146645518,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwxMTQ2NjQ1NTE4",
+        "url": "https://api.github.com/repos/program-in-chinese/docsSite/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 1146645519,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwxMTQ2NjQ1NTE5",
+        "url": "https://api.github.com/repos/program-in-chinese/docsSite/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 1146645520,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwxMTQ2NjQ1NTIw",
+        "url": "https://api.github.com/repos/program-in-chinese/docsSite/labels/wontfix"
+    }
+]

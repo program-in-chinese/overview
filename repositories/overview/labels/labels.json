@@ -32,14 +32,6 @@
         "url": "https://api.github.com/repos/program-in-chinese/overview/labels/bug"
     },
     {
-        "color": "cccccc",
-        "default": true,
-        "id": 655106831,
-        "name": "duplicate",
-        "node_id": "MDU6TGFiZWw2NTUxMDY4MzE=",
-        "url": "https://api.github.com/repos/program-in-chinese/overview/labels/duplicate"
-    },
-    {
         "color": "84b6eb",
         "default": true,
         "id": 655106832,
@@ -56,12 +48,12 @@
         "url": "https://api.github.com/repos/program-in-chinese/overview/labels/good%20first%20issue"
     },
     {
-        "color": "128A0C",
-        "default": true,
-        "id": 655106833,
-        "name": "help wanted",
-        "node_id": "MDU6TGFiZWw2NTUxMDY4MzM=",
-        "url": "https://api.github.com/repos/program-in-chinese/overview/labels/help%20wanted"
+        "color": "d3e24a",
+        "default": false,
+        "id": 1145489159,
+        "name": "index",
+        "node_id": "MDU6TGFiZWwxMTQ1NDg5MTU5",
+        "url": "https://api.github.com/repos/program-in-chinese/overview/labels/index"
     },
     {
         "color": "e6e6e6",
@@ -70,6 +62,14 @@
         "name": "invalid",
         "node_id": "MDU6TGFiZWw2NTUxMDY4MzQ=",
         "url": "https://api.github.com/repos/program-in-chinese/overview/labels/invalid"
+    },
+    {
+        "color": "cccccc",
+        "default": false,
+        "id": 655106831,
+        "name": "merge",
+        "node_id": "MDU6TGFiZWw2NTUxMDY4MzE=",
+        "url": "https://api.github.com/repos/program-in-chinese/overview/labels/merge"
     },
     {
         "color": "cc317c",
@@ -86,6 +86,14 @@
         "name": "todo",
         "node_id": "MDU6TGFiZWwxMDE5MjU5MTQ3",
         "url": "https://api.github.com/repos/program-in-chinese/overview/labels/todo"
+    },
+    {
+        "color": "473ce0",
+        "default": false,
+        "id": 1145424721,
+        "name": "web",
+        "node_id": "MDU6TGFiZWwxMTQ1NDI0NzIx",
+        "url": "https://api.github.com/repos/program-in-chinese/overview/labels/web"
     },
     {
         "color": "ffffff",
@@ -166,6 +174,22 @@
         "name": "术语词典",
         "node_id": "MDU6TGFiZWwxMDE4OTQzODYy",
         "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%9C%AF%E8%AF%AD%E8%AF%8D%E5%85%B8"
+    },
+    {
+        "color": "128A0C",
+        "default": false,
+        "id": 655106833,
+        "name": "求助",
+        "node_id": "MDU6TGFiZWw2NTUxMDY4MzM=",
+        "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%B1%82%E5%8A%A9"
+    },
+    {
+        "color": "0c51b2",
+        "default": false,
+        "id": 1145421386,
+        "name": "浏览器",
+        "node_id": "MDU6TGFiZWwxMTQ1NDIxMzg2",
+        "url": "https://api.github.com/repos/program-in-chinese/overview/labels/%E6%B5%8F%E8%A7%88%E5%99%A8"
     },
     {
         "color": "1e0ad1",

@@ -953,6 +953,35 @@
             },
             "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTk4MTU5NTY5Mg==",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1981595692"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-30T09:13:27Z",
+            "event": "added_to_project",
+            "id": 1997413586,
+            "node_id": "MDE5OkFkZGVkVG9Qcm9qZWN0RXZlbnQxOTk3NDEzNTg2",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1997413586"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/58/events",
@@ -980,7 +1009,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 28,
+        "closed_issues": 33,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -1009,10 +1038,10 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 24,
+        "open_issues": 33,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-22T04:39:25Z",
+        "updated_at": "2018-11-30T09:57:27Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzMTI3NTc5ODQ=",

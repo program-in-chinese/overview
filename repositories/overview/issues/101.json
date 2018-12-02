@@ -3,7 +3,7 @@
     "assignees": [],
     "author_association": "MEMBER",
     "body": "background：前段时间在py教学方面有实践中文命名，后来觉得为了书写方便，自己做了约定了一套notation https://github.com/pyzh/CPN/issues/4\r\n\r\n简单说就是将编程语言更加通用化（部分数学化）的同时，通过中文命名，来节省开销。这里前面的语言指自然语言\r\n\r\n一楼主要用来更新主要的说明。举例会放到后续楼层。不过为了方便，目前先放一些例子上来。具体个人倾向于用CPN=2，即CPN-1+CPN-2。关于CPN：https://github.com/pyzh/CPN/issues/4\r\n\r\n例1：java风格的hello world\r\n\r\n```\r\n^ HelloWorld:  // CPN=2\r\n^$∅ main / args:str[] :\r\n  System`out`println \"hello world\"\r\n```\r\n\r\n```\r\n^ 你好呀： //CPN=2+中文命名\r\n^$0 main / 参:str[] : \r\n  系统`控制台`打印 \"你好”\r\n```\r\n\r\n//CPN=2，日常用法，记为PN2  # p=普通的pu\r\n```\r\n^ 你好呀： \r\n^$0 main / 参:str[] →\r\n  sys.out.print \"你好”  // 变量名保持单音节为主\r\n\r\n```\r\n\r\n",
-    "closed_at": null,
+    "closed_at": "2018-11-30T08:00:39Z",
     "comment_data": [
         {
             "author_association": "MEMBER",
@@ -35,9 +35,40 @@
                 "type": "User",
                 "url": "https://api.github.com/users/absente"
             }
+        },
+        {
+            "author_association": "MEMBER",
+            "body": "这个帖子已经完成了历史任务，可以先archive了",
+            "created_at": "2018-11-30T08:00:39Z",
+            "html_url": "https://github.com/program-in-chinese/overview/issues/101#issuecomment-443122618",
+            "id": 443122618,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/overview/issues/101",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQ0MzEyMjYxOA==",
+            "updated_at": "2018-11-30T08:00:39Z",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/comments/443122618",
+            "user": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            }
         }
     ],
-    "comments": 1,
+    "comments": 2,
     "comments_url": "https://api.github.com/repos/program-in-chinese/overview/issues/101/comments",
     "created_at": "2018-11-02T05:03:55Z",
     "event_data": [
@@ -204,6 +235,64 @@
             },
             "node_id": "MDE0OlVubGFiZWxlZEV2ZW50MTk4MTU5NTcwMA==",
             "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1981595700"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-30T08:00:39Z",
+            "event": "closed",
+            "id": 1997283736,
+            "node_id": "MDExOkNsb3NlZEV2ZW50MTk5NzI4MzczNg==",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1997283736"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
+                "events_url": "https://api.github.com/users/absente/events{/privacy}",
+                "followers_url": "https://api.github.com/users/absente/followers",
+                "following_url": "https://api.github.com/users/absente/following{/other_user}",
+                "gists_url": "https://api.github.com/users/absente/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/absente",
+                "id": 1655223,
+                "login": "absente",
+                "node_id": "MDQ6VXNlcjE2NTUyMjM=",
+                "organizations_url": "https://api.github.com/users/absente/orgs",
+                "received_events_url": "https://api.github.com/users/absente/received_events",
+                "repos_url": "https://api.github.com/users/absente/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/absente/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/absente/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/absente"
+            },
+            "commit_id": null,
+            "commit_url": null,
+            "created_at": "2018-11-30T09:09:06Z",
+            "event": "added_to_project",
+            "id": 1997404698,
+            "node_id": "MDE5OkFkZGVkVG9Qcm9qZWN0RXZlbnQxOTk3NDA0Njk4",
+            "url": "https://api.github.com/repos/program-in-chinese/overview/issues/events/1997404698"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/overview/issues/101/events",
@@ -223,7 +312,7 @@
     "locked": false,
     "milestone": {
         "closed_at": null,
-        "closed_issues": 28,
+        "closed_issues": 33,
         "created_at": "2018-07-21T10:08:05Z",
         "creator": {
             "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
@@ -252,18 +341,18 @@
         "labels_url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3/labels",
         "node_id": "MDk6TWlsZXN0b25lMzUxMzMyNg==",
         "number": 3,
-        "open_issues": 24,
+        "open_issues": 33,
         "state": "open",
         "title": "2018戊戌",
-        "updated_at": "2018-11-22T04:39:25Z",
+        "updated_at": "2018-11-30T09:57:27Z",
         "url": "https://api.github.com/repos/program-in-chinese/overview/milestones/3"
     },
     "node_id": "MDU6SXNzdWUzNzY2NzA3OTY=",
     "number": 101,
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
-    "state": "open",
+    "state": "closed",
     "title": "通过非语言特定的编程语言加上中文命名，来推广中文编程",
-    "updated_at": "2018-11-22T04:40:24Z",
+    "updated_at": "2018-11-30T08:00:39Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/101",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",
