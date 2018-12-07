@@ -42,7 +42,7 @@
         }
     ],
     "author_association": "MEMBER",
-    "body": "仓库：https://github.com/program-in-chinese/c8\r\n命名：竹\r\n主页：github.com/z75\r\n实现：typescript，erlang，python3",
+    "body": "仓库：https://github.com/program-in-chinese/c8\r\n命名：竹\r\n主页：github.com/z75\r\n实现：typescript，erlang，python3\r\n群：493643262",
     "closed_at": null,
     "comment_data": [
         {
@@ -444,7 +444,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/overview",
     "state": "open",
     "title": "实现基于中文编程的REPL",
-    "updated_at": "2018-12-01T20:13:41Z",
+    "updated_at": "2018-12-04T15:07:49Z",
     "url": "https://api.github.com/repos/program-in-chinese/overview/issues/111",
     "user": {
         "avatar_url": "https://avatars1.githubusercontent.com/u/1655223?v=4",

@@ -4,8 +4,40 @@
     "author_association": "MEMBER",
     "body": "请求升级Typescripts版本到3.2.x\r\n\r\n臣妾办不到啊!",
     "closed_at": null,
-    "comment_data": [],
-    "comments": 0,
+    "comment_data": [
+        {
+            "author_association": "MEMBER",
+            "body": "这段时间我有工作任务比较忙，过段时间我在继续这个项目",
+            "created_at": "2018-12-02T14:00:13Z",
+            "html_url": "https://github.com/program-in-chinese/CTS/issues/13#issuecomment-443509755",
+            "id": 443509755,
+            "issue_url": "https://api.github.com/repos/program-in-chinese/CTS/issues/13",
+            "node_id": "MDEyOklzc3VlQ29tbWVudDQ0MzUwOTc1NQ==",
+            "updated_at": "2018-12-02T14:00:13Z",
+            "url": "https://api.github.com/repos/program-in-chinese/CTS/issues/comments/443509755",
+            "user": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/6562192?v=4",
+                "events_url": "https://api.github.com/users/htwx/events{/privacy}",
+                "followers_url": "https://api.github.com/users/htwx/followers",
+                "following_url": "https://api.github.com/users/htwx/following{/other_user}",
+                "gists_url": "https://api.github.com/users/htwx/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/htwx",
+                "id": 6562192,
+                "login": "htwx",
+                "node_id": "MDQ6VXNlcjY1NjIxOTI=",
+                "organizations_url": "https://api.github.com/users/htwx/orgs",
+                "received_events_url": "https://api.github.com/users/htwx/received_events",
+                "repos_url": "https://api.github.com/users/htwx/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/htwx/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/htwx/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/htwx"
+            }
+        }
+    ],
+    "comments": 1,
     "comments_url": "https://api.github.com/repos/program-in-chinese/CTS/issues/13/comments",
     "created_at": "2018-12-02T08:40:31Z",
     "event_data": [
@@ -55,7 +87,7 @@
     "repository_url": "https://api.github.com/repos/program-in-chinese/CTS",
     "state": "open",
     "title": "请求升级Typescripts版本到3.2.x",
-    "updated_at": "2018-12-02T08:48:23Z",
+    "updated_at": "2018-12-02T14:00:13Z",
     "url": "https://api.github.com/repos/program-in-chinese/CTS/issues/13",
     "user": {
         "avatar_url": "https://avatars0.githubusercontent.com/u/31165554?v=4",

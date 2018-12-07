@@ -37,6 +37,35 @@
             "id": 1998728698,
             "node_id": "MDExOkNsb3NlZEV2ZW50MTk5ODcyODY5OA==",
             "url": "https://api.github.com/repos/program-in-chinese/vscode_english_chinese_dictionary/issues/events/1998728698"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/392497?v=4",
+                "events_url": "https://api.github.com/users/nobodxbodon/events{/privacy}",
+                "followers_url": "https://api.github.com/users/nobodxbodon/followers",
+                "following_url": "https://api.github.com/users/nobodxbodon/following{/other_user}",
+                "gists_url": "https://api.github.com/users/nobodxbodon/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/nobodxbodon",
+                "id": 392497,
+                "login": "nobodxbodon",
+                "node_id": "MDQ6VXNlcjM5MjQ5Nw==",
+                "organizations_url": "https://api.github.com/users/nobodxbodon/orgs",
+                "received_events_url": "https://api.github.com/users/nobodxbodon/received_events",
+                "repos_url": "https://api.github.com/users/nobodxbodon/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/nobodxbodon/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/nobodxbodon/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/nobodxbodon"
+            },
+            "commit_id": "6654009dcf3479ddb01328b9579911f379619516",
+            "commit_url": "https://api.github.com/repos/program-in-chinese/vscode_english_chinese_dictionary/commits/6654009dcf3479ddb01328b9579911f379619516",
+            "created_at": "2018-12-04T03:39:10Z",
+            "event": "referenced",
+            "id": 2003206363,
+            "node_id": "MDE1OlJlZmVyZW5jZWRFdmVudDIwMDMyMDYzNjM=",
+            "url": "https://api.github.com/repos/program-in-chinese/vscode_english_chinese_dictionary/issues/events/2003206363"
         }
     ],
     "events_url": "https://api.github.com/repos/program-in-chinese/vscode_english_chinese_dictionary/issues/10/events",
