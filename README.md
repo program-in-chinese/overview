@@ -4,8 +4,6 @@
 
 #### [诚征管理员](https://github.com/program-in-chinese/overview/issues/38)
 
-PS: 有人说鲁迅还说过，汉字不死中文必亡，其实那句话是针对文字改革和去封建化的新文化运动来说的，实际上并不足以作为，汉字无用/中文落后论的依据。
-
 ### 使用中文编写代码
 
 #### [对在代码中使用中文命名的质疑与回应](https://github.com/program-in-chinese/team_website/blob/master/docs/_posts/2017-10-27-%E5%AF%B9%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D%E7%9A%84%E8%B4%A8%E7%96%91%E4%B8%8E%E5%9B%9E%E5%BA%94.markdown)
