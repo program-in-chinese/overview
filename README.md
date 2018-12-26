@@ -9,7 +9,7 @@
 
 | 项目 | 实现简述 | 功能简述 |
 | ------------- | ------------- | ------------- |
-| [VS Code插件-离线英汉词典](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) | TypeScript | 支持驼峰和下划线命名翻译 |
+| [VS Code插件-离线英汉词典](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) | TypeScript | 支持驼峰和下划线命名翻译, 当前文件批量标识符翻译 |
 | [中文简繁字符转换库](https://github.com/program-in-chinese/zhconverter) | Java | 在Maven发布 |
 | [乘风龙王的代码库(Python)](https://github.com/cflw/cflw_py) | Python | 实用库。以网络、爬虫为主 |
 | [乘风龙王的代码库(C++)](https://github.com/cflw/cflw_cpp) | C++ | 实用库。以游戏开发为主 |
