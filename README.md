@@ -4,6 +4,16 @@
 
 #### [诚征管理员](https://github.com/program-in-chinese/overview/issues/38)
 
+### 组内活跃项目
+组内成员有活跃用户并且持续维护的开源项目
+
+| 项目 | 实现简述 | 功能简述 |
+| ------------- | ------------- | ------------- |
+| [VS Code插件-离线英汉词典](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) | TypeScript | 支持驼峰和下划线命名翻译, 当前文件批量标识符翻译 |
+| [中文简繁字符转换库](https://github.com/program-in-chinese/zhconverter) | Java | 在Maven发布 |
+| [乘风龙王的代码库(Python)](https://github.com/cflw/cflw_py) | Python | 实用库。以网络、爬虫为主 |
+| [乘风龙王的代码库(C++)](https://github.com/cflw/cflw_cpp) | C++ | 实用库。以游戏开发为主 |
+
 ### 使用中文编写代码
 
 #### [对在代码中使用中文命名的质疑与回应](https://github.com/program-in-chinese/team_website/blob/master/docs/_posts/2017-10-27-%E5%AF%B9%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D%E7%9A%84%E8%B4%A8%E7%96%91%E4%B8%8E%E5%9B%9E%E5%BA%94.markdown)
