@@ -16,13 +16,12 @@
 
 #### 其他组内开源项目目录:
 
+下面是完成度较高或有阶段成果的. 完整目录见[#126](https://github.com/program-in-chinese/overview/issues/126)
 - 代码使用中文命名
-  - [单位换算库](https://github.com/program-in-chinese/chinese-unit-converter)
   - [五笔编码编辑器](https://github.com/program-in-chinese/wubi_code_editor)
   - 源码翻译
     - 手工翻译现有项目
       - [vuejs](https://github.com/program-in-chinese/vue/tree/translate-source)
-      - [nerv.js(开头)](https://github.com/program-in-chinese/cnv)
     - 英汉词典
       - [vscode插件](https://github.com/program-in-chinese/vscode_english_chinese_dictionary)
       - [浏览器插件](https://github.com/program-in-chinese/webextension_english_chinese_dictionary)
@@ -36,11 +35,8 @@
     - [typescript 5分钟入门](https://github.com/program-in-chinese/typescript_in_5_min_zh)
     - [vuejs入门](https://github.com/program-in-chinese/vuejs_guide_zh)
     - [Java快速入门教程](https://github.com/program-in-chinese/java_in_hours_chn)
-    - [Kotlin入门教程(开头)](https://github.com/program-in-chinese/kotlin_in_hours_chn)
     - [Angular入门代码中文命名尝试](https://github.com/program-in-chinese/angular_official_tutorial_zh)
-    - [TypeScript入门教程(开头)](https://github.com/program-in-chinese/CTS_in_hours)
     - [vscode插件入门](https://github.com/program-in-chinese/vscode_helloWorld)
-    - [JavaScript入门教程(开头)](https://github.com/program-in-chinese/javascript-in-a-day-chn)
   - [万事屋](https://github.com/program-in-chinese/house_of_10000_business)
   - [中文命名的代码示例](https://github.com/program-in-chinese/study)
   - [简繁转换库](https://github.com/program-in-chinese/zhconverter) API为中文命名, 已上传到Maven
@@ -70,13 +66,11 @@
   - [clo.py](https://github.com/program-in-chinese/clo.py)
   - [xtext入门](https://github.com/program-in-chinese/xtext_tutorial_15_min_zh)
   - antlr系列
-    - [quan3](https://github.com/program-in-chinese/quan3)
+    - [quan3](https://github.com/program-in-chinese/quan3) JavaScript实现LOGO语言, 使用p5.js实现动画效果
     - [quan5](https://github.com/program-in-chinese/quan5)
     - [quan2](https://github.com/program-in-chinese/quan2)
     - [quan4](https://github.com/program-in-chinese/quan4), [quan4语言高亮插件](https://github.com/program-in-chinese/quan4-highlighter)
     - [quan1](https://github.com/program-in-chinese/quan1)
-  - [石头](https://github.com/program-in-chinese/language_shitou)
-  - [家庭关系DSL](https://github.com/program-in-chinese/DSL_FamilyRelation)
   - [孔Caml](https://github.com/program-in-chinese/CoCaml)
 
 ### 使用中文编写代码
