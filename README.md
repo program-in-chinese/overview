@@ -14,6 +14,71 @@
 | [乘风龙王的代码库(Python)](https://github.com/cflw/cflw_py) | Python | 实用库。以网络、爬虫为主 |
 | [乘风龙王的代码库(C++)](https://github.com/cflw/cflw_cpp) | C++ | 实用库。以游戏开发为主 |
 
+#### 其他组内开源项目目录:
+
+- 代码使用中文命名
+  - [单位换算库](https://github.com/program-in-chinese/chinese-unit-converter)
+  - [五笔编码编辑器](https://github.com/program-in-chinese/wubi_code_editor)
+  - 源码翻译
+    - 手工翻译现有项目
+      - [vuejs](https://github.com/program-in-chinese/vue/tree/translate-source)
+      - [nerv.js(开头)](https://github.com/program-in-chinese/cnv)
+    - 英汉词典
+      - [vscode插件](https://github.com/program-in-chinese/vscode_english_chinese_dictionary)
+      - [浏览器插件](https://github.com/program-in-chinese/webextension_english_chinese_dictionary)
+      - [Java库](https://github.com/program-in-chinese/english-chinese-dictionary)
+    - [浏览器插件实现代码翻译](https://github.com/program-in-chinese/webextension_github_code_translator)
+    - [Java代码翻译库](https://github.com/program-in-chinese/java_code_translator)
+    - [代码翻译服务](https://github.com/program-in-chinese/code_translator_service)
+    - [术语词典服务Spring Boot](https://github.com/program-in-chinese/programming_term_dictionary)
+  - 入门系列
+    - [Programming in Scala笔记](https://github.com/program-in-chinese/Programming_in_Scala_study_notes_zh)
+    - [typescript 5分钟入门](https://github.com/program-in-chinese/typescript_in_5_min_zh)
+    - [vuejs入门](https://github.com/program-in-chinese/vuejs_guide_zh)
+    - [Java快速入门教程](https://github.com/program-in-chinese/java_in_hours_chn)
+    - [Kotlin入门教程(开头)](https://github.com/program-in-chinese/kotlin_in_hours_chn)
+    - [Angular入门代码中文命名尝试](https://github.com/program-in-chinese/angular_official_tutorial_zh)
+    - [TypeScript入门教程(开头)](https://github.com/program-in-chinese/CTS_in_hours)
+    - [vscode插件入门](https://github.com/program-in-chinese/vscode_helloWorld)
+    - [JavaScript入门教程(开头)](https://github.com/program-in-chinese/javascript-in-a-day-chn)
+  - [万事屋](https://github.com/program-in-chinese/house_of_10000_business)
+  - [中文命名的代码示例](https://github.com/program-in-chinese/study)
+  - [简繁转换库](https://github.com/program-in-chinese/zhconverter) API为中文命名, 已上传到Maven
+  - [Spring Boot2演示](https://github.com/program-in-chinese/spring_boot_hello_zh)
+  - [dll中文命名](https://github.com/program-in-chinese/MathLibraryAndClient_with_API_in_Chinese)
+  - [History In Threads浏览器插件](https://github.com/program-in-chinese/HistoryInThreads_WebExtension)
+  - [汇编编译器](https://github.com/program-in-chinese/assembler-in-chinese-experiment) 在Java代码中用中文命名类/变量/方法
+  - [Spring Boot演示](https://github.com/program-in-chinese/jinxiaocun) 用中文命名Java类/变量/方法,数据库中的表格/列.
+  - [Chrome爬虫插件](https://github.com/program-in-chinese/ChromeCrawlerWildSpider)
+- 汉化现有英文API
+  - [junit4](https://github.com/program-in-chinese/junit4_in_chinese)
+  - [p5js](https://github.com/program-in-chinese/p5js_in_chinese)
+  - [C#核心库(部分)](https://github.com/program-in-chinese/HuanXiang)
+- 汉化现有编程语言
+  - [nodejs](https://github.com/program-in-chinese/zwnode)
+  - [openJDK 10](https://github.com/program-in-chinese/cn_jdk10)
+  - [实验汉化关键词效果](https://github.com/program-in-chinese/demo_keyword_design_by_code)
+  - [CTS](https://github.com/program-in-chinese/CTS)
+    - [vscode语言服务插件](https://github.com/program-in-chinese/vsc_cts)
+    - [拼音插件](https://github.com/program-in-chinese/vscpinyin)
+    - [5分钟入门](https://github.com/program-in-chinese/cts_in_5_min)
+  - [clang](https://github.com/program-in-chinese/cnlang)
+  - [TinyCC](https://github.com/program-in-chinese/tinycc_cn) [TinyCC源码关键词汉化版](https://github.com/program-in-chinese/tinycc_zh)
+- 实验编程语言
+  - [flo](https://github.com/program-in-chinese/flo)
+  - [c8](https://github.com/program-in-chinese/C8)
+  - [clo.py](https://github.com/program-in-chinese/clo.py)
+  - [xtext入门](https://github.com/program-in-chinese/xtext_tutorial_15_min_zh)
+  - antlr系列
+    - [quan3](https://github.com/program-in-chinese/quan3)
+    - [quan5](https://github.com/program-in-chinese/quan5)
+    - [quan2](https://github.com/program-in-chinese/quan2)
+    - [quan4](https://github.com/program-in-chinese/quan4), [quan4语言高亮插件](https://github.com/program-in-chinese/quan4-highlighter)
+    - [quan1](https://github.com/program-in-chinese/quan1)
+  - [石头](https://github.com/program-in-chinese/language_shitou)
+  - [家庭关系DSL](https://github.com/program-in-chinese/DSL_FamilyRelation)
+  - [孔Caml](https://github.com/program-in-chinese/CoCaml)
+
 ### 使用中文编写代码
 
 #### [对在代码中使用中文命名的质疑与回应](https://github.com/program-in-chinese/team_website/blob/master/docs/_posts/2017-10-27-%E5%AF%B9%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D%E7%9A%84%E8%B4%A8%E7%96%91%E4%B8%8E%E5%9B%9E%E5%BA%94.markdown)
@@ -21,12 +86,6 @@
 #### 关键词为英文的编程语言对中文代码的支持
 
 经初步测试, 已有至少二十多种编程语言支持中文(Unicode)命名. 列表与细节详见[这里](https://github.com/program-in-chinese/team_website/blob/master/docs/_posts/2017-10-23-%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown)
-
-#### 用中文代码编写的开源项目:
-
-| 英文关键词语言 | 中文关键词语言 | 
-| ------------- | ------------- |
-| 详见各区(字母排序): [Java](../../../Java) [JavaScript](../../../JavaScript) [Python](../../../Python)  | [易语言](http://www.5a5x.com/wode_source/etrade/), 按键精灵和TC也有类似代码分享网站 |
 
 #### 关键词为中文的编程语言和开发环境(不分先后)
 
@@ -40,67 +99,3 @@
 [一些中文编程语言](http://www.raychase.net/758)
 
 [Unicode in Ruby, Perl, Python, JavaScript, Java, Emacs Lisp, Mathematica](http://xahlee.info/comp/unicode_support_ruby_python_elisp.html)
-
-### 讨论区索引
-四大主题(中文命名, 汉化API, 汉化现有语言, 创立新语言)详见[中文编程专栏目录, 初衷和希冀](https://zhuanlan.zhihu.com/p/30882225)
-- [x] [社区运行方式讨论, 迎新](https://github.com/program-in-chinese/overview/issues/2)
-- [x] 商业化和推广
-  - [x] [跨界: 哪些中文非IT领域会偏好中文API, 编程/脚本语言?](https://github.com/program-in-chinese/overview/issues/19)
-  - [x] [如何面向中文编程(潜在)用户进行推广?](https://github.com/program-in-chinese/overview/issues/41)
-  - [x] ["中文编程"知乎专栏开通!](https://github.com/program-in-chinese/overview/issues/48)
-- [x] 中文命名
-  - [x] 索引帖 
-    - [x] [索引: 用中文代码作示例的编程教程](https://github.com/program-in-chinese/overview/issues/5)
-    - [x] [索引: 用中文编写代码的实用开源项目](https://github.com/program-in-chinese/overview/issues/6)
-  - [x] 辅助工具
-    - [x] [vsc插件实现拼音输入法](https://github.com/program-in-chinese/overview/issues/53)
-    - [x] [提议：直接实现一个支持拼音匹配中文标识符的 VSCode](https://github.com/program-in-chinese/overview/issues/55)
-  - [x] 一般讨论
-    - [ ] [汉化了十数个编译器的前辈的心得体会](https://github.com/program-in-chinese/overview/issues/13)
-    - [ ] [所有开发者母语都是中文时, 为什么大多数项目仍然选择英文命名?](https://github.com/program-in-chinese/overview/issues/18)
-    - [ ] [在注释中添加标识符的中文标注](https://github.com/program-in-chinese/overview/issues/32)
-    - [x] [编写操作系统原型](https://github.com/program-in-chinese/overview/issues/43)
-    - [x] [中文命名的特定问题, 相关风格及规范](https://github.com/program-in-chinese/overview/issues/45)
-    - [ ] [怎么对变量和函数命名?](https://github.com/program-in-chinese/overview/issues/57)
-- [x] 汉化API
-  - [x] [把最常用的开源的英文API进行中文化](https://github.com/program-in-chinese/overview/issues/9)
-  - [ ] [JUnit中文化的原型验证](https://github.com/program-in-chinese/overview/issues/10)
-  - [ ] [将p5js的API中文化](https://github.com/program-in-chinese/overview/issues/20)
-  - [ ] [尝试JDK汉化](https://github.com/program-in-chinese/overview/issues/37)
-  - [x] [写了一个Android上用脚本和中文API编程的项目](https://github.com/program-in-chinese/overview/issues/51)
-  - [x] [参考MSDN，试搞.NET类库标识符的翻译版](https://github.com/program-in-chinese/overview/issues/54)
-  - [x] [有能力者可考虑对小程序编程进行汉化，更实际](https://github.com/program-in-chinese/overview/issues/58)
-- [x] 汉化现有语言
-  - [ ] [简单汉化的 C# 整数型/逻辑型/文本型/小数型](https://github.com/program-in-chinese/overview/issues/23)
-  - [ ] [将Prolog中文化](https://github.com/program-in-chinese/overview/issues/24)
-  - [x] [索引: 对现有编程语言的英文关键词进行汉化或者再创造的实例](https://github.com/program-in-chinese/overview/issues/25)
-  - [ ] [基于现有语言的语法, 实现一个对应的中文版本](https://github.com/program-in-chinese/overview/issues/36)
-  - [x] [中文化 C, C++, Objective-C 需要什么样的关键字?](https://github.com/program-in-chinese/overview/issues/40)
-- [x] 创立新语言
-  - [x] 实践
-    - [x] [我實現了一個中文的簡單的Lisp](https://github.com/program-in-chinese/overview/issues/56)
-    - [ ] [函數式中文語言](https://github.com/program-in-chinese/overview/issues/60)
-    - [ ] [简单易用的中文编程(脚本)语言原型](https://github.com/program-in-chinese/overview/issues/33)
-  - [x] 调研
-    - [ ] [游戏设计领域对中文编程(语言)的需求](https://github.com/program-in-chinese/overview/issues/22)
-    - [x] [实践已有的语言：体验用易语言、易语言.飞扬](https://github.com/program-in-chinese/overview/issues/52)
-    - [x] [Open source Non-English-based programming languages 开源非英文关键词编程语言](https://github.com/program-in-chinese/overview/issues/39)
-    - [ ] [对日语编程语言Nadesiko, なでしこ的功能和源码学习](https://github.com/program-in-chinese/overview/issues/46)
-    - [ ] [单字富指令型中文（还加韩文）编程语言 Sclipting](https://github.com/program-in-chinese/overview/issues/50)
-  - [x] 一般讨论
-    - [x] [讨论: 适合中文用户的编程语言和IDE, 侧重于现有语言/IDE不具备的特性](https://github.com/program-in-chinese/overview/issues/11)
-    - [ ] [关于建立个制作委员会, 通过模仿现有编程语言的标准（如C和javascript）来实现汉语编程语言（中文编程）的发展](https://github.com/program-in-chinese/overview/issues/28)
-    - [x] [为量子计算设计的中文编程语言](https://github.com/program-in-chinese/overview/issues/29)
-    - [ ] [如果能够做到以下这些，我相信中文编程语言一定能取得颠覆性成功](https://github.com/program-in-chinese/overview/issues/31)
-    - [ ] [中文编程历史](https://github.com/program-in-chinese/overview/issues/47)
-    - [ ] [天生支持i18n的程序语言汇总](https://github.com/program-in-chinese/overview/issues/59)
-- [x] 编码问题
-  - [x] [GBK<->UTF8 互转问题: Maven checkstyle输出乱码](https://github.com/program-in-chinese/overview/issues/26)
-  - [ ] [升级MacOS从Yosemite(10.10)到Sierra(10.12.6)后git 2.11在命令行输出乱码](https://github.com/program-in-chinese/overview/issues/27)
-- [x] 不辩不明
-  - [x] [索引: 在其他论坛关于用中文编写代码的讨论](https://github.com/program-in-chinese/overview/issues/3) 
-  - [x] [专用帖: 对中文编程的质疑, 困惑, 批评, 吐槽请到此处](https://github.com/program-in-chinese/overview/issues/44)
-- [x] 社区维护
-  - [ ] [备份所有issue讨论](https://github.com/program-in-chinese/overview/issues/1)
-  - [ ] [讨论组的主页, 对外名称, 徽标?](https://github.com/program-in-chinese/overview/issues/12)
-  - [x] [请自荐: 讨论组管理员](https://github.com/program-in-chinese/overview/issues/38)
