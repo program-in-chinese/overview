@@ -28,7 +28,7 @@
     - [术语词典服务Spring Boot](https://github.com/program-in-chinese/programming_term_dictionary)
   - 入门系列
     - 原创 [Java快速入门教程](https://github.com/program-in-chinese/java_in_hours_chn)
-    - 读书笔记 [Programming in Scala](https://github.com/program-in-chinese/Programming_in_Scala_study_notes_zh)
+    - 读书笔记 [Programming in Scala](https://github.com/program-in-chinese/Programming_in_Scala_study_notes_zh)
     - 官方入门教程 [TypeScript5分钟](https://github.com/program-in-chinese/typescript_in_5_min_zh), [Vue.js](https://github.com/program-in-chinese/vuejs_guide_zh), [Angular](https://github.com/program-in-chinese/angular_official_tutorial_zh), [VS Code插件开发](https://github.com/program-in-chinese/vscode_helloWorld),[Xtext](https://github.com/program-in-chinese/xtext_tutorial_15_min_zh)
   - [万事屋](https://github.com/program-in-chinese/house_of_10000_business) 实用项目咨询
   - [中文命名的例程集锦](https://github.com/program-in-chinese/study)
@@ -52,7 +52,7 @@
   - [c8](https://github.com/program-in-chinese/C8)
   - [clo.py](https://github.com/program-in-chinese/clo.py)
   - Antlr4系列
-    - [圈3](https://github.com/program-in-chinese/quan3) JavaScript实现LOGO语言, 使用p5.js实现动画效果
+    - [圈3](https://github.com/program-in-chinese/quan3) JavaScript实现LOGO语言, 使用p5.js实现动画效果
     - [圈5](https://github.com/program-in-chinese/quan5) Java实现
     - [圈4](https://github.com/program-in-chinese/quan4), [圈4语言VS Code语法高亮插件](https://github.com/program-in-chinese/quan4-highlighter)
   - [孔Caml](https://github.com/program-in-chinese/CoCaml)
