@@ -20,6 +20,7 @@
 | [乘风龙王的代码库(Python)](https://github.com/cflw/cflw_py) | Python | 实用库。以网络、爬虫为主 |
 | [乘风龙王的代码库(C++)](https://github.com/cflw/cflw_cpp) | C++ | 实用库。以游戏开发为主 |
 | [【Librian】簡明強大的 Galgame + Visual Novel 引擎](https://github.com/RimoChan/Librian) | Python + CoffeeScript | 容易上手的文字冒險遊戲引擎。 |
+| [一個實驗性程式語言](https://gitlab.com/the-language/the-language/) | Racket+Typescript+... | 一個實驗性程式語言 |
 
 #### 其他组内开源项目:
 
