@@ -86,3 +86,10 @@
 [一些中文编程语言](http://www.raychase.net/758)
 
 [Unicode in Ruby, Perl, Python, JavaScript, Java, Emacs Lisp, Mathematica](http://xahlee.info/comp/unicode_support_ruby_python_elisp.html)
+
+
+### 市场占有率较低的语言的非官方中文文档
+
+[ChezScheme](https://github.com/guenchi/csug)
+[ChezScheme9.4](https://github.com/Krysl/csug94cn)
+[Racket](https://github.com/OnRoadZy/RacketGuideInChinese)
