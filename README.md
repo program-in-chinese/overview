@@ -93,3 +93,4 @@
 [ChezScheme](https://github.com/guenchi/csug)
 [ChezScheme9.4](https://github.com/Krysl/csug94cn)
 [Racket](https://github.com/OnRoadZy/RacketGuideInChinese)
+[编程语言基础：Agda 描述](https://github.com/Agda-zh/PLFA-zh)
