@@ -73,7 +73,7 @@
 
 #### 关键词为英文的编程语言对中文代码的支持
 
-经初步测试, 已有至少二十多种编程语言支持中文(Unicode)命名. 列表与细节详见[这里](https://github.com/program-in-chinese/team_website/blob/master/docs/_posts/2017-10-23-%E5%9C%A8%E5%90%84%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown)
+经初步测试, 已有至少二十多种编程语言支持中文(Unicode)命名. 列表与细节详见[这里](https://github.com/program-in-chinese/team_website/blob/master/_posts/2017-10-23-%E5%9C%A8%E5%90%84%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown)
 
 #### 关键词为中文的编程语言和开发环境(不分先后)
 
