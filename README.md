@@ -87,3 +87,5 @@
 [一些中文编程语言](http://www.raychase.net/758)
 
 [Unicode in Ruby, Perl, Python, JavaScript, Java, Emacs Lisp, Mathematica](http://xahlee.info/comp/unicode_support_ruby_python_elisp.html)
+
+[部分编程语言的中文文档](部分编程语言的中文文档.md)
