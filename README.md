@@ -20,6 +20,7 @@
 | [乘风龙王的代码库(Python)](https://github.com/cflw/cflw_py) | Python | 实用库。以网络、爬虫为主 |
 | [乘风龙王的代码库(C++)](https://github.com/cflw/cflw_cpp) | C++ | 实用库。以游戏开发为主 |
 | [【Librian】簡明強大的 Galgame + Visual Novel 引擎](https://github.com/RimoChan/Librian) | Python + CoffeeScript | 容易上手的文字冒險遊戲引擎。 |
+| [一個實驗性程式語言](https://gitlab.com/the-language/the-language/) | Racket+Typescript+... | 一個實驗性程式語言 |
 
 #### 其他组内开源项目:
 
@@ -72,7 +73,7 @@
 
 #### 关键词为英文的编程语言对中文代码的支持
 
-经初步测试, 已有至少二十多种编程语言支持中文(Unicode)命名. 列表与细节详见[这里](https://github.com/program-in-chinese/team_website/blob/master/docs/_posts/2017-10-23-%E5%9C%A8%E5%90%84%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown)
+经初步测试, 已有至少二十多种编程语言支持中文(Unicode)命名. 列表与细节详见[这里](https://github.com/program-in-chinese/team_website/blob/master/_posts/2017-10-23-%E5%9C%A8%E5%90%84%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown)
 
 #### 关键词为中文的编程语言和开发环境(不分先后)
 
@@ -86,3 +87,5 @@
 [一些中文编程语言](http://www.raychase.net/758)
 
 [Unicode in Ruby, Perl, Python, JavaScript, Java, Emacs Lisp, Mathematica](http://xahlee.info/comp/unicode_support_ruby_python_elisp.html)
+
+[部分编程语言的中文文档](部分编程语言的中文文档.md)
