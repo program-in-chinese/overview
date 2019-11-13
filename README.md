@@ -2,8 +2,8 @@
 
 ## 其实地上本没有路，走的人多了，也便成了路。 —— 《故乡》鲁迅
 
-### 请阅[社区守则](CODE_OF_CONDUCT.md). 欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues). 初来乍到请在[迎新贴](https://github.com/program-in-chinese/overview/issues/2)了解各位组员. 更广泛的中文编程QQ群(620225373)[成员表](qq群/成员表.md). 
-### 最新文章请阅[中文编程知乎专栏](https://zhuanlan.zhihu.com/codeInChinese). 如质疑本组目标请到[专题贴](https://github.com/program-in-chinese/overview/issues/44). 
+### 请阅[社区守则](CODE_OF_CONDUCT.md)。欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues)。初来乍到请在[迎新贴](https://github.com/program-in-chinese/overview/issues/2)了解各位组员。如心存疑虑请移步[专题贴](https://github.com/program-in-chinese/overview/issues/44)。
+### 最新文章请阅[中文编程知乎专栏](https://zhuanlan.zhihu.com/codeInChinese)。更广泛的中文编程QQ群(620225373)[成员表](qq群/成员表.md)。
 
 ### 组内活跃项目
 有活跃用户并且持续维护的开源项目
