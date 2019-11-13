@@ -3,14 +3,6 @@
 ### 请阅[社区守则](CODE_OF_CONDUCT.md). 欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues). 初来乍到请在[迎新贴](https://github.com/program-in-chinese/overview/issues/2)了解各位组员. 更广泛的中文编程QQ群(620225373)[成员表](qq群/成员表.md). 
 ### 最新文章请阅[中文编程知乎专栏](https://zhuanlan.zhihu.com/codeInChinese). 如质疑本组目标请到[专题贴](https://github.com/program-in-chinese/overview/issues/44). 
 
-更多中文编程推广内情, 请关注微信公众号"用中文编程":
-
-![微信公众号二维码](图标/二维码/微信公众号.jpg)
-
-同名今日头条号, 更专注中文编程的实用技术:
-
-<img src="图标/二维码/今日头条.jpeg" alt="今日头条二维码" width="300" height="300">
-
 ### 组内活跃项目
 有活跃用户并且持续维护的开源项目
 
@@ -90,3 +82,14 @@
 [Unicode in Ruby, Perl, Python, JavaScript, Java, Emacs Lisp, Mathematica](http://xahlee.info/comp/unicode_support_ruby_python_elisp.html)
 
 [部分编程语言的中文文档](部分编程语言的中文文档.md)
+
+### 自媒体号
+
+更多中文编程推广内情, 请关注微信公众号"用中文编程":
+
+![微信公众号二维码](图标/二维码/微信公众号.jpg)
+
+同名今日头条号, 更专注中文编程的实用技术:
+
+<img src="图标/二维码/今日头条.jpeg" alt="今日头条二维码" width="300" height="300">
+
