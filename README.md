@@ -43,6 +43,7 @@
   - [汇编编译器未完原型](https://github.com/program-in-chinese/assembler-in-chinese-experiment) Java
   - [Spring Boot演示](https://github.com/program-in-chinese/jinxiaocun) 用中文命名Java类/变量/方法,数据库中的表格/列 [Spring Boot2演示](https://github.com/program-in-chinese/spring_boot_hello_zh)
   - [Chrome爬虫插件](https://github.com/program-in-chinese/ChromeCrawlerWildSpider) JavaScript
+  - [中文Vue前端开发框架](https://github.com/mandolin/hia-multilingual-vue-template) Vue 前端
 - 汉化现有英文API: [junit4](https://github.com/program-in-chinese/junit4_in_chinese), [p5js](https://github.com/program-in-chinese/p5js_in_chinese), [C#核心库(部分)](https://github.com/program-in-chinese/HuanXiang)
 - 汉化现有编程语言. [通过例程检验汉化关键词效果](https://github.com/program-in-chinese/demo_keyword_design_by_code)
   - TypeScript工具链中文化 [CTS](https://github.com/program-in-chinese/CTS)
