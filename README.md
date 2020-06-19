@@ -10,6 +10,7 @@
 
 | 项目 | 实现简述 | 功能简述 |
 | ------------- | ------------- | ------------- |
+| [草蟒](https://www.oschina.net/p/grasspy) | Python | 基于 Python 的全中文编程语言，包括中文 API 等|
 | [VS Code 插件 - 中文代码快速补全](https://github.com/program-in-chinese/vscode_Chinese_Input_Assistant) | JavaScript | 支持各种编程语言，英文状态下匹配中文标识符（现支持全拼、双拼、五笔） |
 | [VS Code 插件 - 离线英汉词典](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) | TypeScript | 支持驼峰和下划线命名翻译, 当前文件批量标识符翻译 |
 | [中文简繁字符转换库](https://github.com/program-in-chinese/zhconverter) | Java | 在Maven发布 |
