@@ -1,4 +1,9 @@
-# 2019/11：[“中文编程”知乎专栏两岁了——山雨欲来风满楼](https://zhuanlan.zhihu.com/p/91353256)
+### 欢迎使用[![中文编程](https://gitee.com/Program-in-Chinese/overview/raw/master/%E4%B8%AD%E6%96%87%E7%BC%96%E7%A8%8B.png)](https://gitee.com/Program-in-Chinese/overview)徽章，拷贝以下代码即可：
+```
+[![中文编程](https://gitee.com/Program-in-Chinese/overview/raw/master/%E4%B8%AD%E6%96%87%E7%BC%96%E7%A8%8B.png)](https://gitee.com/Program-in-Chinese/overview)
+```
+
+【2019/11】[“中文编程”知乎专栏两岁了——山雨欲来风满楼](https://zhuanlan.zhihu.com/p/91353256)
 
 ## 其实地上本没有路，走的人多了，也便成了路。 —— 《故乡》鲁迅
 
