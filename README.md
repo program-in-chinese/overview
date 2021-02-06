@@ -16,6 +16,7 @@
 
 | 项目 | 实现简述 | 功能简述 |
 | ------------- | ------------- | ------------- |
+| [Klang](https://gitee.com/HTWX/klang_dlang) | TypeScript | 跨平台, 高并发系统级编程语言，支持中英文语法，实现使用中文命名 |
 | [木兰编程语言重现](https://gitee.com/MulanRevive/mulan-rework) | Python | [ulang 已发布在 PyPI](https://zhuanlan.zhihu.com/p/265695809)，实现使用中文命名 |
 | [草蟒](https://www.oschina.net/p/grasspy) | Python | 基于 Python 的全中文编程语言，包括中文 API 等|
 | [VS Code 插件 - 中文代码快速补全](https://github.com/program-in-chinese/vscode_Chinese_Input_Assistant) | JavaScript | 支持各种编程语言，英文状态下匹配中文标识符（现支持全拼、双拼、五笔） |
