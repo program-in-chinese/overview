@@ -11,7 +11,17 @@
 ### 请阅[社区守则](CODE_OF_CONDUCT.md)。欢迎[畅所欲言](https://github.com/program-in-chinese/overview/issues)。初来乍到请在[迎新贴](https://github.com/program-in-chinese/overview/issues/2)了解各位组员。如心存疑虑请移步[专题贴](https://github.com/program-in-chinese/overview/issues/44)。
 ### 最新文章请阅[中文编程知乎专栏](https://zhuanlan.zhihu.com/codeInChinese)。更广泛的中文编程QQ群(620225373)[成员表](qq群/成员表.md)。
 
-### 组内活跃项目
+### 相关项目
+
+#### 组外项目
+
+| 项目 | 实现 | 简述 |
+| ------------- | ------------- | ------------- |
+[QuickCut](https://github.com/HaujetZhao/QuickCut) [Gitee 库](https://gitee.com/haujet/QuickCut) |  Python [中文命名](https://github.com/HaujetZhao/QuickCut/blob/fffcd799c5ee6bb457dddbf0acfcbbea3522a36a/QuickCut/QuickCut.py#L424) | 轻量、强大、好用的音视频处理、下载工具
+[CapsWriter](https://github.com/HaujetZhao/CapsWriter) [Gitee 库](https://gitee.com/haujet/CapsWriter) | Python [中文命名](https://github.com/HaujetZhao/CapsWriter/blob/f2b2038a2c0984a1d356f024cbac421fe594601a/src/moduels/component/NormalValue.py) | 电脑语音输入工具
+[BullshitGenerator](狗屁不通文章生成器) | Python [中文命名](https://github.com/menzi11/BullshitGenerator/blob/e783aa0aa6cc4d1e00ba5369515ff787f72b7601/%E8%87%AA%E5%8A%A8%E7%8B%97%E5%B1%81%E4%B8%8D%E9%80%9A%E6%96%87%E7%AB%A0%E7%94%9F%E6%88%90%E5%99%A8.py) |
+
+#### 组内活跃项目
 有活跃用户并且持续维护的开源项目
 
 | 项目 | 实现简述 | 功能简述 |
@@ -27,7 +37,7 @@
 | [【Librian】簡明強大的 Galgame + Visual Novel 引擎](https://github.com/RimoChan/Librian) | Python + CoffeeScript | 容易上手的文字冒險遊戲引擎。 |
 | [一個實驗性程式語言](https://gitlab.com/the-language/the-language/) | Racket+Typescript+... | 一個實驗性程式語言 |
 
-#### 其他组内开源项目:
+#### 组内其他开源项目:
 
 下面是完成度较高或有阶段成果的. 完整目录见[#126](https://github.com/program-in-chinese/overview/issues/126)
 - 代码使用中文命名
