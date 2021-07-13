@@ -19,7 +19,7 @@
 | ------------- | ------------- | ------------- |
 [QuickCut](https://github.com/HaujetZhao/QuickCut) [Gitee 库](https://gitee.com/haujet/QuickCut) |  Python [中文命名](https://github.com/HaujetZhao/QuickCut/blob/fffcd799c5ee6bb457dddbf0acfcbbea3522a36a/QuickCut/QuickCut.py#L424) | 轻量、强大、好用的音视频处理、下载工具
 [CapsWriter](https://github.com/HaujetZhao/CapsWriter) [Gitee 库](https://gitee.com/haujet/CapsWriter) | Python [中文命名](https://github.com/HaujetZhao/CapsWriter/blob/f2b2038a2c0984a1d356f024cbac421fe594601a/src/moduels/component/NormalValue.py) | 电脑语音输入工具
-[BullshitGenerator](狗屁不通文章生成器) | Python [中文命名](https://github.com/menzi11/BullshitGenerator/blob/e783aa0aa6cc4d1e00ba5369515ff787f72b7601/%E8%87%AA%E5%8A%A8%E7%8B%97%E5%B1%81%E4%B8%8D%E9%80%9A%E6%96%87%E7%AB%A0%E7%94%9F%E6%88%90%E5%99%A8.py) |
+[狗屁不通文章生成器](https://github.com/menzi11/BullshitGenerator) | Python [中文命名](https://github.com/menzi11/BullshitGenerator/blob/e783aa0aa6cc4d1e00ba5369515ff787f72b7601/%E8%87%AA%E5%8A%A8%E7%8B%97%E5%B1%81%E4%B8%8D%E9%80%9A%E6%96%87%E7%AB%A0%E7%94%9F%E6%88%90%E5%99%A8.py) |
 
 #### 组内活跃项目
 有活跃用户并且持续维护的开源项目
